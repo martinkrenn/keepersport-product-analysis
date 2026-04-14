@@ -1,0 +1,593 @@
+ParentSKU,Marke,ProductName,Farbcode,Current_Basisfarbe,Current_Highlight_1,Cut,Color_confidence,Resolution_source,Revenue_EUR,Flag
+KS10011-091,KEEPERsport,KEEPERsport Varan6 Challenge NC TW-Hand,091,black,white,Negative Cut,high,mcp_ks,130860.0,MCP_KS_VERIFY
+KS10029-091,KEEPERsport,KEEPERsport Varan7 Champ NC Whiteout TW,091,white,,Negative Cut,high,mcp_ks,121849.0,MCP_KS_VERIFY
+KS10021-901,KEEPERsport,KEEPERsport Varan7 Champ NC Blackout TW,901,black,,Negative Cut,high,mcp_ks,119440.0,MCP_KS_VERIFY
+KS10030-804,KEEPERsport,KEEPERsport Torwarthandschuhe Weiß,804,white,blue,Negative Cut,high,mcp_ks,115077.0,MCP_KS_VERIFY
+KS10050-804,KEEPERsport,KEEPERsport Varan8 Champ Torwarthandsch,804,white,,Negative Cut,high,mcp_ks,112394.0,MCP_KS_VERIFY
+KS10021-701,KEEPERsport,KEEPERsport Varan7 Champ NC TW-Handschu,701,white,blue,Negative Cut,high,mcp_ks,111436.0,MCP_KS_VERIFY
+KS10022-416,KEEPERsport,KEEPERsport Varan7 Champ NC Aqua TW-Han,416,white,blue,Negative Cut,high,mcp_ks,110957.0,MCP_KS_VERIFY
+KS10028-407,KEEPERsport,KEEPERsport Varan7 Challenge NC TW-Hand,407,blue,,Negative Cut,high,mcp_ks,109995.0,MCP_KS_VERIFY
+KS10021-010,KEEPERsport,KEEPERsport Varan7 Champ NC TW-Handschu,010,yellow,black,Negative Cut,high,mcp_ks,105232.0,MCP_KS_VERIFY
+KS10021-066,KEEPERsport,KEEPERsport Varan7 Champ NC TW-Handschu,066,red,white,Negative Cut,high,mcp_ks,104712.0,MCP_KS_VERIFY
+KS10020-701,KEEPERsport,KEEPERsport Varan7 Hero NC TW-Handschuh,701,white,blue,Negative Cut,high,mcp_ks,103225.0,MCP_KS_VERIFY
+KS10021-001,KEEPERsport,KEEPERsport Varan7 Champ NC Whiteout TW,001,white,,Negative Cut,high,mcp_ks,98398.0,MCP_KS_VERIFY
+KS10025-010,KEEPERsport,KEEPERsport Varan7 Pro NC TW-Handschuhe,010,yellow,black,Negative Cut,high,mcp_ks,92302.0,MCP_KS_VERIFY
+KS10029-909,KEEPERsport,KEEPERsport Varan7 Champ NC Blackout TW,909,black,,Negative Cut,high,mcp_ks,89731.0,MCP_KS_VERIFY
+KS10025-901,KEEPERsport,KEEPERsport Varan7 Pro NC Blackout TW-H,901,black,,Negative Cut,high,mcp_ks,87609.0,MCP_KS_VERIFY
+KS10027-908,KEEPERsport,KEEPERsport Varan7 Premier Resist NC,908,yellow,black,Negative Cut,high,mcp_ks,79293.0,MCP_KS_VERIFY
+KS10026-010,KEEPERsport,KEEPERsport Varan7 Premier NC TW-Handsc,010,yellow,black,Negative Cut,high,mcp_ks,77938.0,MCP_KS_VERIFY
+KS10026-701,KEEPERsport,KEEPERsport Varan7 Premier NC TW-Handsc,701,red,white,Negative Cut,high,mcp_ks,76183.0,MCP_KS_VERIFY
+KS10025-701,KEEPERsport,KEEPERsport Varan7 Pro NC TW-Handschuhe,701,red,white,Negative Cut,high,mcp_ks,74831.0,MCP_KS_VERIFY
+KS10026-907,KEEPERsport,KEEPERsport Varan7 Premier NC TW-Handsc,907,white,green,Negative Cut,high,mcp_ks,68889.0,MCP_KS_VERIFY
+KS10027-563,KEEPERsport,KEEPERsport Varan7 Premier Resist NC TW,563,black,,Negative Cut,high,mcp_ks,64250.0,MCP_KS_VERIFY
+KS10030-903,KEEPERsport,KEEPERsport Varan8 Hero NC,903,black,,Negative Cut,high,mcp_ks,63438.0,MCP_KS_VERIFY
+KS10070-804,KEEPERsport,KEEPERsport Varan8 Pro NC TW-Handschuhe,804,white,blue,Negative Cut,high,mcp_ks,63148.0,MCP_KS_VERIFY
+KS10021-471,KEEPERsport,KEEPERsport Varan7 Champ NC TW-Handschu,471,black,turquoise,Negative Cut,high,mcp_ks,62330.0,MCP_KS_VERIFY
+KS10026-066,KEEPERsport,KEEPERsport Varan7 Premier NC TW-Handsc,066,red,white,Negative Cut,high,mcp_ks,61459.0,MCP_KS_VERIFY
+KS10020-066,KEEPERsport,KEEPERsport Varan7 Hero NC TW-Handschuh,066,red,white,Negative Cut,high,mcp_ks,58863.0,MCP_KS_VERIFY
+KS10025-066,KEEPERsport,KEEPERsport Varan7 Pro NC TW-Handschuhe,066,red,white,Negative Cut,high,mcp_ks,58818.0,MCP_KS_VERIFY
+KS10020-471,KEEPERsport,KEEPERsport Varan7 Hero NC TW-Handschuh,471,black,turquoise,Negative Cut,high,mcp_ks,58681.0,MCP_KS_VERIFY
+KS10040-804,KEEPERsport,KEEPERsport Varan8 Premier NC Torwartha,804,white,blue,Negative Cut,high,mcp_ks,58150.0,MCP_KS_VERIFY
+KS10028-701,KEEPERsport,KEEPERsport Varan7 Challenge NC TW-Hand,701,blue,,Negative Cut,high,mcp_ks,57771.0,MCP_KS_VERIFY
+KS10060-804,KEEPERsport,KEEPERsport Varan8 Challenge NC,804,white,,Negative Cut,high,mcp_ks,56962.0,MCP_KS_VERIFY
+U1011373-001,uhlsport,uhlsport FM Cybertec Ultragrip HN Torwa,,white,blue,Negative Cut,medium,mcp,55323.0,MEDIUM_CONF
+KS10050-903,KEEPERsport,KEEPERsport Varan8 Champ NC Demon Torwa,903,black,,Negative Cut,high,mcp_ks,54512.0,MCP_KS_VERIFY
+KS10025-471,KEEPERsport,KEEPERsport Varan7 Pro NC TW-Handschuhe,471,turquoise,,Negative Cut,high,mcp_ks,52383.0,MCP_KS_VERIFY
+KS10020-001,KEEPERsport,KEEPERsport Varan7 Hero NC Blackout TW-,001,black,white,Negative Cut,high,mcp_ks,51136.0,MCP_KS_VERIFY
+KS10022-406,KEEPERsport,KEEPERsport Varan7 Champ NC Aqua TW-Han,406,blue,,Negative Cut,high,mcp_ks,50566.0,MCP_KS_VERIFY
+U1011375-001,uhlsport,uhlsport FM Cybertec Supergrip+ HN Torw,,white,blue,Negative Cut,medium,mcp,46262.0,MEDIUM_CONF
+U1011379-001,uhlsport,uhlsport FM Cybertec Absolutgrip HN Tor,,white,blue,Negative Cut,medium,mcp,44794.0,MEDIUM_CONF
+KS10023-066,KEEPERsport,KEEPERsport Varan7 Champ Power TW-Hands,066,red,white,Hybrid,high,mcp_ks,44273.0,MCP_KS_VERIFY
+KS10051-804,KEEPERsport,KEEPERsport Varan8 Champ Power Demon To,804,black,green,Hybrid,high,mcp_ks,44234.0,MCP_KS_VERIFY
+KS10030-423,KEEPERsport,KEEPERsport Varan8 Hero NC Torwarthands,423,blue,,Negative Cut,high,mcp_ks,43934.0,MCP_KS_VERIFY
+KS10024-471,KEEPERsport,KEEPERsport Varan7 Champ GC TW-Handschu,471,black,turquoise,Rollfinger,high,mcp_ks,37888.0,MCP_KS_VERIFY
+KS10023-471,KEEPERsport,KEEPERsport Varan7 Champ Power TW-Hands,471,black,turquoise,Hybrid,high,mcp_ks,36476.0,MCP_KS_VERIFY
+KS10028-066,KEEPERsport,KEEPERsport Varan7 Challenge NC TW-Hand,066,red,white,Negative Cut,high,mcp_ks,35772.0,MCP_KS_VERIFY
+KS10024-066,KEEPERsport,KEEPERsport Varan7 Champ GC TW-Handschu,066,red,white,Rollfinger,high,mcp_ks,34924.0,MCP_KS_VERIFY
+KS10023-010,KEEPERsport,KEEPERsport Varan7 Champ Power TW-Hands,010,yellow,black,Hybrid,high,mcp_ks,32677.0,MCP_KS_VERIFY
+KS10001-633,KEEPERsport,KEEPERsport Varan6 Hero NC Torwarthands,633,yellow,black,,high,mcp_ks,31947.0,MCP_KS_VERIFY
+KS10050-555,KEEPERsport,KEEPERsport Varan8 Champ NC Raw Impact,555,green,,Negative Cut,high,mcp_ks,30853.0,MCP_KS_VERIFY
+U1011371-001,uhlsport,uhlsport FM Cybertec Ultragrip SC Torwa,,white,blue,Hybrid,medium,mcp,30264.0,MEDIUM_CONF
+KS10051-903,KEEPERsport,KEEPERsport Varan8 Champ Power Demon To,903,black,,Negative Cut,high,mcp_ks,29996.0,MCP_KS_VERIFY
+KS10071-804,KEEPERsport,KEEPERsport Torwarthandschuhe Weiß,804,white,blue,Rollfinger,high,mcp_ks,28202.0,MCP_KS_VERIFY
+U1011378-001,uhlsport,uhlsport FM Cybertec Absolutgrip HN Fit,,white,blue,Negative Cut,medium,mcp,28140.0,MEDIUM_CONF
+KS10060-903,KEEPERsport,KEEPERsport Varan8 Challenge NC Demon T,903,black,,Negative Cut,high,mcp_ks,27841.0,MCP_KS_VERIFY
+KS10081-755,KEEPERsport,KEEPERsport Varan8 Zone NC Torwarthands,755,red,,Negative Cut,high,mcp_ks,27451.0,MCP_KS_VERIFY
+KS10026-471,KEEPERsport,KEEPERsport Varan7 Premier NC TW-Handsc,471,black,turquoise,Negative Cut,high,mcp_ks,26906.0,MCP_KS_VERIFY
+KS10070-903,KEEPERsport,KEEPERsport Varan8 Pro NC Demon Torwart,903,black,,Negative Cut,high,mcp_ks,26834.0,MCP_KS_VERIFY
+U1011372-001,uhlsport,uhlsport FM Cybertec Ultragrip Torwarth,,white,,Negative Cut,medium,mcp,26757.0,MEDIUM_CONF
+KS10002-633,KEEPERsport,KEEPERsport Varan6 Hero Power TW-Handsc,633,yellow,black,,high,mcp_ks,25670.0,MCP_KS_VERIFY
+KS10081-903,KEEPERsport,KEEPERsport Varan8 Zone NC Demon Torwar,903,black,green,Negative Cut,high,mcp_ks,25632.0,MCP_KS_VERIFY
+U101137301-2000,uhlsport,uhlsport FM Cybertec Maignan Ultragrip,,white,orange,Hybrid,medium,mcp,25262.0,MEDIUM_CONF
+KS10024-010,KEEPERsport,KEEPERsport Varan7 Champ GC TW-Handschu,010,yellow,black,Rollfinger,high,mcp_ks,24837.0,MCP_KS_VERIFY
+U1011377-001,uhlsport,uhlsport FM Cybertec Absolutgrip SC Tor,,white,blue,Hybrid,medium,mcp,24527.0,MEDIUM_CONF
+U1011374-001,uhlsport,uhlsport FM Cybertec Supergrip+ Finger,,white,blue,Hybrid,medium,mcp,24336.0,MEDIUM_CONF
+KS10070-166,KEEPERsport,KEEPERsport Varan8 Pro NC Torwarthandsc,166,black,green,Negative Cut,high,mcp_ks,24210.0,MCP_KS_VERIFY
+KS10080-804,KEEPERsport,KEEPERsport Varan8 Zone RC TW-Handschuh,804,white,,Regular Cut,high,mcp_ks,24189.0,MCP_KS_VERIFY
+KS10020-010,KEEPERsport,KEEPERsport Varan7 Hero NC TW-Handschuh,010,yellow,black,Negative Cut,high,mcp_ks,23976.0,MCP_KS_VERIFY
+KS10007-116,KEEPERsport,KEEPERsport Varan6 Premier NC TW-Handsc,116,red,green,Negative Cut,high,mcp_ks,23376.0,MCP_KS_VERIFY
+P042120-01,Puma,PUMA X Ks Future Ultimate Nc Torwarthan,,white,,Negative Cut,medium,mcp,22743.0,MEDIUM_CONF
+KS10014-413,KEEPERsport,KEEPERsport Zone RC,413,black,blue,Regular Cut,high,mcp_ks,22608.0,MCP_KS_VERIFY
+KS10028-471,KEEPERsport,KEEPERsport Varan7 Challenge NC TW-Hand,471,black,turquoise,Negative Cut,high,mcp_ks,22131.0,MCP_KS_VERIFY
+10371749_JY6300_JY6300,adidas,Adidas Predator Pro Hybrid Born for Goal,,red,white,,medium,mcp,20940.0,MEDIUM_CONF
+KS10028-010,KEEPERsport,KEEPERsport Varan7 Challenge NC TW-Hand,010,yellow,black,Negative Cut,high,mcp_ks,19754.0,MCP_KS_VERIFY
+U101137901-2000,uhlsport,uhlsport FM Cybertec Maignan Absolutgri,,white,orange,Negative Cut,medium,mcp,19595.0,MEDIUM_CONF
+U101132801-2000,uhlsport,uhlsport Prediction Ultragrip HN Maignan,,white,blue,Hybrid,medium,mcp,19001.0,MEDIUM_CONF
+ETS5170995_4010,reusch,Reusch Attrakt Freegel Fusion TW-Handsc,,blue,,Hybrid,medium,mcp,18971.0,MEDIUM_CONF
+KS10070-000,KEEPERsport,KEEPERsport Pro Elite NC,000,white,,Negative Cut,high,mcp_ks,18041.0,MCP_KS_VERIFY
+R5360956-5010,reusch,Reusch Pure Contact Venomous Gold X TW-,,black,green,Hybrid,medium,mcp,16975.0,MEDIUM_CONF
+KS10008-116,KEEPERsport,KEEPERsport Varan6 Premier NC 5FS Repl.,116,red,green,Negative Cut,high,mcp_ks,16356.0,MCP_KS_VERIFY
+KS10033-630,KEEPERsport,KEEPERsport Hero x Pro Elite NC 25years,630,black,,Negative Cut,high,mcp_ks,16007.0,MCP_KS_VERIFY
+KS10007-425,KEEPERsport,KEEPERsport Varan6 Premier NC TW-Handsc,425,blue,green,Negative Cut,high,mcp_ks,14843.0,MCP_KS_VERIFY
+ETS5170900_2199,reusch,Reusch Pure Contact Fusion TW-Handschuh,,yellow,blue,Negative Cut,medium,mcp,14438.0,MEDIUM_CONF
+RH1007-991,rehab,rehab  Fighter CG4 NC,,,,Negative Cut,low,unresolved,14068.0,NO_COLOR
+E7221901,erima,Erima Flexinator Ultra Knit TW-Handschu,,grey,green,Negative Cut,medium,mcp,13874.0,MEDIUM_CONF
+R5160901-4011,reusch,reusch Pure Contact Gold X #KsEdition,,white,blue,,medium,mcp,13804.0,MEDIUM_CONF
+U1011394012000,uhlsport,uhlsport Prediction Absolutgrip HN Maig,,white,pink,Hybrid,medium,mcp,13579.0,MEDIUM_CONF
+10379386_1011373012026_01,uhlsport,uhlsport FM Cybertec Ultragrip HN #392,,black,,Negative Cut,medium,mcp,12776.0,MEDIUM_CONF
+E7221904,erima,Erima Skinator Hybrid Torwarthandschuh,,,,Hybrid,medium,mcp,12702.0,NO_COLOR
+U101133301-1113,uhlsport,uhlsport Prediction Energy Absolutgrip,,yellow,blue,Negative Cut,medium,mcp,12632.0,MEDIUM_CONF
+10373884_1011398_01,uhlsport,Fangmaschine Absolutgrip Tight HN,,white,,Negative Cut,medium,mcp,12533.0,MEDIUM_CONF
+10379388_1011378012026_01,uhlsport,uhlsport FM Cybertec Absolutgrip HN Fit,,black,,Negative Cut,medium,mcp,12412.0,MEDIUM_CONF
+KS10002-425,KEEPERsport,KEEPERsport Varan6 Hero Power TW-Handsc,425,blue,green,Hybrid,high,mcp_ks,11910.0,MCP_KS_VERIFY
+U1011376-001,uhlsport,uhlsport FM Cybertec Flex HN Torwarthan,,white,blue,Negative Cut,medium,mcp,11432.0,MEDIUM_CONF
+RH1003-011,rehab,Rehab Torwarthandschuhe Extreme Gelb F0,,yellow,black,Negative Cut,medium,mcp_rehab,11408.0,MEDIUM_CONF
+U1011333012024,uhlsport,uhlsport Earth Edition Absolutgrip HN T,,white,blue,Negative Cut,medium,mcp,11184.0,MEDIUM_CONF
+R5160900-3002,reusch,reusch Pure Contact Fusion #KsEd.,,red,white,Negative Cut,medium,mcp,10855.0,MEDIUM_CONF
+R5470155-4411,reusch,reusch Attrakt Gold NC,,black,blue,,medium,mcp,10415.0,MEDIUM_CONF
+U1011385-001,uhlsport,uhlsport Fangmaschine Aquagrip HN Torwa,,blue,,Hybrid,medium,mcp,10352.0,MEDIUM_CONF
+RH1020-911,rehab,Rehab Master NC RG2 FS Torwarthandschuh,,black,orange,Negative Cut,medium,mcp_rehab,10197.0,MEDIUM_CONF
+KS10006-116,KEEPERsport,KEEPERsport Varan6 Premier NC 5FS Hands,116,white,green,Negative Cut,high,mcp_ks,10190.0,MCP_KS_VERIFY
+KS10003-633,KEEPERsport,KEEPERsport Varan6 PRO NC Torwarthandsc,633,yellow,black,,high,mcp_ks,10174.0,MCP_KS_VERIFY
+KS10003-425,KEEPERsport,KEEPERsport Varan6 PRO NC Torwarthandsc,425,blue,green,Negative Cut,high,mcp_ks,9933.0,MCP_KS_VERIFY
+P042064-13,Puma,PUMA Future Ultimate Nc Torwarthandschu,,black,,Negative Cut,medium,mcp,9790.0,MEDIUM_CONF
+10180246_5160139_7040_7040_7701,reusch,Reusch Attrakt Freegel Gold TW-Handschu,,black,green,,medium,mcp,9774.0,MEDIUM_CONF
+E7222005,erima,Erima Skinator Torwarthandschuh Schwarz,,black,orange,Negative Cut,medium,mcp,9596.0,MEDIUM_CONF
+10373882_1011396_01,uhlsport,uhlsport FM Supergrip+ HN Torwarthandsc,,white,,Negative Cut,medium,mcp,9173.0,MEDIUM_CONF
+R5170135-4010,reusch,reusch ATTRAKT FREEGEL GOLD,,white,blue,,medium,mcp,9091.0,MEDIUM_CONF
+R5670990-4414,reusch,Reusch Attrakt Freegel Fusion Ortho-Tec,,blue,,Hybrid,medium,mcp,9022.0,MEDIUM_CONF
+KS10004-633,KEEPERsport,KEEPERsport Varan6 PRO NC Aqua TW-Hands,633,yellow,black,,high,mcp_ks,9006.0,MCP_KS_VERIFY
+KS10001-425,KEEPERsport,KEEPERsport Varan6 Hero NC Torwarthands,425,green,,Negative Cut,high,mcp_ks,8963.0,MCP_KS_VERIFY
+U1011380-001,uhlsport,uhlsport FM Cybertec Supersoft HN Torwa,,white,blue,Negative Cut,medium,mcp,8955.0,MEDIUM_CONF
+E7221905,erima,erima Skinator Hybrid Training,,,,Hybrid,medium,mcp,8695.0,NO_COLOR
+ETS1011164_001,uhlsport,Uhlsport Pure Alliance SG+Finger Sur TW,,yellow,white,Rollfinger,medium,mcp,8668.0,MEDIUM_CONF
+U1092,uhlsport,Uhlsport Comfort AG HN TW-Handschuh Sch,,black,,Hybrid,medium,mcp,8644.0,MEDIUM_CONF
+OG1-TYPE-R,One Glove,One Glove OG1 TYPE-R,,white,,Hybrid,medium,mcp,8513.0,MEDIUM_CONF
+E7221906,erima,Erima Skinator Hardground Torwarthandsc,,red,black,Negative Cut,medium,mcp,8426.0,MEDIUM_CONF
+HO510802,HO Soccer,HO SOCCER Phenomenon Pro Roll-NC Adrian,,red,black,,medium,mcp,8376.0,MEDIUM_CONF
+KS10011-405,KEEPERsport,KEEPERsport Varan6 Champ NC TW-Handschu,405,white,blue,Negative Cut,high,mcp_ks,8354.0,MCP_KS_VERIFY
+ETS1011165_01,uhlsport,Uhlsport Pure Alliance Supergrip HN Han,,yellow,white,Negative Cut,medium,mcp,8341.0,MEDIUM_CONF
+ETS5170055_4949,reusch,Reusch Attrakt Duo TW-Handschuh Blau F4,,yellow,blue,Regular Cut,medium,mcp,8004.0,MEDIUM_CONF
+R5070735-7052,reusch,Reusch Attrakt R3 Torwarthandschuh F705,,yellow,grey,Regular Cut,medium,mcp,7966.0,MEDIUM_CONF
+10180242_5160931_7040_7701,reusch,Reusch Pure Contact Gold X TW-Handschuh,,black,green,Negative Cut,medium,mcp,7927.0,MEDIUM_CONF
+ETS5170990_4010_2199,reusch,Reusch Attrakt Freegel Fusion Ortho-Tec,,blue,,Hybrid,medium,mcp,7832.0,MEDIUM_CONF
+U1138,uhlsport,Uhlsport Dyn.Impulse Supergrip TW-Hands,,yellow,orange,Regular Cut,medium,mcp,7792.0,MEDIUM_CONF
+U101132801-1113,uhlsport,uhlsport Prediction Energy Ultragrip HN,,yellow,blue,Negative Cut,medium,mcp,7779.0,MEDIUM_CONF
+KS10081-000,KEEPERsport,KEEPERsport Pro Rise NC,000,white,,Negative Cut,high,mcp_ks,7645.0,MCP_KS_VERIFY
+R5170079-2001,reusch,Reusch Attrakt SpeedBump TW-Handschuh F,,yellow,blue,Negative Cut,medium,mcp,7605.0,MEDIUM_CONF
+U1093,uhlsport,Uhlsport Comfort AG TW-Handschuh Schwar,,black,,Hybrid,medium,mcp,7516.0,MEDIUM_CONF
+U1143,uhlsport,Uhlsport Dyn. Impulse Absolutgrip TW-Ha,,yellow,orange,Negative Cut,medium,mcp,7503.0,MEDIUM_CONF
+U1011392012000,uhlsport,uhlsport Prediction Ultragrip HN Maigna,,white,pink,Negative Cut,medium,mcp,7334.0,MEDIUM_CONF
+U101133201-1113,uhlsport,uhlsport Prediction Energy Absolutgrip,,yellow,blue,Regular Cut,medium,mcp,7323.0,MEDIUM_CONF
+U1140,uhlsport,Uhlsport Dyn.Impulse Supergrip HN TW-Ha,,yellow,orange,Negative Cut,medium,mcp,7320.0,MEDIUM_CONF
+ETSGI6381_000,adidas,adidas Tiro League Torwarthandschuh Wei,,black,white,Negative Cut,medium,mcp,7266.0,MEDIUM_CONF
+10295819_7222406_000,erima,Erima Flex-Ray Pro Hardground TW-Handsc,,red,grey,Negative Cut,medium,mcp,7257.0,MEDIUM_CONF
+10223507_7222201_000,erima,Erima FleX-Ray New Talent Torwarthandsc,,yellow,black,Negative Cut,medium,mcp,7226.0,MEDIUM_CONF
+SGP151623,Sells Goalkeeper,SELLS Total Contact Illuminate,,blue,,Hybrid,medium,mcp,7158.0,MEDIUM_CONF
+U1151,uhlsport,Uhlsport Absolutgrip Flex Frame Car Han,,yellow,black,Regular Cut,medium,mcp,7111.0,MEDIUM_CONF
+E7221806,erima,Erima Skinator Match RF TW-Handschuh Bl,,blue,green,Regular Cut,medium,mcp,7078.0,MEDIUM_CONF
+KS10011-001,KEEPERsport,KEEPERsport Varan6 Champ NC TW-Handschu,001,black,white,Negative Cut,high,mcp_ks,7006.0,MCP_KS_VERIFY
+R5070908-7701,reusch,Reusch Arrow G3 World Keeper TW-Handsch,,black,blue,Negative Cut,medium,mcp,6911.0,MEDIUM_CONF
+10323216_5460234_6027,reusch,Reusch Attrakt Freegel Torwarthandschuh,,silver,,,medium,mcp,6279.0,MEDIUM_CONF
+10301313_041948_04,Puma,PUMA Torwarthandschuhe Weiß F04,,white,silver,Hybrid,medium,mcp,6186.0,MEDIUM_CONF
+E7221801,erima,Erima Flexinator Ultra Knit TW-Handschu,,blue,green,Negative Cut,medium,mcp,6171.0,MEDIUM_CONF
+KS10009-116,KEEPERsport,KEEPERsport Varan6 PRO GC Torwarthandsc,116,white,green,Rollfinger,high,mcp_ks,6031.0,MCP_KS_VERIFY
+R5670935-1083,reusch,Reusch Attrakt Freegel Gold X Torwartha,,white,,Hybrid,medium,mcp,6024.0,MEDIUM_CONF
+ETS5170908_1015,reusch,Reusch Arrow Gold X TW-Handschuh Weiss,,white,,Negative Cut,medium,mcp,5983.0,MEDIUM_CONF
+10351388_042064_12,Puma,PUMA FUTURE Ultimate NC Torwarthandschu,,red,,Negative Cut,medium,mcp,5810.0,MEDIUM_CONF
+E7221809,erima,Erima Skinator Match NC,,black,blue,Negative Cut,medium,mcp,5609.0,MEDIUM_CONF
+RH1012-013,rehab,rehab Core CG1 FS NC,,white,green,Negative Cut,medium,mcp_rehab,5547.0,MEDIUM_CONF
+KS10002-111,KEEPERsport,KEEPERsport Varan6 Hero Power,111,white,,Hybrid,high,mcp_ks,5516.0,MCP_KS_VERIFY
+EL4003790,Elite Sport,Elite Sports Neo Revolution 4mm Torwart,,black,white,Negative Cut,medium,mcp,5500.0,MEDIUM_CONF
+OG1-MIDNIGHT,One Glove,OG1 Midnight,,black,,Negative Cut,medium,mcp,5392.0,MEDIUM_CONF
+NGS3886-486,NIKE,Nike Mercurial Touch Elite TW-Handschuh,,white,blue,Negative Cut,medium,mcp,5321.0,MEDIUM_CONF
+R5072200-7083,reusch,Reusch Pure Contact 3 S1 TW-Handschuh J,,black,orange,Negative Cut,medium,mcp,5255.0,MEDIUM_CONF
+U1158,uhlsport,Uhlsport Super Resist HN TW-Handschuh F,,black,orange,Hybrid,medium,mcp,5232.0,MEDIUM_CONF
+EL4003610,Elite Sport,Elite Sports Neo Revolution 4mm Torwart,,white,,Negative Cut,medium,mcp,5197.0,MEDIUM_CONF
+R5070089-7083,reusch,reusch Attrakt Pro G3 Duo Evolution,,black,blue,Hybrid,medium,mcp,5182.0,MEDIUM_CONF
+KS10011-019,KEEPERsport,KEEPERsport Varan6 Champ NC TW-Handschu,019,black,white,Negative Cut,high,mcp_ks,5174.0,MCP_KS_VERIFY
+ETS5172945_4010,reusch,Reusch Attrakt Fusion TW-Handschuh Juni,,blue,,Negative Cut,medium,mcp,5108.0,MEDIUM_CONF
+KS10004-425,KEEPERsport,KEEPERsport Varan6 PRO NC Aqua TW-Hands,425,blue,green,Negative Cut,high,mcp_ks,5101.0,MCP_KS_VERIFY
+OG1-TYPE-R-GLD,One Glove,One Glove OG1 TYPE-R Gold David Raya,,white,gold,Hybrid,medium,mcp,5099.0,MEDIUM_CONF
+R5070915-1090,reusch,reusch Pure Contact G3 Fusion #KsEdition,,white,blue,Negative Cut,medium,mcp,5040.0,MEDIUM_CONF
+10236860_1011267_001,uhlsport,Uhlsport Soft Flex Frame Speed Contact,,black,white,,medium,mcp,5019.0,MEDIUM_CONF
+ETS5170025_7805,reusch,Reusch Pure Contact GTX TW-Handschuh F7,,red,black,Negative Cut,medium,mcp,4935.0,MEDIUM_CONF
+KS10007-633,KEEPERsport,KEEPERsport Varan6 Premier NC TW-Handsc,633,yellow,black,,high,mcp_ks,4919.0,MCP_KS_VERIFY
+R5160666-7783,reusch,reusch Pure Contact Infrared SpeedBump,,black,,Negative Cut,medium,mcp,4819.0,MEDIUM_CONF
+HO520303,HO Soccer,HO Soccer SSG Kontrol Knit Torwarthands,,yellow,black,Negative Cut,medium,mcp,4765.0,MEDIUM_CONF
+KS10024-701,KEEPERsport,KEEPERsport Varan7 Champ GC TW-Handschu,701,white,blue,Rollfinger,high,mcp_ks,4764.0,MCP_KS_VERIFY
+SGP151615,Sells Goalkeeper,SELLS Wrap Illuminate,,blue,,Rollfinger,medium,mcp,4733.0,MEDIUM_CONF
+KS10084-760,KEEPERsport,KEEPERsport Varan8 Coach Zone RC TW-Han,760,red,,Regular Cut,high,mcp_ks,4670.0,MCP_KS_VERIFY
+E7221810,erima,Erima Skinator Slim NF TW-Handschuh Sch,,black,pink,Negative Cut,medium,mcp,4668.0,MEDIUM_CONF
+R3970959-883,reusch,Reusch Fit Control Deluxe G3 Fus TW-Han,,yellow,blue,Negative Cut,medium,mcp,4595.0,MEDIUM_CONF
+ETS5170235_4010,reusch,Reusch Attrakt Freegel TW-Handschuh F40,,blue,,Negative Cut,medium,mcp,4577.0,MEDIUM_CONF
+U1011388-001,uhlsport,uhlsport FM Super Resist+ HN Torwarthan,,black,orange,Negative Cut,medium,mcp,4558.0,MEDIUM_CONF
+EL4003670,Elite Sport,Elite Sports Neo Revolution 4mm Torwart,,black,,Negative Cut,medium,mcp,4538.0,MEDIUM_CONF
+R5670995-4129,reusch,Reusch Attrakt Freegel Fusion Goaliator,,blue,,Hybrid,medium,mcp,4504.0,MEDIUM_CONF
+HO520285,HO Soccer,HO Soccer SSG Legend Ergo Gecko Torwart,,black,,Negative Cut,medium,mcp,4485.0,MEDIUM_CONF
+10295820_7222407_000,erima,Erima Flex-Ray Match Eco TW-Handschuhe,,grey,green,,medium,mcp,4476.0,MEDIUM_CONF
+R5070993-7083,reusch,Reusch G3 Goaliator Torwarthandschuh F7,,black,orange,Hybrid,medium,mcp,4458.0,MEDIUM_CONF
+ETSFS0423_000,adidas,adidas X Pro Precision to blur Torwarth,,green,,Negative Cut,medium,mcp,4442.0,MEDIUM_CONF
+RH1030-998,rehab,Rehab Extreme,,black,blue,Negative Cut,medium,mcp_rehab,4387.0,MEDIUM_CONF
+HO0520360,HO Soccer,HO Soccer Kontrol Knit Tech Orange Alert,,black,orange,Negative Cut,medium,mcp,4379.0,MEDIUM_CONF
+ETS5170200_2199,reusch,Reusch Pure Contact Silver TW-Handschuh,,yellow,blue,Negative Cut,medium,mcp,4340.0,MEDIUM_CONF
+U1095,uhlsport,Uhlsport Next Level Supersoft HN TW-Han,,red,blue,Hybrid,medium,mcp,4209.0,MEDIUM_CONF
+HO0520371,HO Soccer,HO Soccer Pro Evolution NG,,yellow,black,Negative Cut,medium,mcp,4099.0,MEDIUM_CONF
+R5172900-2199,reusch,Reusch Pure Contact Fusion TW-Handschuh,,yellow,blue,Negative Cut,medium,mcp,4079.0,MEDIUM_CONF
+SGP151610,Sells Goalkeeper,Sells Wrap Climalite EC-16 Torwarthands,,black,orange,Rollfinger,medium,mcp,4034.0,MEDIUM_CONF
+10288756_5470255_4411,reusch,Reusch Attrakt Silver NC TW-Handschuhe,,blue,gold,Negative Cut,medium,mcp,4029.0,MEDIUM_CONF
+R3270870-501,reusch,reusch Keon SG Plus,,,,,medium,mcp,3984.0,NO_COLOR
+R5170745-7700,reusch,reusch ATTRAKT FREEGEL INFINITY RESISTOR,,black,white,Negative Cut,medium,mcp,3971.0,MEDIUM_CONF
+10351267_042081_04,Puma,PUMA ULTRA Ultimate Hybrid Torwarthands,,white,,Hybrid,medium,mcp,3933.0,MEDIUM_CONF
+R5160245-1089,reusch,reusch FREEGEL Silver Italian Flag,,white,blue,Hybrid,medium,mcp,3880.0,MEDIUM_CONF
+U1011382-001,uhlsport,Uhlsport Cybertec Soft Flex Frame,,white,blue,Hybrid,medium,mcp,3868.0,MEDIUM_CONF
+10273103_SGP202309_000,Sells Goalkeeper,Sells Pistol Aqua Fit TW-Handschuhe Wei,,white,blue,,medium,mcp,3857.0,MEDIUM_CONF
+P041829-01,Puma,MyPUMA Grip 1 Pro,,,,Hybrid,medium,mcp,3855.0,NO_COLOR
+EL4003850,Elite Sport,Elite Sports Neo Revolution 4mm Torwart,,black,blue,Hybrid,medium,mcp,3827.0,MEDIUM_CONF
+RH1000-616,rehab,Rehab Extreme CG3 NC TW-Handschuh Grau,,grey,,Negative Cut,medium,mcp_rehab,3820.0,MEDIUM_CONF
+R5670965-4126,reusch,Reusch Attrakt Gold X Roll Finger Torwa,,blue,,Rollfinger,medium,mcp,3816.0,MEDIUM_CONF
+RH1000-119,rehab,Rehab Extreme CG3 NC TW-Handschuh Blau,,blue,green,Negative Cut,medium,mcp_rehab,3816.0,MEDIUM_CONF
+R3470400-405,reusch,reusch Waorani Pro A2 Ortho-Tec aqua,,,,,medium,mcp,3777.0,NO_COLOR
+R5670055-4126,reusch,Reusch Attrakt Duo Evolution Torwarthan,,blue,,Hybrid,medium,mcp,3736.0,MEDIUM_CONF
+10351266_042081_02,Puma,PUMA ULTRA Ultimate Hybrid Torwarthands,,orange,,Hybrid,medium,mcp,3708.0,MEDIUM_CONF
+R5670725-4127,reusch,Reusch Attrakt Infinity Evolution NC To,,blue,,Hybrid,medium,mcp,3695.0,MEDIUM_CONF
+R5670964-4126,reusch,Reusch Attrakt Gold X Evolution Torwart,,blue,,Hybrid,medium,mcp,3687.0,MEDIUM_CONF
+R5272235_6006,reusch,Reusch Attrakt Freegel Silver Torwartha,,yellow,grey,Negative Cut,medium,mcp,3677.0,MEDIUM_CONF
+EL4003730,Elite Sport,Elite Sports Neo Revolution 4mm Torwart,,black,white,Negative Cut,medium,mcp,3676.0,MEDIUM_CONF
+U1070,uhlsport,Uhlsport Aquagrip HN Torwarthandschuh B,,blue,green,Hybrid,medium,mcp,3672.0,MEDIUM_CONF
+HO520284,HO Soccer,HO Soccer SSG Legend Ergo Gecko TW-Hand,,green,,Negative Cut,medium,mcp,3672.0,MEDIUM_CONF
+P042116-01,Puma,PUMA Future Ultimate Brilliance Nc Torw,,white,,Negative Cut,medium,mcp,3621.0,MEDIUM_CONF
+HO0515172IT,HO Soccer,HO Soccer One Hardground NG DNA IV,,yellow,black,Negative Cut,medium,mcp,3600.0,MEDIUM_CONF
+P042115-01,Puma,PUMA Ultra Ultimate Brilliance Hybrid T,,white,,Negative Cut,medium,mcp,3565.0,MEDIUM_CONF
+RH1006-405,rehab,Rehab Extreme CG3 NC TW-Handschuh Blau,,black,blue,Negative Cut,medium,mcp_rehab,3530.0,MEDIUM_CONF
+U1154,uhlsport,Uhlsport Absolutgrip HN Pro TW-Handschu,,blue,orange,Hybrid,medium,mcp,3460.0,MEDIUM_CONF
+ETS1011170_001,uhlsport,Uhlsport Pure Alliance Supersoft Handsc,,yellow,white,Regular Cut,medium,mcp,3426.0,MEDIUM_CONF
+U1160,uhlsport,uhlsport Soft Resist RC,,black,orange,Regular Cut,medium,mcp,3414.0,MEDIUM_CONF
+TT202004,T1tan,KEEPERsport x T1TAN Beast 2.0 TW-Handsc,,yellow,black,Negative Cut,medium,mcp,3410.0,MEDIUM_CONF
+10351300_042118_01,Puma,PUMA FUTURE Pro RE-CHARGE Hybrid Torwar,,pink,,Hybrid,medium,mcp,3375.0,MEDIUM_CONF
+HO0520368,HO Soccer,HO Soccer SSG Kontrol Knit tech,,black,orange,Negative Cut,medium,mcp,3361.0,MEDIUM_CONF
+HO520286,HO Soccer,HO Soccer SSG Legend Ergo Gecko Torwart,,white,,Negative Cut,medium,mcp,3344.0,MEDIUM_CONF
+ETS5070115_1091,reusch,Reusch Attrakt Freegel G3 TW-Handschuh,,white,blue,Negative Cut,medium,mcp,3320.0,MEDIUM_CONF
+HO520296,HO Soccer,HO Soccer First Evolution III TW-Handsc,,green,,Negative Cut,medium,mcp,3264.0,MEDIUM_CONF
+RPB70102101,gloveglu,Glove Glu Bare Skinn NC,,black,,Negative Cut,medium,mcp,3251.0,MEDIUM_CONF
+P041640-01,Puma,PUMA King Aqua Torwarthandschuhe Schwar,,black,gold,Regular Cut,medium,mcp,3214.0,MEDIUM_CONF
+ETS7221801_465032,erima,Erima Flexinator Ultra Knit TW-Handschu,,,,,medium,mcp,3208.0,NO_COLOR
+R5670905-4126,reusch,Reusch Attrakt Fusion NC Torwarthandsch,,blue,,Negative Cut,medium,mcp,3200.0,MEDIUM_CONF
+R5670955-4126,reusch,Reusch Attrakt Gold X NC Torwarthandsch,,blue,,Negative Cut,medium,mcp,3177.0,MEDIUM_CONF
+HO511286IT,HO Soccer,HO SOCCER First Superlight NC Black T.,,black,,,medium,mcp,3173.0,MEDIUM_CONF
+10271328_510294_000,HO Soccer,HO Soccer Ghotta Special Edition TW-Han,,white,blue,,medium,mcp,3151.0,MEDIUM_CONF
+RH1001-628,rehab,rehab Master CG2 NC,,white,grey,Negative Cut,medium,mcp_rehab,3147.0,MEDIUM_CONF
+E7220701,erima,Erima Tec Lite Match 2.0,,blue,green,Regular Cut,medium,mcp,3099.0,MEDIUM_CONF
+HO520289,HO Soccer,HO Soccer First Evolution III Torwartha,,orange,,Negative Cut,medium,mcp,3086.0,MEDIUM_CONF
+R5670745-7700,reusch,Reusch Attrakt Infinity Resistor Torwar,,black,,Hybrid,medium,mcp,3050.0,MEDIUM_CONF
+R3270871-501,reusch,reusch Keon,,,,,medium,mcp,3035.0,NO_COLOR
+KS10007-111,KEEPERsport,KEEPERsport Varan6 Premier NC,111,red,white,Negative Cut,high,mcp_ks,3032.0,MCP_KS_VERIFY
+HO520300,HO Soccer,HO Soccer Ghotta Evo2 RN Torwarthandsch,,white,orange,Hybrid,medium,mcp,3018.0,MEDIUM_CONF
+ETS5070931_6001,reusch,Reusch Pure Contact X-Ray 3 G3 Fusion G,,black,grey,Negative Cut,medium,mcp,3014.0,MEDIUM_CONF
+ETS1011163_001,uhlsport,Uhlsport Pure Alliance SG+ Reflex TW-Ha,,yellow,white,Negative Cut,medium,mcp,3011.0,MEDIUM_CONF
+U1182-01,uhlsport,Uhlsport D.Impulse Supergrip 360 TW-Han,,yellow,orange,Hybrid,medium,mcp,3003.0,MEDIUM_CONF
+RH1006-558,rehab,Rehab Extreme CG3 NC TW-Handschuh Schwa,,black,green,Negative Cut,medium,mcp_rehab,2976.0,MEDIUM_CONF
+U1118-03,uhlsport,Uhlsport Supergrip HN Torwarthandschuh,,yellow,black,Negative Cut,medium,mcp,2931.0,MEDIUM_CONF
+U1011344-01,uhlsport,uhlsport Soft Resist+ Torwarthandschuhe,,red,black,,medium,mcp,2924.0,MEDIUM_CONF
+ETS3770990_484,reusch,Reusch Serathor Supreme G2 Ortho-Tec Bl,,,,,medium,mcp,2886.0,NO_COLOR
+10295815_7222404_000,erima,Erima Flex-Ray Hardground TW-Handschuh,,yellow,grey,Negative Cut,medium,mcp,2855.0,MEDIUM_CONF
+ETS5172200_2199,reusch,Reusch Pure Contact TW-Handschuh Junior,,yellow,,Negative Cut,medium,mcp,2850.0,MEDIUM_CONF
+R5170935-3002,reusch,Reusch Attrakt Freegel Gold X TW-Handsc,,red,white,Negative Cut,medium,mcp,2849.0,MEDIUM_CONF
+RH1006-006,rehab,Rehab Extreme CG3 NC TW-Handschuh Blau,,yellow,blue,Negative Cut,medium,mcp_rehab,2831.0,MEDIUM_CONF
+R5399453-1101,reusch,Reusch DUO x Campione d'Italia Meret,,,,,medium,mcp,2812.0,NO_COLOR
+HO0515170IT,HO Soccer,HO Soccer SSG Legend Negative DNA IV,,yellow,black,Negative Cut,medium,mcp,2799.0,MEDIUM_CONF
+HO0515169IT,HO Soccer,Ghotta EVO2 RN DNA IV,,yellow,,Negative Cut,medium,mcp,2797.0,MEDIUM_CONF
+OG1-MONSTER-SL,One Glove,OG1 Mentality Monster Hyla SL,,green,turquoise,Hybrid,medium,mcp,2792.0,MEDIUM_CONF
+HO520298,HO Soccer,HO Soccer Kontrol Knit Tech Torwarthand,,blue,,Negative Cut,medium,mcp,2759.0,MEDIUM_CONF
+E7222002,erima,Erima Flex RD Pro Torwarthandschuhe Gra,,black,grey,Negative Cut,medium,mcp,2752.0,MEDIUM_CONF
+EL4003910,Elite Sport,Elite Sports Neo Rev x Gt 4mm Torwartha,,,,Hybrid,medium,mcp,2752.0,NO_COLOR
+E7222003,erima,erima FLEX RD Robusto,,yellow,green,Negative Cut,medium,mcp,2745.0,MEDIUM_CONF
+OG1-DOUBT-SL,One Glove,One Glove OG1 Doubters HYL SL,,red,black,Hybrid,medium,mcp,2723.0,MEDIUM_CONF
+SGP151626,Sells Goalkeeper,Sells Axis 360 Climatlite EC-16 Handsch,,black,orange,Regular Cut,medium,mcp,2673.0,MEDIUM_CONF
+KS10027-B-STOCK,KEEPERsport,KS Varan7 Premier Resist NC B-Stock,STOCK,yellow,black,,high,mcp_ks,2670.0,MCP_KS_VERIFY
+EL4003260,Elite Sport,Elite Sports Orca Torwarthandschuhe Meh,,white,blue,Rollfinger,medium,mcp,2635.0,MEDIUM_CONF
+R3370101-103,reusch,reusch Argos Pro M1 Ortho-Tec,,,,,medium,mcp,2609.0,NO_COLOR
+ETS1011188_01,uhlsport,Uhlsport Pure Allicance Supergrip+ 360,,yellow,white,Regular Cut,medium,mcp,2605.0,MEDIUM_CONF
+NGS3381-892,NIKE,Nike Grip 3 Torwarthandschuh Orange F89,,orange,,Hybrid,medium,mcp,2599.0,MEDIUM_CONF
+10295813_7222403_000,erima,Erima Flex-Ray Robusto TW-Handschuh Kid,,red,grey,Negative Cut,medium,mcp,2594.0,MEDIUM_CONF
+HO515023,HO Soccer,FIRST SUPERLIGHT NEGATIVE DARKSIDE,,black,,Negative Cut,medium,mcp,2586.0,MEDIUM_CONF
+R5670735-7700,reusch,Reusch Attrakt Freegel Infinity Torwart,,black,,Hybrid,medium,mcp,2580.0,MEDIUM_CONF
+ETS3670100_767,reusch,Reusch Re:pulse Pro G2 OT Torwarthandsc,,black,orange,,medium,mcp,2566.0,MEDIUM_CONF
+10271335_520250_000,HO Soccer,HO Soccer SSG Legend II Negative Hyper,,black,blue,Negative Cut,medium,mcp,2563.0,MEDIUM_CONF
+10288753_5472710_4411,reusch,Reusch Torwarthandschuhe Kids Blau,,blue,gold,Regular Cut,medium,mcp,2556.0,MEDIUM_CONF
+U1144,uhlsport,Uhlsport Dyn Impulse Supersoft HN TW-Ha,,yellow,orange,Negative Cut,medium,mcp,2546.0,MEDIUM_CONF
+NXT-PRO-DOUBT-HYL,One Glove,NXT Pro Doubters HYL,,red,white,Hybrid,medium,mcp,2523.0,MEDIUM_CONF
+EL4003970,Elite Sport,Elite Sports Neo Rev x Emerald 4mm Torw,,white,,,medium,mcp,2514.0,MEDIUM_CONF
+U1175-02,uhlsport,Uhlsport Supergrip Reflex Torwarthandsc,,black,white,Rollfinger,medium,mcp,2511.0,MEDIUM_CONF
+RH1006-039,rehab,rehab Extreme CG3 NC (Italy),,white,green,Negative Cut,medium,mcp_rehab,2508.0,MEDIUM_CONF
+10369683_KA7811_KA7811,adidas,adidas Copa Club League Torwarthandschu,,black,,Negative Cut,medium,mcp,2477.0,MEDIUM_CONF
+10291666_5460964,reusch,Reusch Attrakt AB 1 Duo TW-Handschuh Sc,,black,gold,Hybrid,medium,mcp,2475.0,MEDIUM_CONF
+U1091,uhlsport,Uhlsport Next Level AG HN TW-Handschuh,,red,blue,Hybrid,medium,mcp,2462.0,MEDIUM_CONF
+ETS1011168_01,uhlsport,Uhlsport Pure Alliance Absolutgrip HN T,,yellow,white,Negative Cut,medium,mcp,2450.0,MEDIUM_CONF
+ETS1011167_01,uhlsport,Uhlsport Pure Alliance Absolutgrip SU T,,yellow,white,Rollfinger,medium,mcp,2449.0,MEDIUM_CONF
+RH1006-386,rehab,rehab Extreme CG3 NC (Slovenia),,white,blue,Negative Cut,medium,mcp_rehab,2434.0,MEDIUM_CONF
+KSX10028-701,KEEPERsport,KEEPERsport Varan7 Challenge NC B-Ware,701,white,blue,,high,mcp_ks,2401.0,MCP_KS_VERIFY
+KS10021,KEEPERsport,KEEPERsport Champ Promo,,,,,medium,mcp,2398.0,NO_COLOR
+U1011309012001,uhlsport,Uhlsport Supersoft Maignan TW-Hand,,black,orange,Regular Cut,medium,mcp,2375.0,MEDIUM_CONF
+EL2000070,Elite Sport,Elite Sport Neo Aqua,,black,,,medium,mcp,2370.0,MEDIUM_CONF
+R5670235-1080,reusch,Reusch Attrakt Freegel Advance Torwarth,,white,,Hybrid,medium,mcp,2363.0,MEDIUM_CONF
+KS10007-011,KEEPERsport,KEEPERsport Varan6 Premier NC,011,white,blue,Negative Cut,high,mcp_ks,2356.0,MCP_KS_VERIFY
+R3770130-511,reusch,reusch Serathor Prime M1 Ortho-Tec,,,,,medium,mcp,2341.0,NO_COLOR
+RPB70102207,gloveglu,Glove Glu Dry Skinn NC,,blue,,Negative Cut,medium,mcp,2322.0,MEDIUM_CONF
+ETS5170050-4949,reusch,REUSCH ATTRAKT DUO ORTHO-TEC,,yellow,blue,,medium,mcp,2302.0,MEDIUM_CONF
+U1159,uhlsport,Uhlsport Soft Resist Flex Frame TW-Hand,,black,orange,Regular Cut,medium,mcp,2293.0,MEDIUM_CONF
+RH1006-031,rehab,rehab Extreme CG3 NC (Netherlands),,white,orange,Negative Cut,medium,mcp_rehab,2286.0,MEDIUM_CONF
+U1076,uhlsport,Uhlsport Super Resist,,black,orange,Regular Cut,medium,mcp,2270.0,MEDIUM_CONF
+RH1002-628,rehab,Rehab Core CG1 NC TW-Handschuh F628,,white,grey,Negative Cut,medium,mcp_rehab,2262.0,MEDIUM_CONF
+U1153,uhlsport,Uhlsport Absolutgrip Torwarthandschuh S,,red,black,Regular Cut,medium,mcp,2253.0,MEDIUM_CONF
+U1152,uhlsport,Uhlsport Absolutgrip Tight HN TW-Handsc,,blue,grey,Hybrid,medium,mcp,2253.0,MEDIUM_CONF
+OG1-DOUBT-NGT,One Glove,One Glove OG1 Doubters NGT,,red,black,Negative Cut,medium,mcp,2242.0,MEDIUM_CONF
+10332411_042071_01,Puma,PUMA FUTURE Ultimate FOREVER NC Torwart,,white,blue,Negative Cut,medium,mcp,2230.0,MEDIUM_CONF
+ETS5170960_3002,reusch,Reusch Attrakt Freegel Gold X TW-Handsc,,red,white,Negative Cut,medium,mcp,2211.0,MEDIUM_CONF
+NXT-PRO-DOUBT-VTX,One Glove,NXT Pro Doubters VTX,,red,white,Hybrid,medium,mcp,2168.0,MEDIUM_CONF
+R5070025-7083,reusch,Reusch G3 GTX INFINIUM TW-Handschuh Sch,,black,orange,Negative Cut,medium,mcp,2159.0,MEDIUM_CONF
+10297352_FB3001-013_013,NIKE,Nike Vapor Grip3 RS Promo Torwarthandsc,,black,pink,Hybrid,medium,mcp,2157.0,MEDIUM_CONF
+10351299_042117_01,Puma,PUMA ULTRA Ultimate RE-CHARGE Hybrid To,,pink,,Hybrid,medium,mcp,2127.0,MEDIUM_CONF
+SGP151703,Sells Goalkeeper,SELLS Axis 360 Flash,,black,white,Regular Cut,medium,mcp,2103.0,MEDIUM_CONF
+KS10006-011,KEEPERsport,KEEPERsport Varan6 Premier NC 5FS Hands,011,white,blue,Negative Cut,high,mcp_ks,2093.0,MCP_KS_VERIFY
+ETS5070955_7083,reusch,Reusch Pro G3 Torwarthandschuh F7083,,black,orange,Hybrid,medium,mcp,2072.0,MEDIUM_CONF
+10271331_0515116IT_000,HO Soccer,HO Soccer SSG Legend II Negative DNA II,,yellow,red,Negative Cut,medium,mcp,2064.0,MEDIUM_CONF
+HO520302,HO Soccer,HO Soccer Guerrero Pro Torwarthandschuh,,black,orange,Negative Cut,medium,mcp,2064.0,MEDIUM_CONF
+KS10017-633,KEEPERsport,KEEPERsport Varan6 Premier Resist NC TW,633,yellow,black,,high,mcp_ks,2047.0,MCP_KS_VERIFY
+HO0520366,HO Soccer,HO Soccer Guerrero Pro RN,,white,blue,Hybrid,medium,mcp,2032.0,MEDIUM_CONF
+R3570201-445,reusch,reusch Re:ceptor Prime S1,,,,,medium,mcp,2024.0,NO_COLOR
+U1096,uhlsport,Uhlsport Next Level Supersoft Handschuh,,red,blue,Regular Cut,medium,mcp,2024.0,MEDIUM_CONF
+HO511246UK,HO Soccer,HO SOCCER SSG Phenomenon NC Adrian,,red,black,Negative Cut,medium,mcp,2000.0,MEDIUM_CONF
+R5670984-4126,reusch,Reusch Attrakt Gold X Guardian Torwarth,,blue,,Hybrid,medium,mcp,1994.0,MEDIUM_CONF
+HO520306,HO Soccer,HO Soccer Pro Evolution Torwarthandschu,,black,orange,Negative Cut,medium,mcp,1993.0,MEDIUM_CONF
+10295817_7222405_000,erima,Erima Flex-Ray Pro TW-Handschuhe Grau,,yellow,grey,Negative Cut,medium,mcp,1967.0,MEDIUM_CONF
+U1011285_001,uhlsport,Uhlsport HyperFlex HN black/yellow,,yellow,black,Negative Cut,medium,mcp,1955.0,MEDIUM_CONF
+KS10004-111,KEEPERsport,KEEPERsport Varan6 PRO NC Aqua TW-Hands,111,red,white,Negative Cut,high,mcp_ks,1947.0,MCP_KS_VERIFY
+10271458_520279_000,HO Soccer,HO Soccer Kontrol Duo TW-Handschuhe Sch,,yellow,black,,medium,mcp,1942.0,MEDIUM_CONF
+U1011382K-001,uhlsport,uhlsport FM Cybertec Soft Flex Frame To,,white,blue,Hybrid,medium,mcp,1933.0,MEDIUM_CONF
+EL4002530,Elite Sport,Elite NEO REVOLUTION II Com BR,,black,,Hybrid,medium,mcp,1930.0,MEDIUM_CONF
+HO511281IT1,HO Soccer,HO SOCCER SSG Phenomenon NC DANN,,black,,,medium,mcp,1912.0,MEDIUM_CONF
+R5070235-7083,reusch,reusch Attrakt Freegel S1,,black,orange,Negative Cut,medium,mcp,1911.0,MEDIUM_CONF
+ETS1011169_01,uhlsport,Uhlsport Pure Alliance Supersoft HN TW-,,yellow,white,Negative Cut,medium,mcp,1910.0,MEDIUM_CONF
+P042114-01,Puma,PUMA Ultra Ultimate Teaser Hybrid Torwa,,black,,Hybrid,medium,mcp,1884.0,MEDIUM_CONF
+OG1-CONTRA-W-HYL-SL,One Glove,OG1 Contra White Hyla SL,,white,,Hybrid,medium,mcp,1879.0,MEDIUM_CONF
+HO0520465,HO Soccer,HO Soccer Aerial III NG TW Handschuhe O,,black,orange,Negative Cut,medium,mcp,1861.0,MEDIUM_CONF
+HO510876IT,HO Soccer,HO SOCCER First Superlight NC Whiteout,,white,,Negative Cut,medium,mcp,1845.0,MEDIUM_CONF
+ETSCW5801_440,NIKE,Nike Vapor Grip 3 RS Promo Torwarthands,,blue,,Hybrid,medium,mcp,1843.0,MEDIUM_CONF
+R5670235-4129,reusch,Reusch Attrakt Freegel Advance Torwarth,,blue,,Hybrid,medium,mcp,1826.0,MEDIUM_CONF
+ADY2619,adidas,adidas Classic League Torwarthandschuh,,yellow,black,Negative Cut,medium,mcp,1824.0,MEDIUM_CONF
+ETS3770950_484,reusch,Reusch Serathor Pro G2 Ortho-Tec Blau F,,yellow,blue,,medium,mcp,1808.0,MEDIUM_CONF
+R3470101-344,reusch,reusch Waorani Pro M1 Ortho-Tec,,,,,medium,mcp,1789.0,NO_COLOR
+NXT-PRO-MONSTER-HYL,One Glove,NXT Pro Mentality Monster Hyla,,white,turquoise,Hybrid,medium,mcp,1785.0,MEDIUM_CONF
+HO520307,HO Soccer,HO Soccer First Evolution III NG Torwar,,yellow,black,Negative Cut,medium,mcp,1784.0,MEDIUM_CONF
+10243348_RPB70102206_000,gloveglu,Glove Glu Wet Skin NC Torwarthandschuhe,,black,,Negative Cut,medium,mcp,1781.0,MEDIUM_CONF
+10322232_5572135_2500,reusch,Reusch Torwarthandschuhe Kids Orange,,blue,orange,Negative Cut,medium,mcp,1779.0,MEDIUM_CONF
+10332412_042072_01,Puma,PUMA ULTRA Ultimate FOREVER Hybrid Torw,,white,purple,Hybrid,medium,mcp,1774.0,MEDIUM_CONF
+RH1006-420,rehab,rehab Extreme CG3 NC (Czech Republic),,red,white,Negative Cut,medium,mcp_rehab,1770.0,MEDIUM_CONF
+U1058-02,uhlsport,Uhlsport Aerored Soft HN Comp TW-Handsc,,red,grey,Hybrid,medium,mcp,1737.0,MEDIUM_CONF
+10268070_RPB70062301_000,gloveglu,Glove Glu v:OODOO MEGAgrip Plus Torwart,,black,,Hybrid,medium,mcp,1729.0,MEDIUM_CONF
+EL4004030,Elite Sport,Elite Sports Neo Revolution x Bc 4mm To,,pink,,Hybrid,medium,mcp,1729.0,MEDIUM_CONF
+NCK4804-492,NIKE,NIKE GK Vapor Grip 3 NC Promo,,blue,,Hybrid,medium,mcp,1691.0,MEDIUM_CONF
+10180249_5170990_7040_7040_7701,reusch,Reusch Attrakt Freegel Fusion Ortho-Tec,,black,green,,medium,mcp,1681.0,MEDIUM_CONF
+MP0004-REUSCH,reusch,Mystery Reusch Double Pack,,,,,medium,mcp,1676.0,NO_COLOR
+R5070000-4959,reusch,Reusch Contact Speed Bump 3 G3 TW-Hands,,blue,orange,Negative Cut,medium,mcp,1666.0,MEDIUM_CONF
+EL4004570,Elite Sport,Elite Sports Nobre Real 4mm Torwarthand,,white,,Negative Cut,medium,mcp,1663.0,MEDIUM_CONF
+EL2000470,Elite Sport,Elite Sport Camaleon,,black,,,medium,mcp,1661.0,MEDIUM_CONF
+U1011337-01,uhlsport,uhlsport Prediction Soft Pro Torwarthan,,yellow,blue,Regular Cut,medium,mcp,1637.0,MEDIUM_CONF
+E7221807,erima,Erima Skinator Slim RF TW-Handschuh Pin,,black,pink,Regular Cut,medium,mcp,1623.0,MEDIUM_CONF
+R5670163-7090,reusch,Reusch Attrakt Advance Evolution Gluepr,,black,,Hybrid,medium,mcp,1621.0,MEDIUM_CONF
+SGP151634,Sells Goalkeeper,Sells Silhouette Climalite EC-16 Handsc,,black,orange,Negative Cut,medium,mcp,1620.0,MEDIUM_CONF
+U1118,uhlsport,Uhlsport Radar Control Supergrip HN Han,,yellow,blue,Negative Cut,medium,mcp,1619.0,MEDIUM_CONF
+EL4003520,Elite Sport,Elite Sports Real Torwarthandschuhe Wei,,white,,Rollfinger,medium,mcp,1616.0,MEDIUM_CONF
+ETS5170820_4010,reusch,Reusch Attrakt Finger Support TW-Handsc,,white,blue,Hybrid,medium,mcp,1602.0,MEDIUM_CONF
+10378518_5660945_7730,reusch,Reusch Attrakt Gold X Torwarthandschuhe,,black,,Hybrid,medium,mcp,1582.0,MEDIUM_CONF
+KS10025,KEEPERsport,KEEPERsport Varan7 Pro Promo,,,,,medium,mcp,1580.0,NO_COLOR
+OG1-MONSTER-NGT,One Glove,OG1 Mentality Monster NGT,,white,turquoise,Negative Cut,medium,mcp,1571.0,MEDIUM_CONF
+U1011286_001,uhlsport,Uhlsport HyperFlex HN black/green,,black,green,Negative Cut,medium,mcp,1571.0,MEDIUM_CONF
+10268072_RPB70062303_000,gloveglu,Glove Glu s:PIRIT original RF Torwartha,,white,blue,Rollfinger,medium,mcp,1566.0,MEDIUM_CONF
+EL4004090,Elite Sport,Elite Sports Neo Revolution x Bb 4mm To,,black,,Negative Cut,medium,mcp,1550.0,MEDIUM_CONF
+HO0515117IT,HO Soccer,HO FIRST SUPERLIGHT NEGATIVE DNA III,,yellow,red,Negative Cut,medium,mcp,1540.0,MEDIUM_CONF
+P041628-05,Puma,PUMA ONE Grip 1 RC Torwarthandschuh Gel,,yellow,black,Regular Cut,medium,mcp,1530.0,MEDIUM_CONF
+10220115_5270950_6006,reusch,Reusch Attrakt Gold X Torwarthandschuhe,,yellow,grey,,medium,mcp,1515.0,MEDIUM_CONF
+R5672725-4127,reusch,Reusch Attrakt Infinity Evolution NC To,,blue,,Hybrid,medium,mcp,1513.0,MEDIUM_CONF
+10383962_JY6308,adidas,Adidas Predator Pro Hybrid Strap Ice Col,,blue,,Hybrid,medium,mcp,1506.0,MEDIUM_CONF
+EL4002740,Elite Sport,ELITE COMET,,black,blue,,medium,mcp,1500.0,MEDIUM_CONF
+10323239_5562264_7052,reusch,Reusch Torwarthandschuhe Kids Schwarz,,black,,Hybrid,medium,mcp,1497.0,MEDIUM_CONF
+P041651-04,Puma,Puma One Grip 1 RC TW-Handschuh Orange,,yellow,red,Regular Cut,medium,mcp,1494.0,MEDIUM_CONF
+R5270825-6006,reusch,Attrakt Grip Evolution,,blue,grey,,medium,mcp,1472.0,MEDIUM_CONF
+U1013-03,uhlsport,Uhlsport Supergrip GC,,yellow,black,Rollfinger,medium,mcp,1439.0,MEDIUM_CONF
+R3770955-484,reusch,Reusch Serathor Pro G2 Torwarthandschuh,,yellow,blue,Regular Cut,medium,mcp,1433.0,MEDIUM_CONF
+HO520312,HO Soccer,HO Soccer Aerial II NG Torwarthandschuh,,black,blue,Negative Cut,medium,mcp,1428.0,MEDIUM_CONF
+U1072,uhlsport,Uhlsport Aquasoft Torwarthandschuh Weis,,white,blue,Regular Cut,medium,mcp,1427.0,MEDIUM_CONF
+R5160955_4010,reusch,Reusch Attrakt Gold X Expanse Cut 2.0,,,,,medium,mcp,1420.0,NO_COLOR
+HO520159,HO Soccer,HO SOCCER First Evolution Patriot Italia,,white,green,Negative Cut,medium,mcp,1410.0,MEDIUM_CONF
+HO0515115IT,HO Soccer,HO SUPREMO PRO NEGATIVE DNA III,,yellow,red,Negative Cut,medium,mcp,1408.0,MEDIUM_CONF
+HO511280IT1,HO Soccer,HO SOCCER Phenomenon Pro Roll-NC DNA,,black,,,medium,mcp,1407.0,MEDIUM_CONF
+KS10001-111,KEEPERsport,KEEPERsport Varan6 Hero NC Torwarthands,111,red,white,Negative Cut,high,mcp_ks,1406.0,MCP_KS_VERIFY
+TFA2I0Z07720,Erreà,Erreà Zero the icon giallo,,yellow,black,,medium,mcp,1402.0,MEDIUM_CONF
+NXT-PRO-CONTRA-W-HYL,One Glove,NXT Pro Contra White HYL,,white,,Hybrid,medium,mcp,1393.0,MEDIUM_CONF
+E7221811,erima,Erima Skinator Training NC,,blue,orange,Negative Cut,medium,mcp,1387.0,MEDIUM_CONF
+P041627-01,Puma,PUMA ONE Grip 1 Hybrid Pro TW-Handschuh,,red,black,Hybrid,medium,mcp,1386.0,MEDIUM_CONF
+R3770990-484,reusch,Reusch Serathor Supreme G2 Ortho-Tec Bl,,yellow,blue,Regular Cut,medium,mcp,1383.0,MEDIUM_CONF
+10354424_EL4004140_000,Elite Sport,Elite Sports Neo Revolution x Gs 4mm To,,white,,Hybrid,medium,mcp,1381.0,MEDIUM_CONF
+AFH7295,adidas,adidas Predator TRN TW-Handschuh Schwar,,red,black,Regular Cut,medium,mcp,1377.0,MEDIUM_CONF
+R5670439-7126,reusch,Reusch Attrakt Freegel Aqua Torwarthand,,black,,Hybrid,medium,mcp,1373.0,MEDIUM_CONF
+EL4002470,Elite Sport,Elite Revolution II Combi TQ,,white,blue,,medium,mcp,1373.0,MEDIUM_CONF
+NXT-PRO-MONSTER-SL,One Glove,NXT Pro Mentality Monster SL,,black,white,Hybrid,medium,mcp,1368.0,MEDIUM_CONF
+HO520042,HO Soccer,FIRST SUPERLIGHT NEGATIVE GRAFFITI,,black,,Negative Cut,medium,mcp,1358.0,MEDIUM_CONF
+U0567-01,uhlsport,Uhlsport Eliminator AG HN Brasil,,yellow,blue,,medium,mcp,1355.0,MEDIUM_CONF
+NXT-ADV-DOUBT,One Glove,NXT Advance Doubters,,red,white,Negative Cut,medium,mcp,1350.0,MEDIUM_CONF
+KS10003-111,KEEPERsport,KEEPERsport Varan6 PRO NC Torwarthandsc,111,white,,Negative Cut,high,mcp_ks,1349.0,MCP_KS_VERIFY
+KS10011-024,KEEPERsport,KEEPERsport Varan6 Champ NC,024,black,white,Negative Cut,high,mcp_ks,1346.0,MCP_KS_VERIFY
+10255531_5370320_3333,reusch,Reusch Futsal Grip Torwarthandschuh Rot,,red,blue,,medium,mcp,1318.0,MEDIUM_CONF
+ETS041702_001,Puma,PUMA ULTRA Protect 2 RC Torwarthandschu,,white,orange,Regular Cut,medium,mcp,1316.0,MEDIUM_CONF
+EL4003470,Elite Sport,Elite Sports Supreme Torwarthandschuhe,,black,,Negative Cut,medium,mcp,1316.0,MEDIUM_CONF
+EL2000220,Elite Sport,Elite Sport Black Real,,black,,,medium,mcp,1311.0,MEDIUM_CONF
+SGP181909,Sells Goalkeeper,Sells Wrap Pro Terrain Torwarthandschuh,,blue,green,Rollfinger,medium,mcp,1308.0,MEDIUM_CONF
+ETS1011028_01,uhlsport,Uhlsport Speed Up Now Soft HN Comp Lite,,yellow,black,Negative Cut,medium,mcp,1306.0,MEDIUM_CONF
+ETS7221904_951132,erima,Erima Skinator Hybrid Torwarthandschuh,,black,white,Hybrid,medium,mcp,1303.0,MEDIUM_CONF
+U1118-02,uhlsport,Uhlsport Supergrip HN Torwarthandschuh,,yellow,blue,Negative Cut,medium,mcp,1297.0,MEDIUM_CONF
+NGS3381-492,NIKE,Nike Grip 3 Torwarthandschuh Blau F492,,blue,,Hybrid,medium,mcp,1289.0,MEDIUM_CONF
+EL4002800,Elite Sport,Elite Nebula,,white,blue,,medium,mcp,1287.0,MEDIUM_CONF
+KS10008-011,KEEPERsport,KEEPERsport Varan6 Premier NC 5FS Repl.,011,yellow,white,Negative Cut,high,mcp_ks,1287.0,MCP_KS_VERIFY
+HO5200376IT,HO Soccer,HO SOCCER First Superlight Negative DNA,,black,blue,Negative Cut,medium,mcp,1285.0,MEDIUM_CONF
+10268071_RPB70062302_000,gloveglu,Glove Glu t:RANCE MEGAgrip Torwarthands,,red,white,Negative Cut,medium,mcp,1285.0,MEDIUM_CONF
+NGS3886-492,NIKE,Nike Mercurial Touch Elite TW-Handschuh,,blue,,Negative Cut,medium,mcp,1278.0,MEDIUM_CONF
+R5070005-4949,reusch,Reusch G3 Duo TW-Handschuh Blau F4949,,yellow,blue,Negative Cut,medium,mcp,1276.0,MEDIUM_CONF
+10322897_HQ0259_850,NIKE,Nike Torwarthandschuhe Orange F850,,orange,green,,medium,mcp,1274.0,MEDIUM_CONF
+R5670960-7701,reusch,Reusch Attrakt Gold X NC Finger Support,,black,,Negative Cut,medium,mcp,1272.0,MEDIUM_CONF
+ETS7221906_000,erima,Erima Skinator Hardground Torwarthandsc,,,,,medium,mcp,1270.0,NO_COLOR
+R5072204-4949,reusch,Reusch Arrow S1 Torwarthandschuh Kids B,,yellow,blue,Hybrid,medium,mcp,1266.0,MEDIUM_CONF
+NGS3377-100,NIKE,Nike Mercurial Touch Elite Torwarthands,,white,orange,Negative Cut,medium,mcp,1263.0,MEDIUM_CONF
+HO520091,HO Soccer,HO SOCCER SSG Legend Negative Meteor,,white,blue,Negative Cut,medium,mcp,1245.0,MEDIUM_CONF
+NCK4874-810,NIKE,NIKE GK Premier NC Promo,,red,,Negative Cut,medium,mcp,1239.0,MEDIUM_CONF
+10379390_1011380012026_01,uhlsport,uhlsport FM Cybertec Supersoft HN #392,,black,,Negative Cut,medium,mcp,1238.0,MEDIUM_CONF
+R5670039-1080,reusch,Reusch Attrakt SpeedBump Torwarthandsch,,white,,Hybrid,medium,mcp,1238.0,MEDIUM_CONF
+ETS3670870_783,reusch,Reusch Re:pulse SG Torwarthandschuh F78,,black,orange,,medium,mcp,1233.0,MEDIUM_CONF
+ETS1011171_01,uhlsport,Uhlsport Pure Alliance Soft Flex Handsc,,yellow,white,Regular Cut,medium,mcp,1226.0,MEDIUM_CONF
+HO511283IT1,HO Soccer,HO SOCCER Supremo Pro NC DNA,,black,,,medium,mcp,1217.0,MEDIUM_CONF
+EL4002350,Elite Sport,ELITE NEO REVOLUTION II,,black,pink,Negative Cut,medium,mcp,1215.0,MEDIUM_CONF
+RPB70102103,gloveglu,Glove Glu Wet Skinn NC,,black,green,Negative Cut,medium,mcp,1214.0,MEDIUM_CONF
+P041637-01,Puma,PUMA KING RC TW-Handschuh Schwarz Weiss,,black,white,Regular Cut,medium,mcp,1207.0,MEDIUM_CONF
+EL4002860,Elite Sport,Elite CIELO,,white,grey,Hybrid,medium,mcp,1205.0,MEDIUM_CONF
+HO510650,HO Soccer,HO Soccer Futsal orange,,,,Negative Cut,medium,mcp,1202.0,NO_COLOR
+ETS1011009_01,uhlsport,Uhlsport Speed Up Now Absolutgrip FS Ge,,,,,medium,mcp,1202.0,NO_COLOR
+U1119,uhlsport,Uhlsport Radar Control Absolutgrip Refl,,yellow,blue,Negative Cut,medium,mcp,1197.0,MEDIUM_CONF
+EL4004330,Elite Sport,Elite Sports Opal 4mm Of Es Centrum Tor,,black,,Negative Cut,medium,mcp,1193.0,MEDIUM_CONF
+NCQ6375-100,NIKE,Nike GRP3 VPR Torwarthandschuh weiss F1,,black,white,Hybrid,medium,mcp,1193.0,MEDIUM_CONF
+EL4004510,Elite Sport,Elite Sports Nobre 4mm Torwarthandschuh,,black,,Negative Cut,medium,mcp,1193.0,MEDIUM_CONF
+ETSCV0594_440,NIKE,Nike Phantom Elite PROMO Torwarthandsch,,red,blue,Negative Cut,medium,mcp,1174.0,MEDIUM_CONF
+KSU1133-01,uhlsport,uhlsport Absolutgrip GC,,red,white,Rollfinger,medium,mcp,1172.0,MEDIUM_CONF
+R3270870-701,reusch,reusch Keon SG Plus,,,,,medium,mcp,1168.0,NO_COLOR
+E722602,erima,Erima Premier Ultimate Grip TW-Handschu,,yellow,black,Rollfinger,medium,mcp,1167.0,MEDIUM_CONF
+R5070991-7083,reusch,Reusch G3 Fusion Ortho-Tec Torwarthands,,black,orange,Hybrid,medium,mcp,1165.0,MEDIUM_CONF
+U1139,uhlsport,Uhlsport Dyn.Impulse Supergrip FS TW-Ha,,yellow,orange,Hybrid,medium,mcp,1160.0,MEDIUM_CONF
+ETS041664_004,Puma,PUMA FUTURE Grip 5.2 Chasing Adrenalin,,black,orange,Hybrid,medium,mcp,1141.0,MEDIUM_CONF
+HO520040,HO Soccer,FIRST EVOLUTION NEGATIVE SCREEN LIME,,green,,Negative Cut,medium,mcp,1138.0,MEDIUM_CONF
+NCK4874-492,NIKE,NIKE GK Premier NC Promo,,blue,,Negative Cut,medium,mcp,1135.0,MEDIUM_CONF
+ETS5170958_1100,reusch,Reusch Attrakt Fusion Ortho-Tech TW-Han,,white,,Negative Cut,medium,mcp,1131.0,MEDIUM_CONF
+U1052-03,uhlsport,uhlsport Aquagrip Fingersurround,,blue,,Hybrid,medium,mcp,1128.0,MEDIUM_CONF
+SGP151633,Sells Goalkeeper,SELLS Silhouette Aqua Campione,,white,orange,Negative Cut,medium,mcp,1127.0,MEDIUM_CONF
+U1222-02,uhlsport,Uhlsport Aquagrip HN Torwarthandschuh B,,black,blue,Negative Cut,medium,mcp,1118.0,MEDIUM_CONF
+HO511282IT1,HO Soccer,HO SOCCER First Superlight NC DNA,,black,,,medium,mcp,1115.0,MEDIUM_CONF
+U1011386-001,uhlsport,uhlsport Fangmaschine Aquasoft HN Torwa,,blue,,Hybrid,medium,mcp,1113.0,MEDIUM_CONF
+NCZ8133-073,NIKE,NIKE GK Premier EC20 NC Promo 20cm,,grey,,Negative Cut,medium,mcp,1109.0,MEDIUM_CONF
+ETS5170945_4010,reusch,Reusch Attrakt Gold X TW-Handschuh F401,,blue,,Negative Cut,medium,mcp,1107.0,MEDIUM_CONF
+NXT-ADVANCE-MONSTER,One Glove,NXT Advance Mentality Monster,,black,turquoise,Negative Cut,medium,mcp,1082.0,MEDIUM_CONF
+EL4003340,Elite Sport,ELITE NOBRE ART S,,black,white,Negative Cut,medium,mcp,1080.0,MEDIUM_CONF
+HO520038IT,HO Soccer,HO SOCCER Premier Phenomenon Negative DN,,black,blue,Negative Cut,medium,mcp,1080.0,MEDIUM_CONF
+10295811_7222402_000,erima,Erima Flex-Ray Protect TW-Handschuh Kid,,blue,grey,Negative Cut,medium,mcp,1068.0,MEDIUM_CONF
+10373890_1011430_01,uhlsport,uhlsport FM Comfort Absolutgrip HN Torw,,black,,Negative Cut,medium,mcp,1064.0,MEDIUM_CONF
+NCK4757-492,NIKE,NIKE GK Mercurial Touch Elite Promo,,blue,,Negative Cut,medium,mcp,1057.0,MEDIUM_CONF
+U1082-02,uhlsport,Uhlsport Aerored Supersoft HN Torwartha,,red,grey,Hybrid,medium,mcp,1054.0,MEDIUM_CONF
+U1123,uhlsport,Uhlsport Radar Control Supersoft Handsc,,yellow,blue,Regular Cut,medium,mcp,1050.0,MEDIUM_CONF
+U1141,uhlsport,Uhlsport Dyn.Impulse Absolutgrip TW-Han,,yellow,orange,Negative Cut,medium,mcp,1050.0,MEDIUM_CONF
+10351158_IF8194_635,NIKE,Nike Dynamic Fit Torwarthandschuhe Rot,,red,blue,Negative Cut,medium,mcp,1050.0,MEDIUM_CONF
+10345986_5599813_1190,reusch,Reusch AB1 Celebration Torwarthandschuh,,,,,medium,mcp,1049.0,NO_COLOR
+R3970510-583,reusch,Fit Control SD Open Cuff Finger Support,,yellow,,Regular Cut,medium,mcp,1048.0,MEDIUM_CONF
+HO520095,HO Soccer,HO SOCCER First Evolution Negative Flash,,yellow,black,Negative Cut,medium,mcp,1048.0,MEDIUM_CONF
+E7222004,erima,Erima Skinator Torwarthandschuhe Rot Bl,,red,blue,,medium,mcp,1044.0,MEDIUM_CONF
+P041638-01,Puma,PUMA KING IC TW-Handschuh Schwarz Weiss,,black,white,Negative Cut,medium,mcp,1041.0,MEDIUM_CONF
+R3970239-583,reusch,REUSCH FIT CONTROL S1 EVOLUTION,,yellow,,Rollfinger,medium,mcp,1040.0,MEDIUM_CONF
+R5170439-3001,reusch,Reusch Attrakt Aqua Torwarthandschuh F3,,red,blue,Negative Cut,medium,mcp,1038.0,MEDIUM_CONF
+HO520041,HO Soccer,FIRST SUPERLIGHT NEGATIVE CLASSIC BLUE,,blue,,Negative Cut,medium,mcp,1030.0,MEDIUM_CONF
+NCZ8136-073,NIKE,NIKE GK Vapor Grip 3 NC Promo 20cm,,grey,,Negative Cut,medium,mcp,1027.0,MEDIUM_CONF
+RPB70102102,gloveglu,Glove Glu Dry Skinn NC,,red,black,Negative Cut,medium,mcp,1019.0,MEDIUM_CONF
+R5672955-4126,reusch,Reusch Attrakt Gold X NC Torwarthandsch,,blue,,Negative Cut,medium,mcp,1014.0,MEDIUM_CONF
+U1117,uhlsport,Uhlsport Radar Control Supergrip FS Han,,yellow,blue,Hybrid,medium,mcp,1007.0,MEDIUM_CONF
+U1149,uhlsport,Uhlsport Supersoft HN Flex Frame TW-Han,,yellow,black,Hybrid,medium,mcp,1005.0,MEDIUM_CONF
+HO520012,HO Soccer,MGC SPECIAL EDITION RETRO BLACK,,black,,Negative Cut,medium,mcp,1005.0,MEDIUM_CONF
+P000034-REG,reusch,reusch re:ceptor green (Veronese SMU),,,,,medium,mcp,992.0,NO_COLOR
+KS337-015,KEEPERsport,KEEPERsport GK-Glove Varan5 NC Supersoft,015,black,green,Negative Cut,high,mcp_ks,979.0,MCP_KS_VERIFY
+R5199354-4010,reusch,Reusch Freegel Fusion OT Szczesny,,,,,medium,mcp,899.0,NO_COLOR
+P000022-WAO,reusch,reusch Waorani (Rafael Romo SMU),,,,,medium,mcp,899.0,NO_COLOR
+EL9990060,Elite Sport,Elite TC Limited Edition,,,,,medium,mcp,821.0,NO_COLOR
+KS10020,KEEPERsport,KEEPERsport Varan7 Hero Promo,,,,,medium,mcp,795.0,NO_COLOR
+8FP9927-MAG,reusch,reusch Magno black (Elana SMU),,,,,medium,mcp,773.0,NO_COLOR
+R3370807-516,reusch,reusch Argos Pro SG,,,,,medium,mcp,719.0,NO_COLOR
+8FP9927-KEY,reusch,reusch Keon yellow (Elana SMU),,,,,medium,mcp,709.0,NO_COLOR
+P000033-REC,reusch,reusch re:ceptor (Mbohli SMU),,,,Rollfinger,medium,mcp,696.0,NO_COLOR
+R3170807-501,reusch,reusch Keon SG Elite,,,,,medium,mcp,693.0,NO_COLOR
+R3370822-409,reusch,reusch Argos SG Finger Support,,,,,medium,mcp,660.0,NO_COLOR
+U0190,uhlsport,Uhlsport Eliminator Soft Graphit SF Sch,,,,Regular Cut,medium,mcp,653.0,NO_COLOR
+R3370870-701,reusch,reusch Argos SG,,,,,medium,mcp,630.0,NO_COLOR
+P000002-REP,reusch,reusch re:puls orange (Abbiati SMU),,,,,medium,mcp,628.0,NO_COLOR
+P000012-REC,reusch,reusch Receptor (Audard SMU without Prin,,,,,medium,mcp,597.0,NO_COLOR
+P000012-WAO,reusch,reusch Waorani (Audard SMU),,,,,medium,mcp,590.0,NO_COLOR
+R3170807-701,reusch,reusch Keon SG Elite,,,,,medium,mcp,574.0,NO_COLOR
+KS10013-011,KEEPERsport,KEEPERsport Varan6 PRO NC Torwarthandsc,011,black,,Negative Cut,high,mcp_ks,556.0,MCP_KS_VERIFY
+P000031-REB,reusch,reusch re:ceptor blue (Gabriel SMU),,,,,medium,mcp,529.0,NO_COLOR
+KS10009-011,KEEPERsport,KEEPERsport Varan6 PRO GC Torwarthandsc,011,white,blue,Rollfinger,high,mcp_ks,493.0,MCP_KS_VERIFY
+P000003-REO,reusch,reusch re:load orange (Sirigu SMU),,,,,medium,mcp,472.0,NO_COLOR
+R3570900-770,reusch,reusch Re:ceptor Deluxe G2 Ortho-Tec,,,,,medium,mcp,463.0,NO_COLOR
+P000012-KEY,reusch,reusch Keon yellow (Audard SMU),,,,Negative Cut,medium,mcp,462.0,NO_COLOR
+R000041-REP,reusch,reusch re:pulse (Perquis SMU),,,,,medium,mcp,453.0,NO_COLOR
+ETS3770956_494,reusch,Reusch Serathor Pro G2 Negative Cut Han,,,,,medium,mcp,453.0,NO_COLOR
+KSP10050,KEEPERsport,KEEPERsport Varan8 Champ NC Promo,,,,,medium,mcp,443.0,NO_COLOR
+R3570606-302,reusch,reusch Re.ceptor Prime D1,,,,,medium,mcp,417.0,NO_COLOR
+R3470800-344,reusch,reusch Waorani Pro S1 Ortho-Tec,,,,Regular Cut,medium,mcp,408.0,NO_COLOR
+KS337-006,KEEPERsport,KEEPERsport GK-Glove Varan5 NC Supersoft,006,red,,Negative Cut,high,mcp_ks,408.0,MCP_KS_VERIFY
+KS332-015,KEEPERsport,KEEPERsport GK-Glove Varan5 Pro NC,015,black,green,Negative Cut,high,mcp_ks,404.0,MCP_KS_VERIFY
+8FP9041-KEY,reusch,reusch Keon yellow (Sirigu SMU),,,,,medium,mcp,400.0,NO_COLOR
+P000008-KEOA2B,reusch,reusch Keon A2 (Castellazzi SMU),,,,,medium,mcp,395.0,NO_COLOR
+ETS1011159_001,uhlsport,Uhlsport Soft Resist Flex Frame,,,,,medium,mcp,369.0,NO_COLOR
+KSP10030,KEEPERsport,KEEPERsport Varan8 Hero NC Promo,,,,,medium,mcp,362.0,NO_COLOR
+R3970755-775,reusch,Reusch Fit Control Pro R3 TW-Handschuh,,,,Regular Cut,medium,mcp,349.0,NO_COLOR
+KS10001-631,KEEPERsport,KEEPERsport Varan6 Hero NC Torwarthands,631,black,gold,Negative Cut,high,mcp_ks,338.0,MCP_KS_VERIFY
+KS0KSP041282-01,Puma,Puma evoPOWER #KsEdition Duo NC,,,,,medium,mcp,325.0,NO_COLOR
+P000041-REP,reusch,reusch re:pulse orange (Perquis SMU),,,,,medium,mcp,307.0,NO_COLOR
+P000041-REC,reusch,reusch re:ceptor Aqua (Perquis SMU),,,,,medium,mcp,294.0,NO_COLOR
+P000005-REO,reusch,reusch re:load orange (Viviano SMU),,,,,medium,mcp,291.0,NO_COLOR
+P000002-KEW,reusch,reusch Keon white (Abbiati SMU),,,,,medium,mcp,288.0,NO_COLOR
+R3770135-494,reusch,Reusch Serathor Prime M1,,,,Regular Cut,medium,mcp,287.0,NO_COLOR
+KSP10051,KEEPERsport,KEEPERsport Varan8 Champ Power Promo,,,,,medium,mcp,271.0,NO_COLOR
+P000012-KEO,reusch,reusch Keon orange (Audard SMU),,,,,medium,mcp,267.0,NO_COLOR
+8FP9927-MAGNC,reusch,reusch Magno NC (Elana SMU),,,,,medium,mcp,267.0,NO_COLOR
+R5299212-1015,reusch,Reusch Arrow Gold X S Handanovic,,,,,medium,mcp,266.0,NO_COLOR
+ETS1011053_002,uhlsport,Uhlsport Aerored SG HN TW-Handschuh F02,,,,,medium,mcp,257.0,NO_COLOR
+R3570102-770,reusch,reusch Re:ceptor Prime M1 Ortho-Tec,,,,,medium,mcp,246.0,NO_COLOR
+MP0005-REUSCH,reusch,Mystery Reusch Double Pack Protection,,,,,medium,mcp,233.0,NO_COLOR
+P000008-KEO,reusch,reusch Keon Aqua (Castellazzi SMU),,,,,medium,mcp,227.0,NO_COLOR
+P040812-12,Puma,Puma PowerCat 3.12 Jun.,,,,,medium,mcp,223.0,NO_COLOR
+R3770340-191,reusch,Reusch Futsal Pro 3/4 SFX,,,,,medium,mcp,222.0,NO_COLOR
+P000002-WAB,reusch,reusch Waorani blue (Abbiati SMU),,,,,medium,mcp,214.0,NO_COLOR
+KS10011-991,KEEPERsport,KEEPERsport Varan6 Champ NC TW-Handschu,991,black,white,Negative Cut,high,mcp_ks,212.0,MCP_KS_VERIFY
+R5199451-4949,reusch,Reusch Attrakt Duo Meret,,,,,medium,mcp,203.0,NO_COLOR
+ETS041480_001,Puma,PUMA ONE Protect 3 Torwarthandschuh Sch,,,,,medium,mcp,179.0,NO_COLOR
+ETS1011077_001,uhlsport,Uhlsport Soft Resist SF,,,,,medium,mcp,179.0,NO_COLOR
+P000008-KEOA2W,reusch,reusch Keon A2 (Castellazzi SMU),,,,,medium,mcp,172.0,NO_COLOR
+KS337-032,KEEPERsport,KEEPERsport GK-Glove Varan5 NC Supersoft,032,,,,medium,ks_farbcode,145.0,NO_COLOR
+P000008-MAG,reusch,reusch Magno duo mega grip (Castellazzi,,,,,medium,mcp,131.0,NO_COLOR
+R3570263-777,reusch,reusch Re:load Prime S1,,,,,medium,mcp,130.0,NO_COLOR
+R3570970-777,reusch,reusch Re:ceptor Pro G2 Bundesliga,,,,Regular Cut,medium,mcp,128.0,NO_COLOR
+ETS1011155_001,uhlsport,Uhlsport Soft HN Comp Torwarthandschuh,,,,,medium,mcp,125.0,NO_COLOR
+P000012-REG,reusch,reusch Receptor (Audard SMU),,,,,medium,mcp,121.0,NO_COLOR
+R3470844-234,reusch,Reusch Sala Football SFX,,,,,medium,mcp,116.0,NO_COLOR
+ETS510671_000,HO Soccer,HO Soccer Supremo Pro TW-Handschuh Gelb,,,,,medium,mcp,114.0,NO_COLOR
+ETS1011022_01,uhlsport,Uhlsport Eliminator Unlimited SS LT Han,,,,,medium,mcp,113.0,NO_COLOR
+8FP9024-KEY,reusch,reusch Keon yellow (Storari SMU),,,,,medium,mcp,110.0,NO_COLOR
+10294110_5470955_4411,reusch,Reusch Attrakt Gold x NC Torwarthandsch,,,,,medium,mcp,107.0,NO_COLOR
+R5299211-1015,reusch,Reusch Arrow Gold X Handanovic,,,,,medium,mcp,105.0,NO_COLOR
+ETS3870059_999,reusch,Reusch Prisma Pro G3 Fusion LTD TW-Hand,,,,,medium,mcp,103.0,NO_COLOR
+R3899213-296,reusch,Reusch Prisma Pro NC Handanovic,,,,,medium,mcp,102.0,NO_COLOR
+10351386_042088_11,Puma,PUMA ULTRA Pro NC Torwarthandschuhe Kid,,,,,medium,mcp,102.0,NO_COLOR
+P000031-REG,reusch,reusch re:ceptor green (Gabriel SMU),,,,,medium,mcp,102.0,NO_COLOR
+P000008-KEODEL,reusch,reusch Keon deluxe aqua (Castellazzi SMU,,,,,medium,mcp,98.0,NO_COLOR
+8FP9041-KEO,reusch,reusch Keon (Sirigu SMU),,,,,medium,mcp,92.0,NO_COLOR
+P000011-RAO,reusch,reusch Raptor orange (Ospina SMU),,,,,medium,mcp,92.0,NO_COLOR
+ETS3870993_296,reusch,Reusch Prisma Supreme G3 Fusion TW-Hand,,,,,medium,mcp,92.0,NO_COLOR
+R5099351-7083,reusch,Reusch Fusion Evo OT W Szczesny,,,,,medium,mcp,88.0,NO_COLOR
+R3970239-883,reusch,reusch Fit Control S1 Evolution,,,,Regular Cut,medium,mcp,87.0,NO_COLOR
+ETS1011118_01,uhlsport,Uhlsport Radar Control Supergrip HN Han,,,,,medium,mcp,85.0,NO_COLOR
+R5099352-7083,reusch,Reusch Fusion Evo OT Szczesny,,,,,medium,mcp,84.0,NO_COLOR
+R3470902-233,reusch,reusch Waorani Pro G2 Bundesliga LTD,,,,,medium,mcp,83.0,NO_COLOR
+R5099353-2199,reusch,Reusch Freegel Fusion Evo OT Szczesny,,,,,medium,mcp,81.0,NO_COLOR
+R3770330-601,reusch,Reusch Futsal Pro SFX,,,,,medium,mcp,79.0,NO_COLOR
+R3072815-210,reusch,Magno SG Elite Junior,,,,,medium,mcp,74.0,NO_COLOR
+8FP9041-KEA,reusch,reusch Keon aqua,,,,,medium,mcp,71.0,NO_COLOR
+P000008-KEODUO,reusch,reusch Keon duo mega grip (Castellazzi S,,,,,medium,mcp,66.0,NO_COLOR
+P000009-REC,reusch,reusch re:ceptor green (Andujar SMU),,,,,medium,mcp,66.0,NO_COLOR
+ETSGS3884_100,NIKE,Nike Vapor Grip 3 Torwarthandschuh Weis,,,,,medium,mcp,65.0,NO_COLOR
+HO510676,HO Soccer,HO SOCCER SSG Supremo Kontakt Evolution,,,,Hybrid,medium,mcp,65.0,NO_COLOR
+U0171-02,uhlsport,Uhlsport Eliminator Soft Support #177,,,,,medium,mcp,64.0,NO_COLOR
+KS333-015,KEEPERsport,KEEPERsport GK-Glove Varan5 Pro NC Aqua,015,black,green,Negative Cut,high,mcp_ks,61.0,MCP_KS_VERIFY
+ETS3870959_236,reusch,Reusch Prisma Pro G3 Evolution TW-Hands,,,,,medium,mcp,59.0,NO_COLOR
+SGP1438,Sells Goalkeeper,Sells Axis 360 Pro Aqua,,,,,medium,mcp,55.0,NO_COLOR
+ETS1011074_001,uhlsport,Uhlsport Absolutgrip TW-Handschuh Blau,,,,,medium,mcp,53.0,NO_COLOR
+ETS5070005_4949,reusch,Reusch G3 Duo TW-Handschuh Blau F4949,,,,,medium,mcp,53.0,NO_COLOR
+ETS1011011_01,uhlsport,Uhlsport Eliminator Unlimited AG HN Han,,,,,medium,mcp,51.0,NO_COLOR
+HO510672,HO Soccer,HO SOCCER Supremo Pro Negative Pink,,,,Negative Cut,medium,mcp,46.0,NO_COLOR
+P041226-32,Puma,Puma evoPOWER Grip 3.3 RC,,,,,medium,mcp,45.0,NO_COLOR
+ETS041440_022,Puma,PUMA One Protect 18.2 RC Handschuh Schw,,,,,medium,mcp,45.0,NO_COLOR
+ETS510662_000,HO Soccer,HO Soccer Supremo Pro TW-Handschuh Schw,,,,,medium,mcp,44.0,NO_COLOR
+R5070935-1100,reusch,reusch Attrakt Freegel G3,,,,,medium,mcp,43.0,NO_COLOR
+KSP10002,KEEPERsport,KEEPERsport Varan6 Pro Promo,,,,,medium,mcp,41.0,NO_COLOR
+HO510708,HO Soccer,HO SOCCER SSG Supremo Roll Negative,,,,Hybrid,medium,mcp,38.0,NO_COLOR
+ETS1011054_001,uhlsport,Uhlsport Tensiongreen Absolutgrip FS Ha,,,,,medium,mcp,33.0,NO_COLOR
+R3770320-484,reusch,Reusch Futsal SG SFX,,,,,medium,mcp,31.0,NO_COLOR
+KS333-615,KEEPERsport,KEEPERsport GK-Glove Varan5 Pro NC Aqua,615,blue,,Negative Cut,high,mcp_ks,31.0,MCP_KS_VERIFY
+KS0KSU0598-01,uhlsport,Uhlsport Eliminator Supergraphit RC,,,,,medium,mcp,30.0,NO_COLOR
+KSP10070,KEEPERsport,KEEPERsport Varan8 Pro NC Promo,,,,,medium,mcp,28.0,NO_COLOR
+ETS1011099_001,uhlsport,Uhlsport Soft HN Comp TW-Handschuh Schw,,,,,medium,mcp,26.0,NO_COLOR
+ETS1011103_001,uhlsport,Uhlsport Next Level Soft SF TW-Handschu,,,,,medium,mcp,26.0,NO_COLOR
+U0153-01,uhlsport,Uhlsport Eliminator Supersoft GC,,,,,medium,mcp,25.0,NO_COLOR
+ETS1011126_01,uhlsport,Uhlsport Radar Control Soft Pro Handsch,,,,,medium,mcp,23.0,NO_COLOR
+ETS5072263_2199,reusch,Reusch Attrakt Freegel S1 Junior Kids L,,,,,medium,mcp,23.0,NO_COLOR
+KSX10003-111,KEEPERsport,KEEPERsport Varan6 Pro NC (Belag),111,white,,,high,mcp_ks,23.0,MCP_KS_VERIFY
+TEA2X0Z04930,Erreà,Erreà Space Hybrid,,,,,medium,mcp,20.0,NO_COLOR
+HO510678,HO Soccer,HO SOCCER Supremo Clone Negative Pink,,,,Negative Cut,medium,mcp,20.0,NO_COLOR
+ETSFH7295_000,adidas,adidas Predator TRN TW-Handschuh Schwar,,,,,medium,mcp,16.0,NO_COLOR
+ETS1011060_001,uhlsport,Uhlsport Tensiongreen S SF TW-Handschuh,,,,,medium,mcp,16.0,NO_COLOR
+ETSFJ5989_000,adidas,adidas Predator TRN TW-Handschuh Weiss,,,,,medium,mcp,14.0,NO_COLOR
+U0368-01,uhlsport,Uhlsport Ergonomic Soft RF,,,,,medium,mcp,11.0,NO_COLOR
+KSP10071,KEEPERsport,KEEPERsport Varan8 Pro GC Promo,,,,,medium,mcp,0.0,NO_COLOR
