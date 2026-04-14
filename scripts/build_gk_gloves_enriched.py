@@ -519,6 +519,9 @@ def main() -> None:
         # Merge 11ts /attributes: Cut fallback, Material, Technologien
         extra = extra_11ts.get(sku, {})
         schnitt_11ts = extra.get("Schnitt", "")
+        # "Schmal" and "Breit" are Passform values, not valid glove cuts
+        if schnitt_11ts in ("Schmal", "Breit"):
+            schnitt_11ts = ""
         # Cut priority: MCP (KS expert curation) > 11ts Schnitt (fallback)
         if not colors["Cut"] and schnitt_11ts:
             colors["Cut"] = schnitt_11ts
