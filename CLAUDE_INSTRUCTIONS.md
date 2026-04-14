@@ -41,29 +41,45 @@ The raw aggregation before color enrichment. Same 2,365 SKUs. Use this if you ne
 
 **54 columns:** `Marke_Code`, `Marke`, `ParentSKU`, `ProductName`, `Resolution_hint`, `Extracted_ID`, plus the same Units/Revenue totals and year/quarter breakdowns.
 
-### 2.3 Apparel Aggregated CSVs
+### 2.3 Apparel Enriched CSVs (Primary Apparel Datasets)
 
-These files follow the same schema as `gk_gloves_aggregated.csv` but add `Kategorie_Code` and `Kategorie` columns. They do NOT have color enrichment.
+Enriched apparel datasets with color model + apparel-specific attributes (cut, padding, material). Data sources: 11ts API (ItemInfo + /attributes) for competitor brands, MCP backend for KEEPERsport/rehab, KS Farbcode mapping.
 
-| File | Categories (Kategorie_Code) | Description |
+| File | Categories | SKUs | Basisfarbe Coverage | High Conf (Rev) |
+|---|---|---|---|---|
+| `gk_shirts_enriched.csv` | 1001 (Torwarttrikots) + 1003 (Trainingsoberteile) | 578 | 99.7% | 80.7% |
+| `gk_pants_enriched.csv` | 1002 (Torwarthosen) | 415 | 99.5% | 55.4% |
+| `gk_baselayers_enriched.csv` | 1004 (Unterziehshirts) + 1005 (Unterziehhosen) | 178 | 99.6% | 75.3% |
+| `gk_sets_enriched.csv` | 1009 (Torwartsets) | 77 | 99.2% | 49.6% |
+
+**67 columns:**
+
+| Column Group | Columns | Description |
 |---|---|---|
-| `gk_shirts_aggregated.csv` | 1001 (Torwarttrikots = GK jerseys), 1003 (Trainingsoberteile = training tops) | Upper body match & training wear |
-| `gk_pants_aggregated.csv` | 1002 (Torwarthosen = GK pants) | GK pants |
-| `gk_baselayers_aggregated.csv` | 1004 (Unterziehshirts = baselayer tops), 1005 (Unterziehhosen = baselayer bottoms) | Padded protection baselayers -- KEEPERsport core product line |
-| `gk_sets_aggregated.csv` | 1009 (Torwartsets = GK sets) | Bundled GK sets |
+| Identity | `Marke_Code`, `Marke`, `ParentSKU`, `ProductName` | Brand code, brand name, parent SKU, product display name |
+| Category | `Kategorie_Code`, `Kategorie` | SAP category code and name |
+| Color Model | `Basisfarbe`, `Highlight_1`, `Highlight_2`, `Farbbezeichnung_Hersteller` | Same as gloves (see Section 3) |
+| Apparel Cut | `Aermellaenge`, `Textillaenge` | Sleeve length (Langarm/Kurzarm) for shirts; textile length (Lang/Kurz/3_4/Normal) for pants/baselayers |
+| Apparel Attrs | `Passform`, `Padding`, `Material`, `Serie`, `Produktart` | Fit (eng/schmal), padding zones (elbow/hip/knee), material composition, collection/series, product type |
+| Color Metadata | `Color_confidence`, `Resolution_source` | Data quality indicators |
+| Totals | `Units_total`, `Revenue_total` | Lifetime units sold and net revenue in EUR |
+| Yearly | `Units_2022` .. `Units_2026`, `Revenue_2022` .. `Revenue_2026` | Annual breakdowns |
+| Quarterly | `Units_2022-Q1` .. `Units_2026-Q2`, `Revenue_2022-Q1` .. `Revenue_2026-Q2` | Quarterly breakdowns |
 
-**Apparel SKU counts and revenue:**
+### 2.4 Apparel Aggregated CSVs (Raw)
 
-| File | SKUs | Total Revenue (EUR) | KEEPERsport Share |
+Raw aggregation before enrichment. Use these only if you need the `Resolution_hint` or `Extracted_ID` fields.
+
+| File | SKUs | Revenue | KEEPERsport Share |
 |---|---|---|---|
-| gk_shirts_aggregated.csv | 578 | 1,029K | 39.8% |
-| gk_pants_aggregated.csv | 415 | 1,028K | 47.2% |
-| gk_baselayers_aggregated.csv | 178 | 1,876K | 82.8% |
-| gk_sets_aggregated.csv | 77 | 210K | 76.7% |
+| `gk_shirts_aggregated.csv` | 578 | 1,029K | 39.8% |
+| `gk_pants_aggregated.csv` | 415 | 1,028K | 47.2% |
+| `gk_baselayers_aggregated.csv` | 178 | 1,876K | 82.8% |
+| `gk_sets_aggregated.csv` | 77 | 210K | 76.7% |
 
-**56 columns each:** Same as gloves aggregated, plus `Kategorie_Code` and `Kategorie`.
+**56 columns each:** Same schema as gloves aggregated, plus `Kategorie_Code` and `Kategorie`.
 
-### 2.4 Supporting / Reference CSVs
+### 2.5 Supporting / Reference CSVs
 
 These are intermediate data sources used during the enrichment pipeline. They are useful for auditing color assignments or understanding specific SKUs.
 
@@ -74,6 +90,8 @@ These are intermediate data sources used during the enrichment pipeline. They ar
 | `gk_gloves_itemattrs.csv` | 1,054 | Product attributes from the 11ts wholesale API (ItemInfo endpoint). Contains `Color1`, `Color2`, `Color3`, `HerstellerFarbbezeichnung` (manufacturer color designation), `Herstellermodell` (manufacturer model), and more. Primarily covers competitor brands. |
 | `gk_gloves_mcp_attrs.csv` | 1,315 | Product attributes from the KEEPERsport MCP backend. Contains `MCP_Color_keys`, `MCP_Color_labels`, `MCP_Collection`, `MCP_Cut`, `MCP_Surface`, and more. |
 | `gk_gloves_desc_colors.csv` | 1,152 | Colors extracted from product descriptions via the MCP backend. Contains `Desc_Basisfarbe` and `Desc_colors` for SKUs where color could be parsed from description text. |
+| `gk_apparel_11ts_attrs.csv` | 383 | 11ts API ItemInfo + /attributes for competitor apparel SKUs. Contains Color1/2/3, Aermellaenge, Textillaenge, Passform, Material, Serie, Produktart. |
+| `gk_apparel_mcp_attrs.csv` | 850 | MCP backend product attributes for non-11ts apparel SKUs. Contains color, sleeve-length, pants-cut, padding, collection, gender, fit. |
 
 ---
 
@@ -132,14 +150,19 @@ High-confidence data covers 90% of total revenue. Medium-confidence (primarily M
 ### Collection
 Product line / model family. Examples for KEEPERsport: Varan8, Varan7, Varan6, Challenge, Premier, Demon. For competitors: varies by brand (from `Herstellermodell`).
 
-### Cut (Glove Cut Type)
+### Cut (Glove Cut Type) -- Gloves only
 - **Innennaht (NC)** = Negative Cut (seams inside)
 - **Aussennaht (RC)** = Roll/Flat Cut (seams outside)
 - **Hybrid (Mix)** = Hybrid cut combining styles
 - **Rollfinger (GC)** = Roll Finger cut
 - Additional brand-specific cuts exist (e.g., Reusch Freegel, PUMA FUTURE)
 
-Only applicable to GK gloves. Not all SKUs have a cut assigned.
+### Apparel Cut Dimensions
+- **Aermellaenge** (sleeve length): `Langarm` (long sleeve) / `Kurzarm` (short sleeve) -- shirts/tops only
+- **Textillaenge** (textile length): `Lang` / `Kurz` / `3_4` / `Normal` -- pants/baselayers
+- **Passform** (fit): `eng` (tight) / `schmal` (slim) / `normal` / `weit` (loose)
+- **Padding**: Comma-separated zones: `elbow`, `hip`, `knee` -- key differentiator for baselayers
+- **Material**: Composition string, e.g., "100% Polyester" or "86% Polyester, 14% Elastodien"
 
 ### Time Periods
 - **Yearly:** 2022, 2023, 2024, 2025, 2026 (partial)
@@ -178,14 +201,20 @@ Here are specific, high-value analyses you can perform with this data:
 11. **Q4 seasonality:** Is there a Christmas/holiday spike in GK glove sales? Compare Q4 revenue share across years.
 12. **Quarterly growth trajectory:** What is the overall market growth rate quarter-over-quarter?
 
-### Category Comparison (if apparel CSVs are available)
+### Category Comparison
 13. **Cross-category market share:** How does KEEPERsport's revenue share differ between gloves, shirts, pants, baselayers, and sets?
-14. **Baselayer growth:** Which brands are growing fastest in the baselayer category (KEEPERsport's core apparel line)?
+14. **Baselayer growth:** Which brands are growing fastest in the baselayer category (KEEPERsport's core apparel line at 82.8% share)?
 15. **Category ASP comparison:** Compare average selling prices across product categories.
 
+### Apparel-Specific
+16. **Sleeve length preference:** What's the split between Langarm and Kurzarm in GK shirts by revenue? Any trend over time?
+17. **Pants length analysis:** Revenue distribution across Lang/Kurz/3_4 for pants and baselayers.
+18. **Padding coverage:** What share of baselayer revenue has padding data? Which padding zones (elbow/hip/knee) are most common?
+19. **Material composition:** Compare material mixes across price tiers (calculate ASP × material type).
+
 ### Data Quality
-16. **Confidence audit:** What percentage of total revenue is backed by high-confidence color data? Break down by Resolution_source.
-17. **Unresolved SKUs:** List the SKUs with empty Basisfarbe. What is their combined revenue impact?
+20. **Confidence audit:** What percentage of total revenue is backed by high-confidence color data? Break down by Resolution_source across all categories.
+21. **Unresolved SKUs:** List the SKUs with empty Basisfarbe. What is their combined revenue impact?
 
 ---
 
@@ -195,8 +224,9 @@ Here are specific, high-value analyses you can perform with this data:
 - **Empty Basisfarbe:** 138 SKUs have no resolved base color. These are primarily low-revenue legacy products or SKUs that could not be matched to any color data source.
 - **Credit notes:** Revenue figures are net of credit notes (returns/adjustments). Individual SKUs can have negative revenue in specific periods if returns exceeded sales.
 - **Partial 2026:** Only Q1 and Q2 data exists for 2026. Always normalize or caveat when comparing against full prior years.
-- **Apparel data is not color-enriched:** The apparel aggregated CSVs contain only revenue/units breakdowns, not color attributes. Color analysis is limited to GK gloves.
-- **Cut field coverage:** Not all GK glove SKUs have a Cut value. Coverage depends on MCP data availability.
+- **Apparel color enrichment:** All 4 apparel enriched CSVs have Basisfarbe coverage above 99% of revenue. Use the `_enriched.csv` files for analysis, not the `_aggregated.csv` files.
+- **Apparel cut coverage:** Aermellaenge is populated for ~79% of shirts, Textillaenge for ~69% of pants. Coverage depends on 11ts /attributes + MCP data availability. Padding is populated for ~46% of baselayers.
+- **Cut field coverage (gloves):** Not all GK glove SKUs have a Cut value. Coverage depends on MCP data availability.
 
 ---
 
