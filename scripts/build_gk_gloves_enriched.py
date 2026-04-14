@@ -535,7 +535,6 @@ def main() -> None:
         "Marke_Code", "Marke", "ParentSKU", "ProductName",
         "Basisfarbe", "Highlight_1", "Highlight_2", "Farbbezeichnung_Hersteller",
         "Collection", "Cut",
-        "Material", "Technologien",
         "Color_confidence", "Resolution_source", "Resolution_detail",
         "Units_total", "Revenue_total",
     ]
@@ -586,8 +585,6 @@ def main() -> None:
             "ParentSKU": sku,
             "ProductName": agg_row["ProductName"],
             **colors,
-            "Material": material,
-            "Technologien": technologien,
             "Units_total": agg_row["Units_total"],
             "Revenue_total": agg_row["Revenue_total"],
         }
@@ -626,11 +623,9 @@ def main() -> None:
     rev_with = sum(float(r["Revenue_total"]) for r in rows if r["Basisfarbe"])
     print(f"\nBasisfarbe coverage: {with_color}/{len(rows)} SKUs ({rev_with/total_rev*100:.1f}% of revenue)")
 
-    print(f"\nAdditional attribute coverage:")
-    for attr in ["Cut", "Material", "Technologien"]:
-        n = sum(1 for r in rows if r[attr])
-        rev_a = sum(float(r["Revenue_total"]) for r in rows if r[attr])
-        print(f"  {attr:<15}: {n:>5} / {len(rows)} SKUs  ({rev_a/total_rev*100:.1f}% of revenue)")
+    with_cut = sum(1 for r in rows if r["Cut"])
+    rev_cut = sum(float(r["Revenue_total"]) for r in rows if r["Cut"])
+    print(f"Cut coverage: {with_cut}/{len(rows)} SKUs ({rev_cut/total_rev*100:.1f}% of revenue)")
 
 
 if __name__ == "__main__":
