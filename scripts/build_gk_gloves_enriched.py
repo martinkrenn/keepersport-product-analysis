@@ -170,6 +170,17 @@ def load_desc_colors() -> dict[str, dict]:
     return rows
 
 
+def load_11ts_extra_attrs() -> dict[str, dict]:
+    """Load 11ts /attributes data (Schnitt, Material, Technologien) keyed by ParentSKU."""
+    rows = {}
+    path = ROOT / "gk_gloves_11ts_extra_attrs.csv"
+    if path.exists():
+        with path.open(newline="", encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                rows[row["ParentSKU"]] = row
+    return rows
+
+
 def load_stammdaten() -> dict[str, dict]:
     """Load products_master.csv keyed by sku_parent."""
     rows = {}
@@ -459,9 +470,11 @@ def main() -> None:
     stammdaten = load_stammdaten()
     reverse_idx = build_11ts_reverse_index()
     desc_colors_map = load_desc_colors()
+    extra_11ts = load_11ts_extra_attrs()
 
     print(f"  Aggregated:       {len(agg)} SKUs")
     print(f"  11ts attrs:       {len(attrs_11ts)} SKUs")
+    print(f"  11ts extra attrs: {len(extra_11ts)} SKUs")
     print(f"  MCP attrs:        {len(attrs_mcp)} SKUs")
     print(f"  KS Farbcodes:     {len(fc_map)} codes")
     print(f"  Stammdaten:       {len(stammdaten)} SKUs")
@@ -476,6 +489,7 @@ def main() -> None:
         "Marke_Code", "Marke", "ParentSKU", "ProductName",
         "Basisfarbe", "Highlight_1", "Highlight_2", "Farbbezeichnung_Hersteller",
         "Collection", "Cut",
+        "Material", "Technologien",
         "Color_confidence", "Resolution_source", "Resolution_detail",
         "Units_total", "Revenue_total",
     ]
@@ -502,12 +516,31 @@ def main() -> None:
         conf_counts[colors["Color_confidence"]] += 1
         src_counts[colors["Resolution_source"]] += 1
 
+        # Merge 11ts /attributes: Cut fallback, Material, Technologien
+        extra = extra_11ts.get(sku, {})
+        schnitt_11ts = extra.get("Schnitt", "")
+        # Cut priority: MCP (KS expert curation) > 11ts Schnitt (fallback)
+        if not colors["Cut"] and schnitt_11ts:
+            colors["Cut"] = schnitt_11ts
+
+        # Material composition from 11ts /attributes
+        mat_parts = []
+        for n in ("1", "2", "3"):
+            mat = extra.get(f"Material_{n}", "")
+            pct = extra.get(f"Material_{n}_pct", "")
+            if mat:
+                mat_parts.append(f"{pct}% {mat}" if pct else mat)
+        material = ", ".join(mat_parts)
+        technologien = extra.get("Technologien", "")
+
         row = {
             "Marke_Code": agg_row["Marke_Code"],
             "Marke": marke,
             "ParentSKU": sku,
             "ProductName": agg_row["ProductName"],
             **colors,
+            "Material": material,
+            "Technologien": technologien,
             "Units_total": agg_row["Units_total"],
             "Revenue_total": agg_row["Revenue_total"],
         }
@@ -545,6 +578,12 @@ def main() -> None:
     with_color = sum(1 for r in rows if r["Basisfarbe"])
     rev_with = sum(float(r["Revenue_total"]) for r in rows if r["Basisfarbe"])
     print(f"\nBasisfarbe coverage: {with_color}/{len(rows)} SKUs ({rev_with/total_rev*100:.1f}% of revenue)")
+
+    print(f"\nAdditional attribute coverage:")
+    for attr in ["Cut", "Material", "Technologien"]:
+        n = sum(1 for r in rows if r[attr])
+        rev_a = sum(float(r["Revenue_total"]) for r in rows if r[attr])
+        print(f"  {attr:<15}: {n:>5} / {len(rows)} SKUs  ({rev_a/total_rev*100:.1f}% of revenue)")
 
 
 if __name__ == "__main__":
