@@ -245,6 +245,49 @@ def extract_article_number(sku: str) -> str | None:
     return sku_clean if sku_clean else None
 
 
+# ── Cut normalization ─────────────────────────────────────────────────────
+# Canonical glove cuts: Negative Cut, Regular Cut, Hybrid, Rollfinger
+# Sources use varying names; normalize all to canonical.
+
+CUT_NORMALIZE = {
+    "innennaht": "Negative Cut",
+    "innennaht (nc)": "Negative Cut",
+    "negative cut": "Negative Cut",
+    "nc": "Negative Cut",
+    "außennaht": "Regular Cut",
+    "außennaht (rc)": "Regular Cut",
+    "aussennaht": "Regular Cut",
+    "regular cut": "Regular Cut",
+    "rc": "Regular Cut",
+    "hybrid": "Hybrid",
+    "hybrid (mix)": "Hybrid",
+    "mix": "Hybrid",
+    "rollfinger": "Rollfinger",
+    "rollfinger (gc)": "Rollfinger",
+    "gunncut": "Rollfinger",
+    "gc": "Rollfinger",
+}
+
+# Values that are NOT cuts (Passform / feature descriptors)
+CUT_BLACKLIST = {"schmal", "breit", "ohne knöchelschutz", "normal"}
+
+
+def norm_cut(raw: str) -> str:
+    """Normalize a potentially comma-separated cut string to canonical names."""
+    if not raw:
+        return ""
+    parts = [p.strip() for p in raw.split(",")]
+    normalized = []
+    for p in parts:
+        key = p.lower()
+        if key in CUT_BLACKLIST:
+            continue
+        mapped = CUT_NORMALIZE.get(key, "")
+        if mapped and mapped not in normalized:
+            normalized.append(mapped)
+    return ", ".join(normalized)
+
+
 # ── Main resolution logic ─────────────────────────────────────────────────
 
 def resolve_colors(
@@ -285,7 +328,7 @@ def resolve_colors(
         if attrs_mcp and attrs_mcp.get("MCP_resolved") == "true":
             if not result["Collection"]:
                 result["Collection"] = attrs_mcp.get("MCP_Collection", "")
-            result["Cut"] = attrs_mcp.get("MCP_Cut", "")
+            result["Cut"] = norm_cut(attrs_mcp.get("MCP_Cut", ""))
         return result
 
     # ── Priority 2: KS house brand (multi-layer) ──
@@ -308,7 +351,7 @@ def resolve_colors(
             result["Color_confidence"] = "high"
             result["Resolution_source"] = "stammdaten"
             result["Resolution_detail"] = f"FC={fc}"
-            result["Cut"] = mcp_cut
+            result["Cut"] = norm_cut(mcp_cut)
             result["Collection"] = mcp_collection
             return result
 
@@ -326,7 +369,7 @@ def resolve_colors(
             result["Color_confidence"] = "high"
             result["Resolution_source"] = "ks_katalog"
             result["Resolution_detail"] = f"FC={fc}"
-            result["Cut"] = mcp_cut
+            result["Cut"] = norm_cut(mcp_cut)
             result["Collection"] = mcp_collection
             # Add Farbbezeichnung from Phase 1 if available
             fc_data = fc_map.get(fc)
@@ -353,7 +396,7 @@ def resolve_colors(
             result["Color_confidence"] = "medium"
             result["Resolution_source"] = "ks_farbcode"
             result["Resolution_detail"] = f"FC={fc}"
-            result["Cut"] = mcp_cut
+            result["Cut"] = norm_cut(mcp_cut)
             result["Collection"] = mcp_collection
             return result
 
@@ -364,7 +407,7 @@ def resolve_colors(
             result["Color_confidence"] = "low"
             result["Resolution_source"] = "mcp_only"
             result["Resolution_detail"] = f"FC={fc}"
-            result["Cut"] = mcp_cut
+            result["Cut"] = norm_cut(mcp_cut)
             result["Collection"] = mcp_collection
             return result
 
@@ -389,7 +432,7 @@ def resolve_colors(
                 result["Color_confidence"] = "high"
                 result["Resolution_source"] = "rehab_desc"
                 result["Resolution_detail"] = desc.get("Desc_colors", "")
-                result["Cut"] = mcp_cut
+                result["Cut"] = norm_cut(mcp_cut)
                 result["Collection"] = mcp_collection
                 result["Farbbezeichnung_Hersteller"] = attrs_mcp.get("MCP_Color_labels", "") if attrs_mcp else ""
                 return result
@@ -409,7 +452,7 @@ def resolve_colors(
             result["Color_confidence"] = "medium"
             result["Resolution_source"] = "mcp_rehab"
             result["Resolution_detail"] = product_name[:40]
-        result["Cut"] = mcp_cut
+        result["Cut"] = norm_cut(mcp_cut)
         result["Collection"] = mcp_collection
         result["Farbbezeichnung_Hersteller"] = attrs_mcp.get("MCP_Color_labels", "") if attrs_mcp else ""
         return result
@@ -418,7 +461,7 @@ def resolve_colors(
     if attrs_mcp and attrs_mcp.get("MCP_resolved") == "true":
         mcp_colors = [c.strip() for c in attrs_mcp.get("MCP_Color_keys", "").split(",") if c.strip()]
         result["Collection"] = attrs_mcp.get("MCP_Collection", "")
-        result["Cut"] = attrs_mcp.get("MCP_Cut", "")
+        result["Cut"] = norm_cut(attrs_mcp.get("MCP_Cut", ""))
         result["Farbbezeichnung_Hersteller"] = attrs_mcp.get("MCP_Color_labels", "")
 
         # Try cross-reference via ProducerArticleNumber in 11ts reverse index
@@ -519,9 +562,7 @@ def main() -> None:
         # Merge 11ts /attributes: Cut fallback, Material, Technologien
         extra = extra_11ts.get(sku, {})
         schnitt_11ts = extra.get("Schnitt", "")
-        # "Schmal" and "Breit" are Passform values, not valid glove cuts
-        if schnitt_11ts in ("Schmal", "Breit"):
-            schnitt_11ts = ""
+        schnitt_11ts = norm_cut(schnitt_11ts)
         # Cut priority: MCP (KS expert curation) > 11ts Schnitt (fallback)
         if not colors["Cut"] and schnitt_11ts:
             colors["Cut"] = schnitt_11ts
