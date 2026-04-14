@@ -273,7 +273,8 @@ CUT_BLACKLIST = {"schmal", "breit", "ohne knöchelschutz", "normal"}
 
 
 def norm_cut(raw: str) -> str:
-    """Normalize a potentially comma-separated cut string to canonical names."""
+    """Normalize a potentially comma-separated cut string to canonical names.
+    Multi-cut combinations (2+ distinct cuts) = Hybrid."""
     if not raw:
         return ""
     parts = [p.strip() for p in raw.split(",")]
@@ -285,7 +286,9 @@ def norm_cut(raw: str) -> str:
         mapped = CUT_NORMALIZE.get(key, "")
         if mapped and mapped not in normalized:
             normalized.append(mapped)
-    return ", ".join(normalized)
+    if len(normalized) > 1:
+        return "Hybrid"
+    return normalized[0] if normalized else ""
 
 
 # ── Main resolution logic ─────────────────────────────────────────────────
