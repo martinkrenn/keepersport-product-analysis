@@ -11,7 +11,6 @@ Period columns: full quarterly 2022-Q1 .. 2026-Q2, yearly 2022..2026, plus quart
 from __future__ import annotations
 
 import csv
-import json
 import re
 from collections import defaultdict
 from pathlib import Path
@@ -141,8 +140,6 @@ def main() -> None:
         header += [f"Units_{y}", f"Revenue_{y}"]
     for q in quarters:
         header += [f"Units_{q}", f"Revenue_{q}"]
-    header += ["quarters_json"]
-
     rows = []
     for (mc, parent), rec in agg.items():
         hint, ext = classify(parent)
@@ -174,8 +171,6 @@ def main() -> None:
             row[f"Units_{q}"] = rec["q"].get(q, {}).get("units", 0)
             row[f"Revenue_{q}"] = round(rec["q"].get(q, {}).get("net", 0.0), 2)
 
-        qjson = {q: {"u": rec["q"][q]["units"], "r": round(rec["q"][q]["net"], 2)} for q in sorted(rec["q"])}
-        row["quarters_json"] = json.dumps(qjson, separators=(",", ":"))
         rows.append(row)
 
     # Sort by revenue descending
