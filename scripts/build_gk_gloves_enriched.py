@@ -358,23 +358,27 @@ def resolve_colors(
             result["Collection"] = mcp_collection
             return result
 
-        # Layer 2: KS Kampagne→Farbcode mapping
+        # Layer 2: MCP color (live shop data — first key = Basisfarbe)
+        if mcp_colors:
+            result["Basisfarbe"] = norm(mcp_colors[0])
+            result["Highlight_1"] = norm(mcp_colors[1]) if len(mcp_colors) > 1 else ""
+            result["Highlight_2"] = norm(mcp_colors[2]) if len(mcp_colors) > 2 else ""
+            result["Color_confidence"] = "high"
+            result["Resolution_source"] = "mcp_ks"
+            result["Resolution_detail"] = f"FC={fc}"
+            result["Cut"] = norm_cut(mcp_cut)
+            result["Collection"] = mcp_collection
+            result["Farbbezeichnung_Hersteller"] = attrs_mcp.get("MCP_Color_labels", "") if attrs_mcp else ""
+            return result
+
+        # Layer 3: KS Kampagne→Farbcode mapping (fallback for delisted products)
         if fc in KS_FARBCODE_BASISFARBE:
             result["Basisfarbe"] = KS_FARBCODE_BASISFARBE[fc]
-            # Highlights from MCP if available
-            if mcp_colors:
-                all_colors = [norm(c) for c in mcp_colors]
-                for c in all_colors:
-                    if c != result["Basisfarbe"] and not result["Highlight_1"]:
-                        result["Highlight_1"] = c
-                    elif c != result["Basisfarbe"] and c != result["Highlight_1"] and not result["Highlight_2"]:
-                        result["Highlight_2"] = c
             result["Color_confidence"] = "high"
             result["Resolution_source"] = "ks_katalog"
             result["Resolution_detail"] = f"FC={fc}"
             result["Cut"] = norm_cut(mcp_cut)
             result["Collection"] = mcp_collection
-            # Add Farbbezeichnung from Phase 1 if available
             fc_data = fc_map.get(fc)
             if fc_data:
                 vorschlag = fc_data.get("Vorschlag_Farbe_Kampagne", "").strip()
@@ -382,7 +386,7 @@ def resolve_colors(
                 result["Farbbezeichnung_Hersteller"] = kampagne or vorschlag
             return result
 
-        # Layer 3: Phase 1 Farbcode enrichment
+        # Layer 4: Phase 1 Farbcode enrichment
         fc_data = fc_map.get(fc)
         if fc_data:
             vorschlag = fc_data.get("Vorschlag_Farbe_Kampagne", "").strip()
