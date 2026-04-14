@@ -1,0 +1,1055 @@
+Marke,ParentSKU,ProductName,ItemID,Producer,ProducerArticleNumber,Variant,Herstellermodell,Marketingperiode,LaunchDate,ArticleGroup,CanonicalCategoryId,Color1,Color2,Color3,HerstellerFarbbezeichnung,Active,SapMaterialNumber
+reusch,10161269_5170965_4010,Reusch Attrakt Freegel Fusion TW-Handsc,10161269,Reusch,5170965,Reu_E_TWH,5170965,202012,2020-12-18,104090,401,blau,,,deep blue / deep blue,true,5170965-4010
+reusch,10161271_5172238_4010,Reusch Attrakt Grip TW-Handschuh Junior,10161271,Reusch,5172810,Reu_K_TWH,5172810,202012,2020-12-18,104090,401,blau,,,deep blue / white,true,5172810-4011
+adidas,10170547_GK6180_000,adidas Predator MTC Torwarthandschuh Pi,10170547,adidas,GK6180,Adi_E_TWH,adi1670,202108,2021-08-03,104090,399,pink,lila,schwarz,shopnk/cpurpl/black/,true,GK6180
+adidas,10170549_GT9538_000,adidas Predator Pro Marvel X-Men Torwar,10170549,adidas,GT9538,Adi_E_TWH,adi1672,202104,2021-06-18,104090,399,gelb,schwarz,silber,byello/black/silvmt/,true,GT9538
+adidas,10170550_GL4263_000,adidas Predator Pro Superspectral TW-Ha,10170550,adidas,GL4263,Adi_E_TWH,adi1672,202104,2021-06-14,104090,399,schwarz,pink,lila,black/shopnk/cpurpl/,true,GL4263
+adidas,10170553_GK7467_000,adidas Predator TRN TW-Handschuh Schwar,10170553,adidas,GK7467,Adi_E_TWH,adi1682,202104,2021-05-03,104090,399,schwarz,pink,,black/shopnk,true,GK7467
+adidas,10170618_GK3508_000,adidas X Pro Superspectral Torwarthands,10170618,adidas,GK3508,Adi_E_TWH,adi2883,202104,2021-05-03,104090,399,pink,schwarz,orange,shopnk/black/scrora,true,GK3508
+NIKE,10171761_CN6724_406,Nike Phantom Elite Torwarthandschuh Bla,10171761,Nike,CN6724,Nike_E_TWH,CN6724,202101,2020-12-08,104090,409,blau,schwarz,silber,photo blue/black/silver,true,CN6724-406
+NIKE,10171762_CN6758_406,Nike Phantom Shadow Torwarthandschuh Bl,10171762,Nike,CN6758,Nike_E_TWH,CN6758,202101,2020-12-08,104090,409,blau,schwarz,silber,photo blue/black/silver,true,CN6758-406
+NIKE,10173742_DC1980_573,Nike Mercurial Touch Elite Torwarthands,10173742,Nike,DC1980,Nike_E_TWH,DC1980,202101,2021-02-03,104090,409,lila,schwarz,gruen,dark raisin/black/rage green,true,DC1980-573
+NIKE,10174082_CK4871_635,Nike Premier SGT RS Promo TW-Handschuh,10174082,Nike,CK4871,Nike_E_TWH,CK4871,202108,2020-12-08,104090,409,rot,weiss,,bright crimson/indigo burst,true,CK4871-635
+NIKE,10174084_CK4874_635,Nike Premier NO SGT RS Promo TW-Handsch,10174084,Nike,CK4874,Nike_E_TWH,CK4874,202108,2020-12-08,104090,409,rot,weiss,,bright crimson/indigo burst,true,CK4874-635
+NIKE,10174087_CK4899_635,Nike Gunn Cut Promo Torwarthandschuh F6,10174087,Nike,CK4899,Nike_E_TWH,CK4899,202108,2021-08-24,104090,409,rot,lila,weiss,bright crimson/indigo burst,true,CK4899-635
+NIKE,10174088_CK4917_635,Nike Spyne Promo Torwarthandschuh F635,10174088,Nike,CK4917,Nike_E_TWH,CK4917,202108,2020-12-08,104090,409,rot,,,bright crimson/indigo brust,true,CK4917-635
+NIKE,10174092_CW5818_573,Nike Mercurial Touch Elite Promo TW-Han,10174092,Nike,CW5818,Nike_E_TWH,CW5818,202102,2021-02-12,104090,409,lila,gruen,weiss,purple/lilac,true,CW5818-573
+Puma,10174869_041696_008,PUMA ULTRA Grip Hybrid Pro Game ON TW-H,10174869,PUMA,041696,Puma_E_TWH,041696,202101,2021-01-21,104090,681,schwarz,gelb,,puma black-yellow alert,true,041696-08
+Puma,10174870_041696_009,PUMA ULTRA Spectra Grip Hybrid Pro TW-H,10174870,PUMA,041696,Puma_E_TWH,041696,202104,2021-04-08,104090,681,lila,beige,,red blast-puma white,true,041696-09
+Puma,10174871_041697_008,PUMA ULTRA Grip 1 RC Game ON TW-Handsch,10174871,PUMA,041697,Puma_E_TWH,041697,202101,2021-01-21,104090,681,schwarz,gelb,,puma black-yellow alert,true,041697-08
+Puma,10174872_041697_009,PUMA ULTRA Spectra Grip 1 RC TW-Handsch,10174872,PUMA,041697,Puma_E_TWH,041697,202104,2021-04-08,104090,681,beige,lila,rot,red blast-puma white,true,041697-09
+Puma,10174873_041698_008,PUMA ULTRA Grip 1 Game ON RC TW-Handsch,10174873,PUMA,041698,Puma_E_TWH,041698,202101,2021-01-21,104090,681,schwarz,gelb,,puma black-yellow alert,true,041698-08
+Puma,10174877_041703_002,PUMA ULTRA Protect 3 Game ON RC TW-Hand,10174877,PUMA,041703,Puma_E_TWH,041703,202101,2021-01-21,104090,681,gelb,schwarz,,yellow alert-puma black,true,041703-02
+Puma,10174879_041752_001,PUMA FUTURE Grip Hybrid Game ON TW-Hand,10174879,PUMA,041752,Puma_E_TWH,041752,202101,2021-01-21,104090,681,gelb,schwarz,weiss,yellow alert-puma black-puma white,true,041752-01
+Puma,10174880_041752_002,PUMA FUTURE Z Spectra Grip Hybrid TW-Ha,10174880,PUMA,041752,Puma_E_TWH,041752,,2021-04-08,104090,681,weiss,rot,,puma white-red blast,true,041752-02
+Puma,10174881_041752_003,PUMA FUTURE Eclipse Grip Hybrid TW-Hand,10174881,PUMA,041752,Puma_E_TWH,041752,202102,2020-12-30,104090,681,schwarz,grau,,puma black-asphalt,true,041752-03
+Puma,10174884_041754_002,PUMA FUTURE Z Spectra Grip 3 NC TW-Hand,10174884,PUMA,041754,Puma_E_TWH,041754,202104,2021-04-08,104090,681,weiss,rot,,puma white-red blast,true,041754-02
+reusch,10179470_5172900_2199,Reusch Pure Contact Fusion TW-Handschuh,10179470,Reusch,5172900,Reu_K_TWH,5172900,202101,2021-01-29,104090,401,gelb,blau,,safety yellow/deep blue/deep blue,true,5172900-2199
+reusch,10180043_5170904_7701,Reusch Legacy Gold X TW-Handschuh F7701,10180043,Reusch,5170904,Reu_E_TWH,5170904,202109,2021-09-24,104090,401,schwarz,weiss,,black / white,true,5170904-7701
+reusch,10180258_5162566_7783,Reusch Attrakt Infrared TW-Handschuh Ki,10180258,Reusch,5162566,Reu_K_TWH,5162566,202110,2021-02-16,104090,401,schwarz,orange,,black / shocking orange,true,5162566-7783
+reusch,10180271_5170985_3002,Reusch Attrakt Fusion Guardian TW-Hands,10180271,Reusch,5170985,Reu_E_TWH,5170985,202105,2021-05-21,104090,401,rot,weiss,,red / white,true,5170985-3002
+NIKE,10181000_CQ7795_345,Nike Jr. Match Torwarthandschuh Kids Gr,10181000,Nike,CQ7795,Nike_E_TWH,CQ7795,202105,2021-05-10,104090,409,gelb,weiss,,lime glow/white/aquamarine,true,CQ7795-345
+NIKE,10181003_CQ7799_356,Nike Match Torwarthandschuh Blau Schwar,10181003,Nike,CQ7799,Nike_E_TWH,CQ7799,202104,2021-04-13,104090,409,tuerkis,,,aquamarine/black/green glow,true,CQ7799-356
+uhlsport,10182936_1011203_001,Uhlsport Pure Force Supergrip+ HN TW-Ha,10182936,uhlsport,1011203,Uhl_E_TWH,1011203,202104,2021-04-08,104090,400,rot,schwarz,weiss,rot/schwarz/weiss,true,1011203-01
+uhlsport,10182937_1011206_001,Uhlsport Pure Force Absolutgrip HN TW-H,10182937,uhlsport,1011206,Uhl_E_TWH,1011206,202104,2021-04-08,104090,400,rot,schwarz,weiss,rot/schwarz/weiss,true,1011206-001
+reusch,10183354_5170745_7700,Reusch Attrakt Freegel Infinity TW-Hand,10183354,Reusch,5170745,Reu_E_TWH,5170745,202104,2021-03-22,104090,401,schwarz,,,black,true,5170745-7700
+Puma,10185413_041821_01,PUMA Future Z 2 Ederson Edition TW-Hand,10185413,PUMA,041821,Puma_E_TWH,041821,202104,2021-04-30,104090,681,weiss,,,puma white-ederson,true,041821-01
+adidas,10186427_GR1527_000,adidas Predator Pro PC Meteorite Torwar,10186427,adidas,GR1527,Adi_E_TWH,adi1680,202107,2021-07-20,104090,399,rot,schwarz,,solred/red/black,true,GR1527
+adidas,10186428_GR1528_000,adidas Predator LGE Torwarthandschuh Ro,10186428,adidas,GR1528,Adi_E_TWH,adi1668,202107,2021-07-20,104090,399,rot,schwarz,,solred/red/black,true,GR1528
+adidas,10186429_GR1529_000,adidas Predator Pro Meteorite Torwartha,10186429,adidas,GR1529,Adi_E_TWH,adi1672,202107,2021-07-20,104090,399,rot,schwarz,,solred/red/black,true,GR1529
+adidas,10186430_GR1530_000,adidas Predator Pro Escape Light Torwar,10186430,adidas,GR1530,Adi_E_TWH,adi1672,202107,2021-07-20,104090,399,grau,schwarz,,ntgrey/black/sonink,true,GR1530
+adidas,10186431_GR1531_000,adidas Predator TRN Meteorite Torwartha,10186431,adidas,GR1531,Adi_E_TWH,adi1683,202107,2021-07-20,104090,399,rot,schwarz,,red/solred/black,true,GR1531
+adidas,10186434_GR1534_000,adidas Predator MTC FS Meteorite Torwar,10186434,adidas,GR1534,Adi_E_TWH,adi1671,202107,2021-07-20,104090,399,rot,schwarz,,solred/red/black,true,GR1534
+adidas,10186435_GR1535_000,adidas Predator COM Meteorite Torwartha,10186435,adidas,GR1535,Adi_E_TWH,adi1666,202107,2021-09-01,104090,399,rot,schwarz,,solred/red/black,true,GR1535
+adidas,10186436_GR1536_000,adidas Predator MTC Meteorite Torwartha,10186436,adidas,GR1536,Adi_E_TWH,adi1669,202107,2021-07-20,104090,399,rot,schwarz,,solred/red/black,true,GR1536
+adidas,10186437_GR1537_000,adidas Predator Pro Meteorite Torwartha,10186437,adidas,GR1537,Adi_E_TWH,adi1677,202107,2021-07-20,104090,399,rot,schwarz,,solred/red/black,true,GR1537
+adidas,10186438_GR1538_000,adidas Predator Pro HYB Meteorite Torwa,10186438,adidas,GR1538,Adi_E_TWH,adi1675,202107,2021-07-21,104090,399,rot,schwarz,,solred/red/black,true,GR1538
+adidas,10186439_GR1539_000,adidas X TRN Meteorite Torwarthandschuh,10186439,adidas,GR1539,Adi_E_TWH,adi2885,202107,2021-07-20,104090,399,rot,schwarz,weiss,solred/red/black/whit,true,GR1539
+adidas,10186440_GR1540_000,adidas X LGE Meteorite Torwarthandschuh,10186440,adidas,GR1540,Adi_E_TWH,adi2881,202107,2021-07-20,104090,399,rot,weiss,schwarz,red/solred/white/blac,true,GR1540
+adidas,10186441_GR1541_000,adidas X Pro Meteorite Torwarthandschuh,10186441,adidas,GR1541,Adi_E_TWH,adi2884,202107,2021-08-25,104090,399,rot,weiss,gelb,solred/white/red/syel,true,GR1541
+adidas,10186442_GR1542_000,adidas X LGE Meteorite Torwarthandschuh,10186442,adidas,GR1542,Adi_E_TWH,adi2882,202107,2021-07-20,104090,399,rot,weiss,schwarz,solred/red/white/blac,true,GR1542
+adidas,10186443_GR1543_000,adidas X Pro Meteorite Torwarthandschuh,10186443,adidas,GR1543,Adi_E_TWH,adi2883,202107,2021-07-21,104090,399,rot,weiss,schwarz,solred/white/red/blac,true,GR1543
+adidas,10186444_GR1544_000,adidas X TRN Meteorite Torwarthandschuh,10186444,adidas,GR1544,Adi_E_TWH,adi2886,202107,2021-07-20,104090,399,rot,schwarz,weiss,solred/black/red/whit,true,GR1544
+adidas,10186445_GS1428_000,adidas Predator Pro FSP White Spark TW-,10186445,adidas,GS1428,Adi_E_TWH,adi1674,202110,2021-12-02,104090,399,weiss,grau,rot,white/ironmt/solred,true,GS1428
+adidas,10186447_GS1430_000,adidas Predator Pro ULT Meteorite Torwa,10186447,adidas,GS1430,Adi_E_TWH,adi1681,202107,2021-07-20,104090,399,rot,schwarz,,solred/red/black,true,GS1430
+adidas,10186448_GS4037_000,adidas Predator MTC FS White Spark TW-H,10186448,adidas,GS4037,Adi_E_TWH,adi1671,202111,2021-11-02,104090,399,weiss,beige,grau,white/greone/ironmt/s,true,GS4037
+adidas,10186449_GS4038_000,adidas Predator TRN White Spark Torwart,10186449,adidas,GS4038,Adi_E_TWH,adi1683,202111,2021-11-02,104090,399,weiss,grau,schwarz,white/greone/black/ir,true,GS4038
+adidas,10186450_GS4041_000,adidas Predator TRN White Spark Torwart,10186450,adidas,GS4041,Adi_E_TWH,adi1682,202111,2021-11-02,104090,399,weiss,schwarz,,white/black/greone/ir,true,GS4041
+adidas,10186451_GS4066_000,adidas Predator Pro HYP Meteorite Torwa,10186451,adidas,GS4066,Adi_E_TWH,adi1676,202107,2021-07-20,104090,399,rot,schwarz,,solred/red/black,true,GS4066
+adidas,10186452_GS4930_000,adidas Predator Pro HYP White Spark TW-,10186452,adidas,GS4930,Adi_E_TWH,adi1676,202111,2021-11-02,104090,399,weiss,grau,rot,white/ironmt/solred,true,GS4930
+adidas,10186453_GS4934_000,adidas X TRN White Spark Torwarthandsch,10186453,adidas,GS4934,Adi_E_TWH,adi2886,,2021-11-02,104090,399,weiss,grau,rot,white/clonix/solred,false,
+adidas,10186454_GS8832_000,adidas X Pro Escape Light Torwarthandsc,10186454,adidas,GS8832,Adi_E_TWH,adi2883,202107,2021-07-20,104090,399,schwarz,grau,,black/gresix/sonink/s,true,GS8832
+adidas,10186455_GS8833_000,adidas X TRN White Spark Torwarthandsch,10186455,adidas,GS8833,Adi_E_TWH,adi2885,202111,2021-11-02,104090,399,weiss,grau,rot,white/clonix/solred,true,GS8833
+adidas,10186456_GS8834_000,adidas Predator LGE Torwarthandschuh We,10186456,adidas,GS8834,Adi_E_TWH,adi1668,202111,2021-11-02,104090,399,weiss,beige,rot,white/greone/solred/i,true,GS8834
+adidas,10186457_GV0257_000,adidas X Pro White Spark Torwarthandsch,10186457,adidas,GV0257,Adi_E_TWH,adi2883,202110,2021-10-26,104090,399,weiss,grau,schwarz,white/ironmt/black/so,true,GV0257
+adidas,10186458_GV0258_000,adidas Predator Pro PC White Spark TW-H,10186458,adidas,GV0258,Adi_E_TWH,adi1680,202110,2021-10-26,104090,399,weiss,grau,rot,white/ironmt/solred,true,GV0258
+adidas,10186459_GV0259_000,adidas Predator Pro White Spark Torwart,10186459,adidas,GV0259,Adi_E_TWH,adi1672,222211,2021-10-26,104090,399,weiss,grau,rot,white/ironmt/solred,true,GV0259
+adidas,10186460_GV0260_000,adidas Predator Pro FS Meteorite Torwar,10186460,adidas,GV0260,Adi_E_TWH,adi1673,202107,2021-08-20,104090,399,rot,schwarz,,solred/red/black,true,GV0260
+adidas,10186462_HA3337_000,adidas Predator Pro NumbersUp Torwartha,10186462,adidas,HA3337,Adi_E_TWH,adi1672,202109,2021-09-22,104090,399,grau,gelb,,clgrey/turbo/syello,true,HA3337
+adidas,10186463_HA3573_000,adidas X Pro NumbersUp Torwarthandschuh,10186463,adidas,HA3573,Adi_E_TWH,adi2883,202109,2021-09-22,104090,399,grau,gelb,,clonix/turbo/syello/w,true,HA3573
+Sells Goalkeeper,10188809_SGP202002_000,Sells Total Contact Aqua Ultimate TW-Ha,10188809,Sells,SGP202002,Sell_E_TW,SGP202002,202105,2021-05-27,104090,1654,weiss,schwarz,blau,white/black/aqua,true,SGP202002
+Sells Goalkeeper,10188810_SGP202003_000,Sells Revolve Ultimate TW-Handschuh Wei,10188810,Sells,SGP202003,Sell_E_TW,SGP202003,202105,2021-05-27,104090,1654,weiss,schwarz,blau,white/black/aqua,true,SGP202003
+Sells Goalkeeper,10188811_SGP202004_000,Sells Wrap Ultimate TW-Handschuh Weiss,10188811,Sells,SGP202004,Sell_E_TW,SGP202004,202105,2021-05-27,104090,1654,weiss,schwarz,blau,white/black/aqua,true,SGP202004
+Sells Goalkeeper,10188812_SGP202005_000,Sells F3 Aqua Ultimate TW-Handschuh Wei,10188812,Sells,SGP202005,Sell_E_TW,SGP202005,202105,2021-05-27,104090,1654,weiss,schwarz,blau,white/black/aqua,true,SGP202005
+Sells Goalkeeper,10188813_SGP202006_000,Sells Total Contact H20 TW-Handschuh We,10188813,Sells,SGP202006,Sell_E_TW,SGP202006,202105,2021-05-27,104090,1654,weiss,schwarz,blau,white/black/aqua,true,SGP202006
+Sells Goalkeeper,10188814_SGP202007_000,Sells Wrap Aqua H20 TW-Handschuh Weiss,10188814,Sells,SGP202007,Sell_E_TW,SGP202007,202105,2021-05-27,104090,1654,weiss,schwarz,blau,white/black/aqua,true,SGP202007
+Puma,10189602_041752_004,PUMA FUTURE Grip Hybrid Faster Football,10189602,PUMA,041752,Puma_E_TWH,041752,202107,2021-07-22,104090,681,blau,pink,,bluemazing-sunblaze-white,true,041752-04
+Puma,10189603_041752_005,PUMA FUTURE Grip Hybrid Under the Light,10189603,PUMA,041752,Puma_E_TWH,041752,202111,2021-09-13,104090,681,gruen,gruen,weiss,green glare-elektro aqua,true,041752-05
+Puma,10189604_041752_006,PUMA FUTURE Hybrid Grip Origin Hybrid,10189604,PUMA,041752,Puma_E_TWH,041752,202203,2021-09-27,104090,681,pink,schwarz,,ultra magenta-puma black,true,041752-06
+Puma,10189605_041753_004,PUMA FUTURE Grip 2 SGC Faster Football,10189605,PUMA,041753,Puma_E_TWH,041753,202107,2021-07-22,104090,681,blau,pink,,bluemazing-sunblaze-white,true,041753-04
+Puma,10189606_041754_004,PUMA FUTURE Z Grip 3 NC Faster Football,10189606,PUMA,041754,Puma_E_TWH,041754,202107,2021-07-22,104090,681,blau,pink,,bluemazing-sunblaze-white,true,041754-04
+Puma,10189607_041754_005,PUMA FUTURE Z Grip 3 Under the Lights T,10189607,PUMA,041754,Puma_E_TWH,041754,202111,2021-09-13,104090,681,gruen,gruen,,green glare-elektro aqua,true,041754-05
+Puma,10189609_041786_001,PUMA ULTRA Grip 1 Hyprid Pro Faster Foo,10189609,PUMA,041786,Puma_E_TWH,041786,202107,2021-07-22,104090,681,rot,weiss,,sunblaze-white-bluemazing,true,041786-01
+Puma,10189610_041786_002,PUMA ULTRA Grip 1 Hyprid Pro Under the,10189610,PUMA,041786,Puma_E_TWH,041786,202112,2021-09-13,104090,681,gruen,gruen,,green glare-elektro aqua,true,041786-02
+Puma,10189611_041786_003,PUMA ULTRA Grip 1 Hyprid Pro Eclipse,10189611,PUMA,041786,Puma_E_TWH,041786,202107,2021-09-06,104090,681,schwarz,grau,,puma black-asphalt,true,041786-03
+Puma,10189612_041787_001,PUMA ULTRA Grip 1 RC Faster Football TW,10189612,PUMA,041787,Puma_E_TWH,041787,202107,2021-07-22,104090,681,rot,weiss,,sunblaze-white-bluemazing,true,041787-01
+Puma,10189613_041787_002,PUMA ULTRA Grip 1 RC Under the Lights T,10189613,PUMA,041787,Puma_E_TWH,041787,202110,2021-09-13,104090,681,gruen,gruen,,green glare-elektro aqua,true,041787-02
+Puma,10189614_041788_001,PUMA ULTRA Grip 1 RC Faster Football TW,10189614,PUMA,041788,Puma_E_TWH,041788,202107,2021-07-22,104090,681,rot,weiss,,sunblaze-white-bluemazing,true,041788-01
+Puma,10189615_041789_001,PUMA ULTRA Grip 3 RC Faster Football To,10189615,PUMA,041789,Puma_E_TWH,041789,202107,2021-07-22,104090,681,rot,weiss,,sunblaze-white-bluemazing,true,041789-01
+Puma,10189616_041790_001,PUMA ULTRA Grip 4 RC Faster Football To,10189616,PUMA,041790,Puma_E_TWH,041790,202107,2021-07-22,104090,681,rot,weiss,,sunblaze-white-bluemazing,true,041790-01
+Puma,10189618_041793_001,PUMA ULTRA Protect 3 RC Faster Football,10189618,PUMA,041793,Puma_E_TWH,041793,202107,2021-07-22,104090,681,rot,weiss,,sunblaze-white-bluemazing,true,041793-01
+Puma,10189619_041794_001,PUMA ULTRA Protect 3 RC Faster Football,10189619,PUMA,041794,Puma_E_TWH,041794,202107,2021-07-22,104090,681,rot,weiss,,sunblaze-white-bluemazing,true,041794-01
+uhlsport,10192600_1011229_001,Uhlsport Hyperact Supergrip+ Torwarthan,10192600,uhlsport,1011229,Uhl_E_TWH,1011229,202105,2021-06-01,104090,400,blau,weiss,gelb,night blau/weiß/fluo gelb,true,1011229-01
+uhlsport,10192601_1011230_001,Uhlsport Hyperact Supergrip+ Reflex TW-,10192601,uhlsport,1011230,Uhl_E_TWH,1011230,202105,2021-06-01,104090,400,blau,weiss,gelb,night blau/weiß/fluo gelb,true,1011230-001
+uhlsport,10192602_1011231_001,Uhlsport Hyperact Supergrip+ Finger Sur,10192602,uhlsport,1011231,Uhl_E_TWH,1011231,202105,2021-06-01,104090,400,blau,weiss,gelb,night blau/weiß/fluo gelb,true,1011231
+uhlsport,10192603_1011232_001,uhlsport Hyperact Supergrip+ HN TW-Hand,10192603,uhlsport,1011232,Uhl_E_TWH,1011232,202105,2021-06-01,104090,400,blau,weiss,gelb,night blau/weiß/fluo gelb,true,1011232
+uhlsport,10192604_1011233_001,Uhlsport Hyperact Absolutgrip Reflex TW,10192604,uhlsport,1011233,Uhl_E_TWH,1011233,202105,2021-06-01,104090,400,blau,weiss,gelb,night blau/weiß/fluo gelb,true,1011233-001
+uhlsport,10192605_1011234_001,Uhlsport Hyperact Absolutgrip Finger Su,10192605,uhlsport,1011234,Uhl_E_TWH,1011234,202105,2021-06-01,104090,400,blau,weiss,gelb,night blau/weiß/fluo gelb,true,1011234-001
+uhlsport,10192606_1011235_001,Uhlsport Hyperact Absolutgrip HN TW-Han,10192606,uhlsport,1011235,Uhl_E_TWH,1011235,202105,2021-06-01,104090,400,blau,weiss,gelb,night blau/weiß/fluo gelb,true,1011235-01
+uhlsport,10192607_1011236_001,Uhlsport Hyperact Supersoft HN TW-Hands,10192607,uhlsport,1011236,Uhl_E_TWH,1011236,202105,2021-06-01,104090,400,blau,weiss,gelb,night blau/weiß/fluo gelb,true,1011236-01
+uhlsport,10192608_1011237_001,Uhlsport Hyperact Supersoft TW-Handschu,10192608,uhlsport,1011237,Uhl_E_TWH,1011237,202105,2021-06-01,104090,400,blau,weiss,gelb,night blau/weiß/fluo gelb,true,1011237-01
+uhlsport,10192609_1011238_001,Uhlsport Hyperact Soft Flex Frame TW-Ha,10192609,uhlsport,1011238,Uhl_E_TWH,1011238,202105,2021-06-01,104090,400,blau,weiss,gelb,night blau/weiß/fluo gelb,true,1011238-001
+NIKE,10193162_CN5650_101,Nike Vapor Grip3 Torwarthandschuh Weiss,10193162,Nike,CN5650,Nike_E_TWH,CN5650,202108,2021-09-01,104090,409,weiss,schwarz,rot,white/black/bright crimson,true,CN5650-101
+NIKE,10193163_CN5651_101,Nike Grip3 Torwarthandschuh Weiss Schwa,10193163,Nike,CN5651,Nike_E_TWH,CN5651,202107,2021-07-21,104090,409,weiss,schwarz,rot,white/black/bright crimson,true,CN5651-101
+NIKE,10193164_CN6724_635,Nike Phantom Elite Torwarthandschuh Rot,10193164,Nike,CN6724,Nike_E_TWH,CN6724,202107,2021-07-21,104090,409,rot,weiss,gelb,bright crimson/white/volt,true,CN6724-635
+NIKE,10193165_CN6758_635,Nike Phantom Shadow Torwarthandschuh Ro,10193165,Nike,CN6758,Nike_E_TWH,CN6758,202107,2021-07-21,104090,409,rot,weiss,gelb,bright crimson/white/volt,true,CN6758-635
+NIKE,10194240_DC1980_100,Nike Mercurial Touch Elite Torwarthands,10194240,Nike,DC1980,Nike_E_TWH,DC1980,202107,2021-07-21,104090,409,weiss,gelb,rot,white/volt/bright crimson,true,DC1980-100
+NIKE,10194241_DC1981_100,Nike Mercurial Touch Torwarthandschuhe,10194241,Nike,DC1981,Nike_E_TWH,DC1981,,2021-07-21,104090,409,weiss,gelb,rot,white/volt/bright crimson,true,DC1981-100
+uhlsport,10196021_1011215_001,Uhlsport Comfort Absolutgrip HN TW-Hand,10196021,uhlsport,1011215,Uhl_E_TWH,1011215,202110,2021-09-28,104090,400,schwarz,,,schwarz,true,1011215-01
+uhlsport,10196026_1011216_001,Uhlsport Comfort Absolutgrip TW-Handsch,10196026,uhlsport,1011216,Uhl_E_TWH,1011216,202110,2021-09-28,104090,400,schwarz,,,schwarz,true,1011216-01
+reusch,10199436_5270055_2199,Reusch Attrakt Duo Torwarthandschuhe Ge,10199436,Reusch,5270055,Reu_E_TWH,5270055,202201,2022-03-29,104090,401,gelb,blau,blau,safety yellow/deep blue/deep blue,true,5270055-2199
+reusch,10199438_5270130_6006,Reusch Attrakt Freegel Gold Finger Save,10199438,Reusch,5270130,Reu_E_TWH,5270130,202201,2021-09-24,104090,401,grau,gelb,blau,vapor gray/safety yellow/deep blue,true,5270130-6006
+reusch,10199439_5270139_2001,Reusch Attrakt Gold Torwarthandschuhe G,10199439,Reusch,5270139,Reu_E_TWH,5270139,202201,2022-01-26,104090,401,gelb,blau,weiss,safety yellow/deep blue/white,true,5270139-2001
+reusch,10199442_5270230_6006,Reusch Attrakt Freegel Silver Finger Sa,10199442,Reusch,5270230,Reu_E_TWH,5270230,202204,2022-04-05,104090,401,grau,gelb,blau,vapor gray/safety yellow/deep blue,true,5270230-6006
+reusch,10199443_5270235_6006,Reusch Attrakt Freegel Silver Torwartha,10199443,Reusch,5270235,Reu_E_TWH,5270235,202201,2022-03-10,104090,401,grau,gelb,blau,vapor gray/safety yellow/deep blue,true,5270235-6006
+reusch,10199446_5270439_1111,Reusch Attrakt Aqua Torwarthandschuhe W,10199446,Reusch,5270439,Reu_E_TWH,5270439,202201,2022-03-29,104090,401,weiss,blau,,white/aqua blue,true,5270439-1111
+reusch,10199447_5270459_1111,Reusch Attrakt Freegel Aqua Torwarthand,10199447,Reusch,5270459,Reu_E_TWH,5270459,202201,2022-03-29,104090,401,weiss,blau,,white/aqua blue,true,5270459-1111
+reusch,10199453_5270735_7700,Reusch Attrakt Freegel Infinity Torwart,10199453,Reusch,5270735,Reu_E_TWH,5270735,202201,2022-01-28,104090,401,schwarz,,,black,true,5270735-7700
+reusch,10199454_5270745_7700,Reusch Attrakt Freegel Infinity Resisto,10199454,Reusch,5270745,Reu_E_TWH,5270745,202201,2022-03-10,104090,401,schwarz,,,black,true,5270745-7700
+reusch,10199456_5270935_2001,Reusch Attrakt Freegel Gold X Torwartha,10199456,Reusch,5270935,Reu_E_TWH,5270935,202201,2022-03-29,104090,401,gelb,blau,weiss,safety yellow/deep blue/white,true,5270935-2001
+reusch,10199457_5270945_6006,Reusch Attrakt Gold X Torwarthandschuhe,10199457,Reusch,5270945,Reu_E_TWH,5270945,202201,2022-03-29,104090,401,grau,gelb,blau,vap gray/safety yellow/deep blue,true,5270945-6006
+reusch,10199460_5270964_6006,Reusch Attrakt Gold X Evolution CutTorw,10199460,Reusch,5270964,Reu_E_TWH,5270964,202201,2022-01-28,104090,401,grau,gelb,blau,vapor gray/safety yellow/deep blue,true,5270964-6006
+reusch,10199461_5270985_6006,Reusch Attrakt Fusion Guardian Torwarth,10199461,Reusch,5270985,Reu_E_TWH,5270985,202201,2022-01-26,104090,401,grau,gelb,blau,vapor gray/safety yellow/deep blue,true,5270985-6006
+reusch,10199462_5270990_6006,Reusch Attrakt Freegel Fusion Ortho-Tec,10199462,Reusch,5270990,Reu_E_TWH,5270990,202201,2022-01-26,104090,401,grau,gelb,blau,vapor gray/safety yellow/deep blue,true,5270990-6006
+reusch,10199463_5270995_6006,Reusch Attrakt Freegel Fusion Goaliator,10199463,Reusch,5270995,Reu_E_TWH,5270995,202201,2022-01-26,104090,401,grau,gelb,blau,vapor gray/safety yellow/deep blue,true,5270995-6006
+reusch,10199466_5272230_6006,Reusch Attrakt Freegel Silver Finger Sa,10199466,Reusch,5272230,Reu_K_TWH,5272230,202204,2022-04-05,104090,401,grau,gelb,blau,vapor gray/safety yellow/deep blue,true,5272230-6006
+reusch,10199470_5272725_7700,Reusch Attrakt Infinity Torwarthandschu,10199470,Reusch,5272725,Reu_K_TWH,5272725,202201,2022-01-26,104090,401,schwarz,,,black,true,5272725-7700
+reusch,10199473_5272820_6006,Reusch Attrakt Grip Evolution Finger Sa,10199473,Reusch,5272820,Reu_K_TWH,5272820,202204,2022-04-05,104090,401,grau,gelb,blau,vapor gray/safety yellow/deep blue,true,5272820-6006
+reusch,10199475_5272945_6006,Reusch Attrakt Fusion Guardian Torwarth,10199475,Reusch,5272945,Reu_K_TWH,5272945,202201,2022-03-29,104090,401,grau,gelb,blau,vapor gray/safety yellow/deep blue,true,5272945-6006
+reusch,10199478_5260901_1023,Reusch Pure Contact X KsEdition Torwart,10199478,Reusch,5260901,Reu_E_TWH,5260901,202205,2022-04-27,104090,401,weiss,orange,orange,wht/shock orng/shock orng,true,5260901-1023
+reusch,10199479_5260074_7707,Reusch Pure Contact Silver GluePrint TW,10199479,Reusch,5260074,Reu_E_TWH,5260074,202205,2022-05-27,104090,401,schwarz,gold,,black/gold,true,5260074-7707
+reusch,10199482_5260734_7700,Reusch Attrakt Freegel Infinity Blackou,10199482,Reusch,5260734,Reu_E_TWH,5260734,202205,2022-05-06,104090,401,schwarz,,,black,true,5260734-7700
+reusch,10199485_5270200_4018,Reusch Pure Contact Silver Torwarthands,10199485,Reusch,5270200,Reu_E_TWH,5270200,202201,2022-03-14,104090,401,blau,gelb,,true blue/safety yellow,true,5270200-4018
+reusch,10199486_5270400_6026,Reusch Pure Contact Aqua Torwarthandsch,10199486,Reusch,5270400,Reu_E_TWH,5270400,202204,2022-04-08,104090,401,grau,orange,blau,vapor gray/shocking orange/aqua blue,true,5270400-6026
+reusch,10199488_5270700_7700,Reusch Pure Contact Infinity Torwarthan,10199488,Reusch,5270700,Reu_E_TWH,5270700,202201,2022-03-29,104090,401,schwarz,,,black,true,5270700-7700
+reusch,10199489_5270900_4018,Reusch Pure Contact Fusion Torwarthands,10199489,Reusch,5270900,Reu_E_TWH,5270900,202201,2022-03-14,104090,401,blau,gelb,,true blue/safety yellow,true,5270900-4018
+reusch,10199491_5272200_4018,Reusch Pure Contact Silver Torwarthands,10199491,Reusch,5272200,Reu_K_TWH,5272200,202201,2022-03-14,104090,401,blau,gelb,,true blue/safety yellow,true,5272200-4018
+reusch,10199493_5272700_7700,Reusch Pure Contact Infinity Torwarthan,10199493,Reusch,5272700,Reu_K_TWH,5272700,202201,2022-03-29,104090,401,schwarz,,,black,true,5272700-7700
+reusch,10199495_5272900_4018,Reusch Pure Contact Fusion Torwarthands,10199495,Reusch,5272900,Reu_K_TWH,5272900,202201,2022-03-14,104090,401,blau,gelb,,true blue/safety yellow,true,5272900-4018
+reusch,10199498_5270908_4026,Reusch Arrow Gold X TW-Handschuhe Blau,10199498,Reusch,5270908,Reu_E_TWH,5270908,202204,2022-04-06,104090,401,blau,gold,,true blue/gold,true,5270908-4026
+reusch,10199512_5270000_2290,Reusch Pure Contact SpeedBump TW-Handsc,10199512,Reusch,5270000,Reu_E_TWH,5270000,202205,2022-05-03,104090,401,orange,blau,,shocking orange/blue,true,5270000-2290
+reusch,10199513_5270039_2290,Reusch Attrakt SpeedBump TW-Handschuhe,10199513,Reusch,5270039,Reu_E_TWH,5270039,202205,2022-05-03,104090,401,orange,blau,,shocking orange/blue,true,5270039-2290
+reusch,10199514_5270075_7707,Reusch Pure Contact Gold X GluePrint TW,10199514,Reusch,5270075,Reu_E_TWH,5270075,202206,2022-06-02,104090,401,schwarz,gold,,black/gold,true,5270075-7707
+reusch,10199516_5270975_7707,Reusch Attrakt Gold X GluePrint TW-Hand,10199516,Reusch,5270975,Reu_E_TWH,5270975,202206,2022-06-02,104090,401,schwarz,gold,,black/gold,true,5270975-7707
+reusch,10199519_5270904_1110,Reusch Legacy Gold X TW-Handschuhe Weis,10199519,Reusch,5270904,Reu_E_TWH,5270904,202207,2022-07-01,104090,401,weiss,rot,,white/red,true,5270904-1110
+reusch,10199520_5270029_7783,Reusch Attrakt Gold X Infinium TW-Hands,10199520,Reusch,5270029,Reu_E_TWH,5270029,202210,2022-10-20,104090,401,schwarz,orange,,black/shocking orange,true,5270029-7783
+NIKE,10199642_DM4001_100,Nike Mercurial Touch Elite Promo TW-Han,10199642,Nike,DM4001,Nike_E_TWH,DM4001,202108,2021-08-25,104090,409,weiss,gelb,rot,white/volt/bright crimson,true,DM4001-100
+NIKE,10199643_DM4006_635,Nike Phantom Elite Promo TW-Handschuhe,10199643,Nike,DM4006,Nike_E_TWH,DM4006,202108,2021-08-25,104090,409,rot,weiss,gelb,bright crimson/white/volt,true,DM4006-635
+NIKE,10199646_DM4007_010,Nike Phantom Elite Pro Promo TW-Handsch,10199646,Nike,DM4007,Nike_E_TWH,DM4007,202108,2021-08-25,104090,409,schwarz,grau,gelb,black/anthracite/white,true,DM4007-010
+NIKE,10199647_DM4008_100,Nike VG3 Promo TW-Handschuhe Weiss Schw,10199647,Nike,DM4008,Nike_E_TWH,DM4008,202108,2021-08-26,104090,409,weiss,schwarz,rot,white/black/bright crimson,true,DM4008-100
+NIKE,10199649_DM4010_100,Nike VG3 RS Promo TW-Handschuhe Weiss S,10199649,Nike,DM4010,Nike_E_TWH,DM4010,202108,2021-08-24,104090,409,weiss,schwarz,rot,white/black/bright crimson,true,DM4010-100
+NIKE,10200684_CN5650_013,Nike Vapor Grip3 Recharge Torwarthandsc,10200684,Nike,CN5650,Nike_E_TWH,CN5650,202111,2021-11-22,104090,409,schwarz,gelb,,black/black/volt,true,CN5650-013
+NIKE,10200685_CN5651_013,Nike Grip3 Recharge Torwarthandschuhe S,10200685,Nike,CN5651,Nike_E_TWH,CN5651,202110,2021-10-19,104090,409,schwarz,gelb,,black/black/volt,true,CN5651-013
+NIKE,10200686_CN6724_014,Nike Phantom Elite Recharge Torwarthand,10200686,Nike,CN6724,Nike_E_TWH,CN6724,202201,2021-09-24,104090,409,schwarz,gelb,,black/black/volt,true,CN6724-014
+NIKE,10200687_CN6758_013,Nike Phantom Shadow Recharge TW-Handsch,10200687,Nike,CN6758,Nike_E_TWH,CN6758,202111,2021-09-24,104090,409,schwarz,gelb,,black/black/volt,true,CN6758-013
+NIKE,10200714_CQ7799_013,Nike Match Recharge Torwarthandschuhe S,10200714,Nike,CQ7799,Nike_E_TWH,CQ7799,222212,2025-01-22,104090,409,schwarz,gelb,,black/black/volt,true,CQ7799-013
+NIKE,10202441_DC1980_013,Nike Mercurial Touch Elite Recharge TW-,10202441,Nike,DC1980,Nike_E_TWH,DC1980,202111,2021-09-24,104090,409,schwarz,gelb,,black/black/volt,true,DC1980-013
+NIKE,10202442_DC1981_013,Nike Mercurial Touch Recharge Torwartha,10202442,Nike,DC1981,Nike_E_TWH,DC1981,202110,2021-09-24,104090,409,schwarz,gelb,,black/black/volt,true,DC1981-013
+uhlsport,10205670_1011232_002,uhlsport Hyperblack Supergrip+ HN TW-Ha,10205670,uhlsport,1011232,Uhl_E_TWH,1011232,202109,2021-09-23,104090,400,schwarz,,,schwarz,true,1011232-002
+uhlsport,10205671_1011235_002,Uhlsport Hyperblack Absolutgrip HN TW-H,10205671,uhlsport,1011235,Uhl_E_TWH,1011235,202109,2021-09-23,104090,400,schwarz,,,schwarz,true,1011235-002
+uhlsport,10207599_1011214_001,Uhlsport Absolutgrip Tight HN Classic T,10207599,uhlsport,1011214,Uhl_E_TWH,1011214,202205,2022-05-27,104090,400,blau,tuerkis,gelb,deep blau/cyan/flou gelb,true,1011214-01
+uhlsport,10207600_1011217_001,Uhlsport Absolutgrip Classic Torwarthan,10207600,uhlsport,1011217,Uhl_E_TWH,1011217,202205,2022-05-27,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011217-01
+uhlsport,10207601_1011218_001,Uhlsport Supersoft HN Flex Frame Torwar,10207601,uhlsport,1011218,Uhl_E_TWH,1011218,202205,2022-05-27,104090,400,schwarz,gelb,,schwarz/flou gelb,true,1011218-01
+uhlsport,10207603_1011219_001,Uhlsport Absolutgrip HN Pro Kids Classi,10207603,uhlsport,1011219,Uhl_E_TWH,1011219,202205,2022-05-27,104090,400,blau,gelb,weiss,marine/flou gelb/weiß,true,1011219-01
+uhlsport,10207604_1011220_001,Uhlsport Soft HN Comp Classic Torwartha,10207604,uhlsport,1011220,Uhl_E_TWH,1011220,202205,2022-05-27,104090,400,blau,orange,weiss,marine/flou orange/weiß,true,1011220-01
+uhlsport,10207605_1011222_001,Uhlsport Aquagrip HN Aqua Torwarthandsc,10207605,uhlsport,1011222,Uhl_E_TWH,1011222,202205,2022-05-23,104090,400,blau,gruen,weiss,pacific blau/flou grün/weiss,true,1011222-01
+uhlsport,10207606_1011224_001,Uhlsport Aquasoft Aqua Torwarthandschuh,10207606,uhlsport,1011224,Uhl_E_TWH,1011224,202205,2022-05-27,104090,400,blau,gruen,,pacific blau/flou grün,true,1011224-01
+uhlsport,10207608_1011225_001,Uhlsport Super Resist HN Torwarthandsch,10207608,uhlsport,1011225,Uhl_E_TWH,1011225,202205,2022-05-23,104090,400,schwarz,orange,weiss,schwarz/flou orange/weiß,true,1011225-01
+uhlsport,10207616_1011212_001,Uhlsport Supergrip+ Flex Frame Carbon T,10207616,uhlsport,1011212,Uhl_E_TWH,1011212,202205,2022-05-27,104090,400,schwarz,gelb,,schwarz/flou gelb,true,1011212-01
+uhlsport,10207811_1011232_120,uhlsport Hyperpink Supergrip HN #324 TW,10207811,uhlsport,1011232,Uhl_E_TWH,1011232,202110,2021-10-14,104090,400,schwarz,pink,,schwarz/pink,true,1011232-120
+uhlsport,10207812_1011235_120,Uhlsport Hyperpink Absolutgrip HN #325,10207812,uhlsport,1011235,Uhl_E_TWH,1011235,202110,2021-10-11,104090,400,schwarz,pink,,schwarz/pink,true,1011235-120
+Elite Sport,10207938_EL20000_000,Elite Sport Neo Black Torwarthandschuhe,10207938,Elite Sports,EL20000,Elite_E_TW,EL20000,202111,2021-10-29,104090,7345,schwarz,,,neo black,true,EL20000
+Elite Sport,10207941_EL20001_000,Elite Sport Neo White Torwarthandschuhe,10207941,Elite Sports,EL20001,Elite_E_TW,EL20001,202111,2021-10-29,104090,7345,weiss,,,neo white,true,EL20001
+Elite Sport,10207943_EL20007_000,Elite Sport Ignis Torwarthandschuhe Sch,10207943,Elite Sports,EL20007,Elite_E_TW,EL20007,202111,2021-10-29,104090,7345,schwarz,blau,lila,ignis,true,EL20007
+Elite Sport,10207945_EL20008_000,Elite Sport Rainbow Torwarthandschuhe S,10207945,Elite Sports,EL20008,Elite_E_TW,EL20008,202111,2021-10-29,104090,7345,schwarz,blau,rot,rainbow,true,EL20008
+Elite Sport,10207947_EL20009_000,Elite Sport Vipera Torwarthandschuhe Sc,10207947,Elite Sports,EL20009,Elite_E_TW,EL20009,202111,2021-10-29,104090,7345,schwarz,lila,rot,vipera,true,EL20009
+Elite Sport,10207948_EL20010_000,Elite Sport Black Solo Torwarthandschuh,10207948,Elite Sports,EL20010,Elite_E_TW,EL20010,202111,2021-10-29,104090,7345,schwarz,,,black solo,true,EL20010
+Elite Sport,10207949_EL20011_000,Elite Sport Solo Torwarthandschuhe Weis,10207949,Elite Sports,EL20011,Elite_E_TW,EL20011,202111,2021-10-29,104090,7345,weiss,,,white solo,true,EL20011
+Elite Sport,10207951_EL20021_000,Elite Sport Calavera Torwarthandschuhe,10207951,Elite Sports,EL20021,Elite_E_TW,EL20021,202111,2021-10-29,104090,7345,schwarz,,,calavera,true,EL20021
+NIKE,10208081_DM4005_010,Nike Mercurial Touch Elite Promo TW-Han,10208081,Nike,DM4005,Nike_E_TWH,DM4005,222212,2021-11-23,104090,409,schwarz,weiss,,black/black/white,true,DM4005-010
+NIKE,10208082_DM4006_010,Nike Phantom Elite Promo TW-Handschuhe,10208082,Nike,DM4006,Nike_E_TWH,DM4006,202111,2021-11-23,104090,409,schwarz,gelb,,black/black/volt,true,DM4006-010
+NIKE,10208083_DM4008_010,Nike VG3 Promo TW-Handschuhe Schwarz Ge,10208083,Nike,DM4008,Nike_E_TWH,DM4008,202111,2021-11-22,104090,409,schwarz,gelb,,black/black/volt,true,DM4008-010
+NIKE,10208084_DM4009_010,Nike VG3 Promo TW-Handschuhe Schwarz Gr,10208084,Nike,DM4009,Nike_E_TWH,DM4009,202111,2021-11-22,104090,409,schwarz,grau,weiss,black/anthracite/white,true,DM4009-010
+NIKE,10208085_DM4010_010,Nike VG3 RS Promo TW-Handschuhe Schwarz,10208085,Nike,DM4010,Nike_E_TWH,DM4010,202111,2021-11-22,104090,409,schwarz,gelb,,black/black/volt,true,DM4010-010
+NIKE,10208087_DM4011_010,Nike Vapor Grip3 Promo TW-Handschuh Sch,10208087,Nike,DM4011,Nike_E_TWH,DM4011,202111,2021-11-22,104090,409,schwarz,grau,weiss,black/anthracite/white,true,DM4011-010
+adidas,10209316_H43739_000,adidas Predator Match Finger Save Sapph,10209316,adidas,H43739,Adi_E_TWH,H43739,202202,2022-02-01,104090,399,blau,pink,weiss,hirblu/turbo/white,true,H43739
+adidas,10209317_H43740_000,adidas Predator Match Sapphire Edge Tor,10209317,adidas,H43740,Adi_E_TWH,H43740,202202,2022-02-01,104090,399,blau,pink,weiss,hirblu/turbo/white,true,H43740
+adidas,10209318_H43741_000,adidas Predator Training Sapphire Edge,10209318,adidas,H43741,Adi_E_TWH,H43741,202202,2022-02-01,104090,399,blau,pink,weiss,hirblu/turbo/white,true,H43741
+adidas,10209319_H43742_000,adidas Predator Sapphire Edge Towarthan,10209319,adidas,H43742,Adi_E_TWH,H43742,202205,2022-05-04,104090,399,blau,pink,weiss,hirblu/turbo/white,true,H43742
+adidas,10209326_H43771_000,adidas Predator Pro Promo Negativ Cut P,10209326,adidas,H43771,Adi_E_TWH,H43771,202201,2022-01-25,104090,399,blau,rot,weiss,hirblu/turbo/white,true,H43771
+adidas,10209327_H43775_000,adidas Predator Pro Negative Cut Sapphi,10209327,adidas,H43775,Adi_E_TWH,H43775,202201,2022-02-24,104090,399,blau,rot,weiss,hirblu/turbo/white,true,H43775
+adidas,10209328_H43776_000,adidas Predator Competition Negativ Cut,10209328,adidas,H43776,Adi_E_TWH,H43776,202202,2022-02-01,104090,399,blau,pink,weiss,hirblu/turbo/white,true,H43776
+adidas,10209329_H43777_000,adidas Predator Pro Negativ Cut Sapphir,10209329,adidas,H43777,Adi_E_TWH,H43777,202202,2022-01-25,104090,399,blau,rot,weiss,hirblu/turbo/white,true,H43777
+adidas,10209357_H53732_000,adidas Predator League Negativ Cut Sapp,10209357,adidas,H53732,Adi_E_TWH,H53732,202202,2022-02-01,104090,399,blau,pink,weiss,hirblu/turbo/white,true,H53732
+adidas,10209358_H53733_000,adidas Predator Match Sapphire Edge Tor,10209358,adidas,H53733,Adi_E_TWH,H53733,202202,2022-02-01,104090,399,blau,pink,weiss,hirblu/turbo/white,true,H53733
+adidas,10209469_H57702_000,adidas X Pro Negativ Cut Sapphire Edge,10209469,adidas,H57702,Adi_E_TWH,H57702,202202,2022-01-25,104090,399,blau,pink,weiss,skyrus/white/tmshpn,true,H57702
+adidas,10209470_H57703_000,adidas X Training Negativ Cut Sapphire,10209470,adidas,H57703,Adi_E_TWH,H57703,202202,2022-02-01,104090,399,blau,weiss,pink,skyrus/white/tmshpn,true,H57703
+adidas,10209673_H62412_000,adidas Predator Pro Hybrid Diamond Edge,10209673,adidas,H62412,Adi_E_TWH,H62412,202204,2022-04-29,104090,399,weiss,blau,,white/hirblu,true,H62412
+adidas,10209674_H62414_000,adidas Predator Pro Hybrid Promo Sapphi,10209674,adidas,H62414,Adi_E_TWH,H62414,202201,2022-01-25,104090,399,blau,rot,weiss,hirblu/turbo/white,true,H62414
+adidas,10209675_H62415_000,adidas Predator Pro Promo Negativ Cut F,10209675,adidas,H62415,Adi_E_TWH,H62415,202201,2022-02-24,104090,399,blau,rot,weiss,hirblu/turbo/white,true,H62415
+adidas,10209676_H62417_000,adidas Predator Pro PC Diamond Edge,10209676,adidas,H62417,Adi_E_TWH,H62417,202204,2022-04-29,104090,399,weiss,blau,,white/hirblu,true,H62417
+adidas,10209677_H62418_000,adidas Predator Pro Diamond Edge Torwar,10209677,adidas,H62418,Adi_E_TWH,H62418,202205,2022-05-02,104090,399,weiss,blau,,white/hirblu,true,H62418
+adidas,10209678_H62419_000,adidas Predator Pro Negativ Cut Edge of,10209678,adidas,H62419,Adi_E_TWH,H62419,202202,2022-02-04,104090,399,schwarz,weiss,gruen,black/white/tmdrgr,true,H62419
+adidas,10209679_H62423_000,adidas Predator League Diamond Edge,10209679,adidas,H62423,Adi_E_TWH,H62423,202205,2022-05-02,104090,399,weiss,blau,,white/hirblu,true,H62423
+adidas,10209680_H62425_000,adidas Predator Match Diamond Edge Torw,10209680,adidas,H62425,Adi_E_TWH,H62425,202204,2022-04-19,104090,399,weiss,blau,,white/hirblu,true,H62425
+adidas,10209681_H62428_000,adidas Predator Match Fingersave Edge o,10209681,adidas,H62428,Adi_E_TWH,H62428,202202,2022-02-04,104090,399,schwarz,weiss,gruen,black/white/tmdrgr,true,H62428
+adidas,10209682_H62433_000,adidas Predator Training Diamond Edge W,10209682,adidas,H62433,Adi_E_TWH,H62433,202204,2022-04-19,104090,399,weiss,blau,,white/hirblu,true,H62433
+adidas,10209683_H62437_000,adidas Predator Match Finger Save Edge,10209683,adidas,H62437,Adi_E_TWH,H62437,202202,2021-12-16,104090,399,schwarz,weiss,gruen,black/white/tmdrgr,true,H62437
+adidas,10209749_H65508_000,adidas X Edge of Darkness Pro Negativ S,10209749,adidas,H65508,Adi_E_TWH,H65508,202201,2022-01-04,104090,399,schwarz,blau,rot,black/blurus/vivred,true,H65508
+adidas,10209750_H65509_000,adidas X Pro Diamond Edge Torwarthandsc,10209750,adidas,H65509,Adi_E_TWH,H65509,202204,2022-04-19,104090,399,weiss,blau,,white/hirblu/skyrus,true,H65509
+adidas,10210364_HB7942_000,adidas Predator Pro Hybrid Cut Sapphire,10210364,adidas,HB7942,Adi_E_TWH,HB7942,202201,2022-02-24,104090,399,blau,rot,weiss,hirblu/turbo/white,true,HB7942
+adidas,10210365_HB7943_000,adidas Predator Pro Negativ Cut Finger,10210365,adidas,HB7943,Adi_E_TWH,HB7943,202201,2022-01-25,104090,399,blau,rot,weiss,hirblu/turbo/white,true,HB7943
+adidas,10210371_HB8060_000,adidas X Pro Negativ Cut Sapphire Edge,10210371,adidas,HB8060,Adi_E_TWH,HB8060,202202,2022-01-25,104090,399,blau,pink,weiss,skyrus/white/tmshpn,true,HB8060
+adidas,10210372_HB8061_000,adidas X League Negativ Cut Sapphire Ed,10210372,adidas,HB8061,Adi_E_TWH,HB8061,202202,2022-02-01,104090,399,blau,weiss,pink,skyrus/white/tmshpn,true,HB8061
+adidas,10210373_HB8062_000,adidas X Training Negativ Cut Sapphire,10210373,adidas,HB8062,Adi_E_TWH,HB8062,202202,2022-02-01,104090,399,blau,weiss,pink,skyrus/white/tmshpn,true,HB8062
+adidas,10210630_HC7814_000,adidas Predator Pro Negativ Cut Champio,10210630,adidas,HC7814,Adi_E_TWH,HC7814,202203,2021-12-30,104090,399,lila,pink,silber,tmcopr/tmshpn/silvmt,true,HC7814
+adidas,10210631_HC7817_000,adidas Predator Pro Finger Save PROMO D,10210631,adidas,HC7817,Adi_E_TWH,HC7817,202204,2022-06-02,104090,399,weiss,blau,,white/hirblu,true,HC7817
+adidas,10210847_HD7861_000,adidas X Pro Negative Cut Champions Cod,10210847,adidas,HD7861,Adi_E_TWH,HD7861,202203,2021-12-30,104090,399,lila,pink,blau,cpurpl/tmshpn/minrus/,true,HD7861
+Derbystar,10212586_2502_000,Derbystar APS Pro Grip v22 TW-Handschuh,10212586,Derbystar,2502,Der_E_Hand,2502,202207,2022-07-25,104090,2759,grau,orange,,grau orange,true,2502-000
+Derbystar,10212587_2505_000,Derbystar Mamba v22 TW-Handschuhe Grau,10212587,Derbystar,2505,Der_E_Hand,2505,202207,2022-07-25,104090,2759,grau,orange,,grau orange,true,2505-000
+Puma,10212695_041828_001,PUMA Future One Grip 1 NC Teaser Torwar,10212695,PUMA,041828,Puma_E_TWH,041828,202204,2022-04-07,104090,681,gelb,orange,schwarz,fizzy light-parisian night-teaser edition,true,041828-01
+Puma,10212698_041811_001,PUMA x Batman Future One 1 NC Torwartha,10212698,PUMA,041811,Puma_E_TWH,041811,202205,2022-05-13,104090,681,schwarz,rot,,puma black-high risk red,true,041811-01
+Puma,10213055_041752_007,PUMA FUTURE Grip Hybrid Flare Pack Oran,10213055,PUMA,041752,Puma_E_TWH,041752,202107,2022-04-22,104090,681,schwarz,orange,,parisian night-neon citrus-deep orchid,true,041752-07
+Puma,10213056_041786_004,PUMA ULTRA Grip 1 Hyprid Pro Flare Pack,10213056,PUMA,041786,Puma_E_TWH,041786,202112,2021-12-15,104090,681,schwarz,orange,,parisian night-neon citrus-dee,true,041786-04
+Puma,10213057_041821_003,PUMA Future 2 Pickford Edition Torwarth,10213057,PUMA,041821,Puma_E_TWH,041821,202112,2021-12-15,104090,681,gold,,,puma team gold-pickford,true,041821-03
+Puma,10213058_041821_004,PUMA Future 2 Ederson Edition Torwartha,10213058,PUMA,041821,Puma_E_TWH,041821,202112,2021-12-15,104090,681,gold,,,puma team gold-ederson,true,041821-04
+NIKE,10213663_CN5650_660,Nike Vapor Grip3 Blueprint Torwarthands,10213663,Nike,CN5650,Nike_E_TWH,CN5650,202203,2021-12-10,104090,409,rot,blau,,siren red/team red/dynamic blue,true,CN5650-660
+NIKE,10213664_CN5651_660,Nike Grip3 Blueprint Torwarthandschuhe,10213664,Nike,CN5651,Nike_E_TWH,CN5651,202202,2021-12-16,104090,409,rot,blau,,siren red/team red/dynamic blue,true,CN5651-660
+NIKE,10213666_CN6758_845,Nike Phantom Blueprint Shadow Torwartha,10213666,Nike,CN6758,Nike_E_TWH,CN6758,202202,2021-12-16,104090,409,orange,schwarz,,laser orange/laser orange/black,true,CN6758-845
+NIKE,10213672_CQ7795_447,Nike Match Blueprint Torwarthandschuh K,10213672,Nike,CQ7795,Nike_E_TWH,CQ7795,202202,2022-02-09,104090,409,blau,orange,,chlorine blue/marina/laser orange,true,CQ7795-447
+NIKE,10213674_CQ7799_447,Nike Match Blueprint Torwarthandschuhe,10213674,Nike,CQ7799,Nike_E_TWH,CQ7799,202202,2022-02-14,104090,409,blau,orange,gelb,chlorine blue/marina/laser orange,true,CQ7799-447
+NIKE,10214026_DC1980_447,Nike Mercurial Blueprint Touch Elite,10214026,Nike,DC1980,Nike_E_TWH,DC1980,202202,2022-02-14,104090,409,blau,rot,,chlorine blue/marina/siren red,true,DC1980-447
+NIKE,10214027_DC1981_447,Nike Mercurial Blueprint Touch Torwarth,10214027,Nike,DC1981,Nike_E_TWH,DC1981,202202,2022-02-09,104090,409,blau,rot,,chlorine blue/marina/siren red,true,DC1981-447
+NIKE,10215148_CK4810_010,Nike Premier NO SGT 20cm RS PROMO TW-Ha,10215148,Nike,CK4810,Nike_E_TWH,CK4810,202201,2022-02-09,104090,409,schwarz,weiss,,black/black/white,true,CK4810-010
+NIKE,10215149_CK4888_010,Nike Gunn Cut 20cm Promo Torwarthandsch,10215149,Nike,CK4888,Nike_E_TWH,CK4888,202203,2022-03-22,104090,409,schwarz,schwarz,weiss,black/black/white,true,CK4888-010
+NIKE,10215150_DM4006_702,Nike Phantom Elite Promo Torwarthandsch,10215150,Nike,DM4006,Nike_E_TWH,DM4006,102022,2022-09-23,104090,409,gelb,weiss,blau,volt/white/blackened blue,true,DM4006-702
+NIKE,10215151_DM4008_548,Nike VG3 Promo Torwarthandschuh Blau We,10215151,Nike,DM4008,Nike_E_TWH,DM4008,202209,2022-09-01,104090,409,blau,weiss,blau,light marine/white/blackened blue,true,DM4008-548
+NIKE,10215152_DM4010_548,Nike VG3 RS Promo Torwarthandschuh Blau,10215152,Nike,DM4010,Nike_E_TWH,DM4010,202209,2022-09-01,104090,409,blau,weiss,blau,light marine/white/blackened blue,true,DM4010-548
+Puma,10216360_041786_005,PUMA ULTRA Instinct Hybrid Pro Grip 1,10216360,PUMA,041786,Puma_E_TWH,041786,202204,2022-04-25,104090,681,orange,silber,schwarz,neon citrus-diamond silver-puma black,true,041786-05
+Puma,10216361_041786_006,PUMA ULTRA Grip 1 Hyprid Pro Thrill,10216361,PUMA,041786,Puma_E_TWH,041786,202206,2022-06-02,104090,681,weiss,schwarz,blau,puma white-puma black-ocean dive-deep orchid-yellow alert,true,041786-06
+Puma,10216362_041787_005,PUMA ULTRA RC Grip 1 Instinct Torwartha,10216362,PUMA,041787,Puma_E_TWH,041787,202203,2021-12-30,104090,681,orange,silber,schwarz,neon citrus-diamond silver-puma black,true,041787-05
+Puma,10216363_041787_006,PUMA ULTRA Grip 1 RC Thrill Torwarthand,10216363,PUMA,041787,Puma_E_TWH,041787,202204,2022-04-13,104090,681,weiss,schwarz,blau,puma white-puma black-ocean dive-deep orchid-yellow alert,true,041787-06
+Puma,10216364_041788_005,PUMA ULTRA RC Grip 1 Instinct Torwartha,10216364,PUMA,041788,Puma_E_TWH,041788,202204,2022-04-13,104090,681,orange,silber,schwarz,neon citrus-diamond silver-puma black,true,041788-05
+Puma,10216368_041793_005,PUMA ULTRA RC Finger Save 3 Instinct,10216368,PUMA,041793,Puma_E_TWH,041793,202203,2022-04-19,104090,681,orange,silber,schwarz,neon citrus-diamond silver-puma black,true,041793-05
+Puma,10216369_041794_005,PUMA ULTRA RC Finger Save 3 Instinct,10216369,PUMA,041794,Puma_E_TWH,041794,202204,2022-04-13,104090,681,orange,silber,schwarz,neon citrus-diamond silver-puma black,true,041794-05
+Puma,10216370_041807_001,PUMA FUTURE ONE Grip 1 NC Instinct,10216370,PUMA,041807,Puma_E_TWH,041807,202206,2022-06-10,104090,681,orange,schwarz,,neon citrus-puma black,true,041807-01
+Puma,10216371_041807_002,PUMA FUTURE ONE Grip 1 NC Thrill,10216371,PUMA,041807,Puma_E_TWH,041807,202206,2022-06-03,104090,681,weiss,schwarz,lila,puma white-puma black-spring break-deep orchid-yellow alert,true,041807-02
+Puma,10216372_041807_003,PUMA FUTURE ONE Grip 1 NC Torwarthandsc,10216372,PUMA,041807,Puma_E_TWH,041807,202203,2022-06-23,104090,681,schwarz,grau,,puma black-asphalt,true,041807-03
+Puma,10216373_041808_001,PUMA FUTURE ONE Grip 2 SGC Instinct Tor,10216373,PUMA,041808,Puma_E_TWH,041808,202204,2022-04-27,104090,681,orange,schwarz,,neon citrus-puma black,true,041808-01
+Puma,10216374_041809_001,PUMA FUTURE ONE Grip 3 NC Instinct,10216374,PUMA,041809,Puma_E_TWH,041809,202203,2022-05-12,104090,681,orange,schwarz,,neon citrus-puma black,true,041809-01
+Puma,10216375_041809_002,PUMA FUTURE ONE Grip 3 NC Thrill,10216375,PUMA,041809,Puma_E_TWH,041809,202204,2022-04-13,104090,681,weiss,schwarz,lila,puma white-puma black-spring break-deep orchid-yellow alert,true,041809-02
+reusch,10220100_5260254_1100,Reusch Attrakt Gold Alpha Torwarthandsc,10220100,Reusch,5260254,Reu_E_TWH,5260254,202212,2023-01-31,104090,401,weiss,,,white,true,5260254-1100
+Elite Sport,10222917_EL30000_000,Elite Sport Neo Revolution Torwarthands,10222917,Elite Sport,EL30000,Elite_E_TW,EL30000,202210,2022-10-13,104090,7345,weiss,,,White,true,EL30000
+Elite Sport,10222919_EL30000_000,Elite Sport Neo Revolution Torwarthands,10222919,Elite Sports,EL30000,Elite_E_TW,EL30000,202203,2022-03-23,104090,7345,blau,weiss,,aqua,true,EL30000AA
+Elite Sport,10222920_EL30001_000,Elite Sport Neo Combi Torwarthandschuh,10222920,Elite Sport,EL30001,Elite_E_TW,EL30001,202203,2022-03-23,104090,7345,schwarz,weiss,,BLACK WHITE,true,EL30001
+Elite Sport,10222922_EL30001_000,Elite Sport Neo Combi Torwarthandschuh,10222922,Elite Sports,EL30001,Elite_E_TW,EL30001,202203,2022-03-23,104090,7345,blau,weiss,,blue white,true,EL30001AA
+Elite Sport,10222923_EL30004_000,Elite Sport Real Torwarthandschuh Weiss,10222923,Elite Sports,EL30004,Elite_E_TW,EL30004,202203,2022-03-23,104090,7345,weiss,,,white,true,EL30004
+Elite Sport,10222924_EL300045_000,Elite Sport Supreme Torwarthandschuh We,10222924,Elite Sports,EL300045,Elite_E_TW,EL300045,202203,2022-03-23,104090,7345,weiss,,,white,true,EL300045
+Elite Sport,10222926_EL30012_000,Elite Sport Black Solo Torwarthandschuh,10222926,Elite Sports,EL30012,Elite_E_TW,EL30012,202203,2022-03-23,104090,7345,schwarz,,,black,true,EL30012
+Elite Sport,10222927_EL30022_000,Elite Sport Samurai Torwarthandschuh We,10222927,Elite Sports,EL30022,Elite_E_TW,EL30022,202203,2022-03-23,104090,7345,weiss,rot,schwarz,white,true,EL30022
+Elite Sport,10222929_EL30017_000,Elite Sport Gladiator Torwarthandschuh,10222929,Elite Sports,EL30017,Elite_E_TW,EL30017,202212,2022-12-29,104090,7345,weiss,gelb,rot,white,true,EL30017
+Elite Sport,10222984_EL30008_000,Elite Sport Sakura Torwarthandschuh Wei,10222984,Elite Sports,EL30008,Elite_E_TW,EL30008,202203,2022-03-23,104090,7345,weiss,,,white,true,EL30008
+Elite Sport,10222985_EL30027_000,Elite Sport Sakura Torwarthandschuh Bla,10222985,Elite Sports,EL30027,Elite_E_TW,EL30027,202210,2022-10-13,104090,7345,blau,orange,rot,blue,true,EL30027
+NIKE,10223448_DM4008_660,Nike VG3 Promo Blueprint Torwarthandsch,10223448,Nike,DM4008,Nike_E_TWH,DM4008,202201,2022-02-09,104090,409,rot,blau,,siren red/team red/dynamic blue,true,DM4008-660
+NIKE,10223449_DM4010_660,Nike VG3 RS Promo Blueprint Torwarthand,10223449,Nike,DM4010,Nike_E_TWH,DM4010,202201,2022-02-09,104090,409,rot,blau,,siren red/team red/dynamic blue,true,DM4010-660
+NIKE,10223470_DM4006_845,Nike Phantom Elite Promo Torwarthandsch,10223470,Nike,DM4006,Nike_E_TWH,DM4006,202201,2022-02-09,104090,409,orange,schwarz,,laser orange/total orange/black,true,DM4006-845
+erima,10223513_7222202_000,Erima FleX-Ray New Talent FS Torwarthan,10223513,Erima,7222202,Erim_E_TWH,7222202,202302,2023-02-22,104090,555,schwarz,gruen,,schwarz/green gecko,true,7222202
+erima,10223517_7222203_000,Erima FleX-Ray Hardground Torwarthandsc,10223517,Erima,7222203,Erim_E_TWH,7222203,202302,2023-02-22,104090,555,rot,schwarz,,fiery coral/schwarz,true,7222203
+erima,10223519_7222204_000,Erima FleX-Ray Hardground FS Torwarthan,10223519,Erima,7222204,Erim_E_TWH,7222204,202304,2023-04-20,104090,555,rot,schwarz,,fiery coral/schwarz,true,7222204
+erima,10223522_7222206_000,Erima FleX-Ray Pro Hardground Torwartha,10223522,Erima,7222206,Erim_E_TWH,7222206,202304,2023-04-13,104090,555,schwarz,grau,,schwarz/grau,true,7222206
+erima,10223529_7222205_000,Erima FleX-Ray Pro Torwarthandschuhe Ro,10223529,Erima,7222205,Erim_E_TWH,7222205,202205,2022-05-02,104090,555,rot,schwarz,,fiery coral/schwarz,true,7222205
+erima,10223534_7222207_000,Erima FleX-Ray Match Torwarthandschuhe,10223534,Erima,7222207,Erim_E_TWH,7222207,202205,2022-05-02,104090,555,grau,gruen,,schwarz/lime,true,7222207
+Puma,10223721_041846_001,PUMA FUTURE Grip KS SMU Torwarthandschu,10223721,PUMA,041846,Puma_E_TWH,041846,202205,2022-06-24,104090,681,schwarz,weiss,,puma black-puma black-puma whi,true,041846-01
+reusch,10223783_5270235_2001,Reusch Attrakt Freegel Silver Torwartha,10223783,Reusch,5270235,Reu_E_TWH,5270235,202201,2025-10-24,104090,401,gelb,blau,weiss,safety yellow / deep blue / white,true,5270235-2001
+NIKE,10224224_CN5650_548,Nike Vapor Grip3 Progress Torwarthandsc,10224224,Nike,CN5650,Nike_E_TWH,CN5650,202205,2022-05-24,104090,409,blau,weiss,,light marine/white/blackened blue,true,CN5650-548
+NIKE,10224225_CN5651_548,Nike Grip3 Progress Torwarthandschuhe,10224225,Nike,CN5651,Nike_E_TWH,CN5651,202203,2022-03-31,104090,409,blau,weiss,,light marine/white/blackened blue,true,CN5651-548
+NIKE,10224227_CN6758_702,Nike Phantom Shadow Progress Torwarthan,10224227,Nike,CN6758,Nike_E_TWH,CN6758,202204,2022-04-13,104090,409,gelb,weiss,blau,volt/white/blackened blue,true,CN6758-702
+reusch,10225486_5270135_6006,Reusch Attrakt Freegel Gold Torwarthand,10225486,Reusch,5270135,Reu_E_TWH,5270135,202208,2022-08-11,104090,401,grau,gelb,blau,vapor gray / safety yellow / deep blue,true,5270135-6006
+reusch,10225492_5272810_6016,Reusch Attrakt Grip Finger Support TW-H,10225492,Reusch,5272810,Reu_K_TWH,5272810,202209,2022-08-11,104090,401,grau,gelb,,'vapor gray / safety yellow,true,5272810-6016
+reusch,10225507_5370090_5555,Reusch Attrakt Freegel Fusion Ortho-Tec,10225507,Reusch,5370090,Reu_E_TWH,5370090,202210,2022-10-17,104090,401,gruen,orange,schwarz,des gren/shockorng/blck,true,5370090-5555
+reusch,10225510_5370078_5556,Reusch Attrakt SpeedBump Ortho-Tec Torw,10225510,Reusch,5370078,Reu_E_TWH,5370078,202210,2022-10-17,104090,401,gruen,orange,,desert green/shock orng,true,5370078-5556
+reusch,10225515_5370030_5555,Reusch Attrakt Freegel Gold Finger Supp,10225515,Reusch,5370030,Reu_E_TWH,5370030,202210,2023-01-31,104090,401,gruen,orange,schwarz,desert green/shock orng/blck,true,5370030-5555
+reusch,10225519_5370095_5555,Reusch Attrakt Freegel Fusion Goaliator,10225519,Reusch,5370095,Reu_E_TWH,5370095,202210,2022-10-17,104090,401,gruen,orange,schwarz,desert green/shock orng/blck,true,5370095-5555
+reusch,10225523_5370055_5555,Reusch Attrakt Duo Evolution AdaptiveFl,10225523,Reusch,5370055,Reu_E_TWH,5370055,202210,2022-10-17,104090,401,gruen,orange,schwarz,desert green/shock orng/blck,true,5370055-5555
+reusch,10225526_5370015_5556,Reusch Pure Contact Gold X AdaptiveFlex,10225526,Reusch,5370015,Reu_E_TWH,5370015,202302,2022-10-17,104090,401,gruen,orange,,desert green/shock orng,true,5370015-5556
+reusch,10225530_5370064_5555,Reusch Attrakt Gold X Evolution Cut Tor,10225530,Reusch,5370064,Reu_E_TWH,5370064,202210,2022-10-17,104090,401,gruen,orange,schwarz,desert green/shock orng/blck,true,5370064-5555
+reusch,10225535_5370039_5556,Reusch Attrakt SpeedBump Torwarthandsch,10225535,Reusch,5370039,Reu_E_TWH,5370039,202210,2022-10-17,104090,401,gruen,orange,,desert green/shock orng,true,5370039-5556
+reusch,10225539_5370035_5555,Reusch Attrakt Freegel Silver Torwartha,10225539,Reusch,5370035,Reu_E_TWH,5370035,202210,2023-01-31,104090,401,gruen,orange,schwarz,desert green/shock orng/blck,true,5370035-5555
+reusch,10225541_5372030_5555,Reusch Attrakt Freegel Silver Finger Su,10225541,Reusch,5372030,Reu_K_TWH,5372030,202210,2023-01-31,104090,401,gruen,orange,schwarz,desert green/shock orng/blck,true,5372030-5555
+reusch,10225543_5372035_5555,Reusch Attrakt Freegel Silver Torwartha,10225543,Reusch,5372035,Reu_K_TWH,5372035,202210,2023-01-31,104090,401,gruen,orange,schwarz,desert green/shock orng/blck,true,5372035-5555
+uhlsport,10225787_1011213_001,Uhlsport Absolutgrip Flex Frame Carbon,10225787,uhlsport,1011213,Uhl_E_TWH,1011213,202208,2022-08-17,104090,400,gelb,schwarz,,fluo gelb/schwarz,true,1011213-01
+NIKE,10225856_FB2094_810,Nike VG3 Promo 22 Torwarthandschuhe Gen,10225856,Nike,FB2094,Nike_E_TWH,FB2094,202211,2022-12-14,104090,409,gold,schwarz,weiss,metallic copper/black/white,true,FB2094-810
+NIKE,10225859_FB2105_810,Nike Promo 22 Gunn Cut Torwarthandschuh,10225859,Nike,FB2105,Nike_E_TWH,FB2105,202211,2022-11-17,104090,409,gold,schwarz,weiss,metallic copper/black/white,true,FB2105-810
+NIKE,10225860_FB2109_810,Nike Promo 22 SGT Torwarthandschuhe Gen,10225860,Nike,FB2109,Nike_E_TWH,FB2109,202211,2022-11-17,104090,409,gold,schwarz,weiss,metallic copper/black/white,true,FB2109-810
+NIKE,10225862_FD0626_810,Nike Promo 22 SGT RS Torwarthandschuhe,10225862,Nike,FD0626,Nike_E_TWH,FD0626,202211,2022-11-17,104090,409,grau,schwarz,weiss,metallic copper/black/white,true,FD0626-810
+JAKO,10227123_2579_930,JAKO Performance Torwarthandschuh Basic,10227123,JAKO,2579,Jako_T_TWH,2579,202208,2022-08-30,104090,851,blau,blau,,navy,true,2579K-930
+JAKO,10227380_2564_930,JAKO Performance Supersoft RC Torwartha,10227380,JAKO,2564,Jako_T_TWH,2564,202304,2023-04-13,104090,851,blau,,,navy,true,2564-930
+adidas,10228534_H62434_000,adidas Predator TRN Torwarthandschuh Sc,10228534,adidas,H62434,Adi_E_TWH,BY829,222211,2022-05-30,104090,399,schwarz,weiss,,black/white/tmdrgr,true,H62434
+adidas,10228535_H62440_000,adidas Predator Training Shadowportal,10228535,adidas,H62440,Adi_E_TWH,TO518,222211,2022-05-30,104090,399,schwarz,weiss,,black/white/tmdrgr,true,H62440
+adidas,10228585_HC0600_000,adidas X League NC Game Data TW-Handsch,10228585,adidas,HC0600,Adi_E_TWH,WU335,202207,2022-08-22,104090,399,gruen,schwarz,gelb,sgreen/black/syello,true,HC0600
+adidas,10228586_HC0601_000,adidas Predator Match FS Game Data TW-H,10228586,adidas,HC0601,Adi_E_TWH,DL780,202207,2022-08-18,104090,399,rot,gruen,gruen,solred/tmsogr/tmsogr,true,HC0601
+adidas,10228587_HC0602_000,adidas X Training NC Game Data TW-Hands,10228587,adidas,HC0602,Adi_E_TWH,SH388,,2022-11-17,104090,399,gruen,schwarz,gelb,sgreen/black/syello,true,HC0602
+adidas,10228588_HC0603_000,adidas Predator Pro NC Game Data TW-Han,10228588,adidas,HC0603,Adi_E_TWH,BU244,202207,2022-07-22,104090,399,rot,gruen,gruen,solred/tmsogr/tmsogr,true,HC0603
+adidas,10228589_HC0604_000,adidas Predator Training Game Data TW-H,10228589,adidas,HC0604,Adi_E_TWH,ZF239,202207,2022-07-19,104090,399,rot,gruen,gruen,solred/tmsogr/tmsogr,true,HC0604
+adidas,10228590_HC0605_000,adidas X Pro NC Game Data TW-Handschuhe,10228590,adidas,HC0605,Adi_E_TWH,L6531,202207,2022-08-22,104090,399,gruen,schwarz,gelb,sgreen/black/syello,true,HC0605
+adidas,10228591_HC0606_000,adidas Predator League NC Game Data TW-,10228591,adidas,HC0606,Adi_E_TWH,MIQ77,202210,2022-05-03,104090,399,orange,gruen,gruen,solred/tmsogr/tmsogr,true,HC0606
+adidas,10228592_HC0608_000,adidas X League NC Game Data TW-Handsch,10228592,adidas,HC0608,Adi_E_TWH,WR737,202207,2022-08-10,104090,399,gruen,schwarz,gelb,sgreen/black/syello,true,HC0608
+adidas,10228593_HC0609_000,adidas X Training NC Game Data TW-Hands,10228593,adidas,HC0609,Adi_E_TWH,CZ240,202207,2022-10-17,104090,399,gruen,schwarz,gelb,sgreen/black/syello,true,HC0609
+adidas,10228594_HC0610_000,adidas Predator Pro NC Game Data TW-Han,10228594,adidas,HC0610,Adi_E_TWH,ZF476,202207,2022-09-02,104090,399,orange,gruen,gruen,solred/tmsogr/tmsogr,true,HC0610
+adidas,10228595_HC0612_000,adidas Predator Pro NC FS Game Data TW-,10228595,adidas,HC0612,Adi_E_TWH,DVJ64,202207,2022-08-10,104090,399,orange,gruen,gruen,solred/tmsogr/tmsogr,true,HC0612
+adidas,10228596_HC0614_000,adidas Predator Training Game Data TW-H,10228596,adidas,HC0614,Adi_E_TWH,WX968,202207,2022-07-19,104090,399,rot,gruen,gruen,solred/tmsogr/tmsogr,true,HC0614
+adidas,10228598_HC0616_000,adidas Predator Pro HC Game Data TW-Han,10228598,adidas,HC0616,Adi_E_TWH,TS333,202207,2022-07-22,104090,399,rot,gruen,gruen,solred/tmsogr/tmsogr,true,HC0616
+adidas,10228599_HC0617_000,adidas Predator Match Game Data TW-Hand,10228599,adidas,HC0617,Adi_E_TWH,KS032,202207,2022-08-03,104090,399,orange,gruen,gruen,solred/tmsogr/tmsogr,true,HC0617
+adidas,10228600_HC0619_000,adidas Predator Competition NC Game Dat,10228600,adidas,HC0619,Adi_E_TWH,TG266,202207,2022-08-10,104090,399,orange,gruen,gruen,solred/tmsogr/tmsogr,true,HC0619
+adidas,10228601_HC0621_000,adidas Predator Match FS Game Data TW-H,10228601,adidas,HC0621,Adi_E_TWH,IR749,202207,2022-07-19,104090,399,orange,gruen,gruen,solred/tmsogr/tmsogr,true,HC0621
+adidas,10229159_HF9726_000,adidas Predator Pro NC Shadowportal TW-,10229159,adidas,HF9726,Adi_E_TWH,BU244,202209,2022-09-29,104090,399,schwarz,gelb,schwarz,black/tmsoye/black,true,HF9726
+adidas,10229165_HF9735_000,adidas Predator MTC FS Torwarthandschuh,10229165,adidas,HF9735,Adi_E_TWH,DL780,202210,2022-11-22,104090,399,weiss,rot,blau,white/solred/brcyan,true,HF9735
+adidas,10229166_HF9736_000,adidas Predator LGE Torwarthandschuhe A,10229166,adidas,HF9736,Adi_E_TWH,MIQ77,202210,2022-07-27,104090,399,weiss,rot,blau,white/solred/brcyan,true,HF9736
+adidas,10229167_HF9738_000,adidas Predator MTC FS Torwarthandschuh,10229167,adidas,HF9738,Adi_E_TWH,IR749,202210,2022-07-27,104090,399,weiss,rot,blau,white/solred/brcyan,true,HF9738
+adidas,10229170_HF9745_000,adidas X TRN Torwarthandschuhe Al Rihla,10229170,adidas,HF9745,Adi_E_TWH,SH388,202210,2022-11-21,104090,399,blau,rot,blau,claqua/solred/poblue,true,HF9745
+adidas,10229250_HH8745_000,adidas Predator Pro Torwarthandschuhe A,10229250,adidas,HH8745,Adi_E_TWH,H1523,202210,2022-10-11,104090,399,weiss,weiss,blau,white/white/brcyan,true,HH8745
+adidas,10229251_HH8746_000,adidas X Pro Torwarthandschuhe Al Rihla,10229251,adidas,HH8746,Adi_E_TWH,C2992,202210,2022-10-21,104090,399,tuerkis,gelb,blau,claqua/syello/poblue,true,HH8746
+adidas,10229361_HI6846_000,adidas X Pro NC Shadowportal TW-Handsch,10229361,adidas,HI6846,Adi_E_TWH,L6531,202208,2022-08-18,104090,399,schwarz,gruen,rot,black/sgreen/solred,true,HI6846
+adidas,10230088_HN6823_000,adidas Predator Pro HYB Torwarthandschu,10230088,adidas,HN6823,Adi_E_TWH,V6270,202210,2022-10-11,104090,399,weiss,weiss,blau,white/white/brcyan,true,HN6823
+adidas,10230161_HP1818_000,adidas X Pro Beyond Fast Torwarthandsch,10230161,adidas,HP1818,Adi_E_TWH,L6531,202209,2022-09-13,104090,399,silber,grau,grau,silvmt/carbon/carbon,true,HP1818
+erima,10230279_7222001_000,Erima Flex RD Torwarthandschuhe Schwarz,10230279,Erima,7222001,Erim_E_TWH,7222001,202205,2022-04-29,104090,555,schwarz,grau,gold,schwarz/grau/gold,true,7222001
+adidas,10230497_HC0620_000,adidas Predator Pro Promo NC FS Game Da,10230497,adidas,HC0620,Adi_E_TWH,GE213,202207,2022-08-03,104090,399,rot,gruen,gruen,solred/tmsogr/tmsogr,true,HC0620
+adidas,10230498_HC0622_000,adidas Predator Pro Hybrid Promo Game D,10230498,adidas,HC0622,Adi_E_TWH,Z7816,202207,2022-07-22,104090,399,rot,gruen,gruen,solred/tmsogr/tmsogr,true,HC0622
+adidas,10230500_HC3035_000,adidas Predator Pro Promo NC Game Data,10230500,adidas,HC3035,Adi_E_TWH,CL825,202207,2022-07-19,104090,399,rot,gruen,gruen,solred/tmsogr/tmsogr,true,HC3035
+adidas,10230549_HM4075_000,adidas Predator Pro PC Beyond Fast Torw,10230549,adidas,HM4075,Adi_E_TWH,ZK231,202209,2022-11-17,104090,399,silber,grau,grau,silvmt/carbon/carbon,true,HM4075
+adidas,10230561_HN6821_000,adidas Predator Pro PC Torwarthandschuh,10230561,adidas,HN6821,Adi_E_TWH,ZK231,202210,2022-10-11,104090,399,weiss,weiss,blau,white/white/brcyan,true,HN6821
+adidas,10230562_HN6822_000,adidas Predator Pro FSP Torwarthandschu,10230562,adidas,HN6822,Adi_E_TWH,TO867,202210,2022-10-11,104090,399,weiss,weiss,blau,white/white/brcyan,true,HN6822
+adidas,10230563_HN6824_000,adidas Predator Pro HYP Torwarthandschu,10230563,adidas,HN6824,Adi_E_TWH,P1646,202210,2022-10-11,104090,399,weiss,weiss,blau,white/white/brcyan,true,HN6824
+JAKO,10230839_2561_930,JAKO Performance GIGA NC Torwarthandsch,10230839,JAKO,2561,Jako_T_TWH,2561,202210,2022-05-11,104090,851,blau,,,navy,true,2561-930
+uhlsport,10231408_1011287_001,Uhlsport Hyperflex HN Torwarthandschuhe,10231408,uhlsport,1011287,Uhl_E_TWH,1011287,202204,2022-04-13,104090,400,schwarz,weiss,,schwarz/weiß,true,1011287-01
+Puma,10231800_041836_001,PUMA ULTRA Ultimate 1 NC Torwarthandsch,10231800,PUMA,041836,Puma_E_TWH,041836,,2022-10-14,104090,681,weiss,gelb,schwarz,puma white-lime squeeze-puma black-teaser,true,041836-01
+uhlsport,10232227_1011232_152,uhlsport Supergrip+ HN #330 Hyperred TW,10232227,uhlsport,1011232,Uhl_E_TWH,1011232,,2022-05-05,104090,400,rot,schwarz,,rot/schwarz,true,1011232-04
+uhlsport,10232228_1011235_152,Uhlsport Hyperflex HN #331 Hyperred TW-,10232228,uhlsport,1011235,Uhl_E_TWH,1011235,,2022-05-05,104090,400,rot,schwarz,,rot/schwarz,true,1011235-04
+Sells Goalkeeper,10232231_SGP202124_000,Sells Total Contact XC Competition Expa,10232231,Sells,SGP202124,Sell_E_TW,SGP202124,202206,2022-06-14,104090,1654,weiss,schwarz,,white/black //  outlast a35 (white),true,SGP202124
+Sells Goalkeeper,10232232_SGP202125_000,Sells Wrap XC Competition Roll Fingers,10232232,Sells,SGP202125,Sell_E_TW,SGP202125,202206,2022-06-15,104090,1654,weiss,schwarz,,white/black //  outlast a35 (white),true,SGP202125
+Sells Goalkeeper,10232233_SGP202133_000,Sells Total Contact Endurance Max Expan,10232233,Sells,SGP202133,Sell_E_TW,SGP202133,202206,2022-06-22,104090,1654,weiss,schwarz,gelb,white/black/lime (acclimatize (black)),true,SGP202133
+Sells Goalkeeper,10232234_SGP202134_000,Sells Wrap Endurance Max Roll Finges To,10232234,Sells,SGP202134,Sell_E_TW,SGP202134,202206,2022-06-14,104090,1654,weiss,schwarz,gelb,white/black/lime (acclimatize (black)),true,SGP202134
+Puma,10232473_041837_01,PUMA ULTRA Grip 1 Hybrid Liberty TW-Han,10232473,PUMA,041837,Puma_E_TWH,041837,222210,2022-06-13,104090,681,weiss,,,white,true,041837-01
+Puma,10232701_041807_004,PUMA FUTURE One Grip 1 NC Fastest TW-Ha,10232701,PUMA,041807,Puma_E_TWH,041807,202207,2022-09-27,104090,681,gelb,blau,,fizzy light-parisian night,true,041807-04
+Puma,10232702_041807_005,PUMA FUTURE One Grip 1 NC Fearless,10232702,PUMA,041807,Puma_E_TWH,041807,202210,2022-12-05,104090,681,orange,gelb,,fiery coral-fizzy light,true,041807-05
+Puma,10232703_041808_002,PUMA FUTURE One Grip SGC Fastest TW-Han,10232703,PUMA,041808,Puma_E_TWH,041808,202207,2022-09-09,104090,681,gelb,blau,,fizzy light-parisian night,true,041808-02
+Puma,10232704_041809_004,PUMA FUTURE One Grip 3 NC Fastest TW-Ha,10232704,PUMA,041809,Puma_E_TWH,041809,222210,2022-07-21,104090,681,gelb,blau,,fizzy light-parisian night,true,041809-04
+Puma,10232705_041809_005,PUMA FUTURE One Grip 3 NC Fearless,10232705,PUMA,041809,Puma_E_TWH,041809,202210,2022-10-07,104090,681,orange,gelb,,fiery coral-fizzy light,true,041809-05
+Puma,10232706_041813_001,PUMA ULTRA Ultimate 1 NC Fastest TW-Han,10232706,PUMA,041813,Puma_E_TWH,041813,222210,2022-11-23,104090,681,gelb,blau,,fizzy light-parisian night,true,041813-01
+Puma,10232707_041813_002,PUMA ULTRA Ultimate 1 NC Fearless,10232707,PUMA,041813,Puma_E_TWH,041813,202210,2023-02-06,104090,681,orange,gelb,,fiery coral-fizzy light,true,041813-02
+Puma,10232708_041814_001,PUMA ULTRA Grip 2 RC Fastest TW-Handsch,10232708,PUMA,041814,Puma_E_TWH,041814,222210,2022-12-09,104090,681,gelb,blau,,fizzy light-parisian night,true,041814-01
+Puma,10232709_041815_001,PUMA ULTRA Grip 2 RC Fastest TW-Handsch,10232709,PUMA,041815,Puma_E_TWH,041815,222210,2022-08-24,104090,681,gelb,blau,,fizzy light-parisian night,true,041815-01
+Puma,10232710_041816_001,PUMA ULTRA Grip 3 RC Fastest TW-Handsch,10232710,PUMA,041816,Puma_E_TWH,041816,222210,2022-08-24,104090,681,gelb,blau,,fizzy light-parisian night,true,041816-01
+Puma,10232711_041817_001,PUMA ULTRA Grip 4 RC Fastest TW-Handsch,10232711,PUMA,041817,Puma_E_TWH,041817,202207,2022-09-20,104090,681,gelb,blau,,fizzy light-parisian night,true,041817-01
+Puma,10232712_041817_002,PUMA ULTRA Grip 4 RC Fearless Torwartha,10232712,PUMA,041817,Puma_E_TWH,041817,202210,2023-01-13,104090,681,orange,gelb,,fiery coral-fizzy light,true,041817-02
+Puma,10232713_041820_001,PUMA ULTRA Protect 3 RC Fastest TW-Hand,10232713,PUMA,041820,Puma_E_TWH,041820,222210,2022-09-05,104090,681,blau,gelb,,parisian night-fizzy light,true,041820-01
+Puma,10232714_041827_001,PUMA ULTRA Grip 1 Hybrid Torwarthandsch,10232714,PUMA,041827,Puma_E_TWH,041827,222210,2022-10-06,104090,681,gelb,blau,,fizzy light-parisian night,true,041827-01
+Puma,10232715_041827_002,PUMA ULTRA Grip 1 Hybrid Fearless,10232715,PUMA,041827,Puma_E_TWH,041827,202210,2023-01-10,104090,681,orange,gelb,,fiery coral-fizzy light,true,041827-02
+Puma,10232716_041827_003,PUMA ULTRA Grip 1 Hybrid Torwarthandsch,10232716,PUMA,041827,Puma_E_TWH,041827,222210,2022-08-08,104090,681,schwarz,gruen,,puma black-elektro aqua,true,041827-03
+Sells Goalkeeper,10233863_SGP202108_000,Sells Total Contact Aqua Monsoon Expans,10233863,Sells,SGP202108,Sell_E_TW,SGP202108,202208,2022-08-11,104090,1654,weiss,schwarz,blau,white/black/navy/aqua,true,SGP202108
+Sells Goalkeeper,10233865_SGP202109_000,Sells Wrap Aqua Monsoon Rollfinger TW-H,10233865,Sells,SGP202109,Sell_E_TW,SGP202109,202208,2022-08-11,104090,1654,weiss,schwarz,blau,white/black/navy/aqua,true,SGP202109
+Sells Goalkeeper,10233927_SGP202111_000,Sells Total Contact Aqua Storm Expanse,10233927,Sells,SGP202111,Sell_E_TW,SGP202111,202208,2022-08-11,104090,1654,weiss,schwarz,blau,white/black/navy/aqua,true,SGP202111
+Sells Goalkeeper,10233929_SGP202112_000,Sells Wrap Aqua Storm Rollfinger TW-Han,10233929,Sells,SGP202112,Sell_E_TW,SGP202112,202208,2022-08-11,104090,1654,weiss,schwarz,blau,white/black/navy/aqua,true,SGP202112
+NIKE,10234535_CN5650_765,Nike Vapor Grip3 Progress Torwarthandsc,10234535,Nike,CN5650,Nike_E_TWH,CN5650,202210,2022-10-21,104090,409,gelb,,,yellow strike/white/black,true,CN5650-765
+NIKE,10234536_CN5651_765,Nike Grip3 Torwarthandschuh F765,10234536,Nike,CN5651,Nike_E_TWH,CN5651,202207,2022-08-18,104090,409,gelb,,,yellow strike/white/black,true,CN5651-765
+NIKE,10234537_CN6724_445,Nike Phantom Elite Torwarthandschuh F44,10234537,Nike,CN6724,Nike_E_TWH,CN6724,202207,2022-08-22,104090,409,blau,gelb,,polarized blue/yellow strike,true,CN6724-445
+NIKE,10234546_CQ7795_765,Nike Jr. Match Torwarthandschuh Kids F7,10234546,Nike,CQ7795,Nike_E_TWH,CQ7795,202209,2022-09-02,104090,409,gelb,,,yellow strike/white/black,true,CQ7795-765
+uhlsport,10236836_1011258_001,Uhlsport Supergrip+ Speed Contact TW-Ha,10236836,uhlsport,1011258,Uhl_E_TWH,1011258,202207,2022-07-07,104090,400,schwarz,weiss,orange,schwarz/weiß/fluo orange,true,1011258-01
+uhlsport,10236837_1011259_001,Uhlsport Supergrip+ Reflex Speed Contac,10236837,uhlsport,1011259,Uhl_E_TWH,1011259,202207,2022-07-07,104090,400,schwarz,weiss,orange,schwarz/weiß/fluo orange,true,1011259-01
+uhlsport,10236840_1011260_001,Uhlsport Supergrip+ Finger Surround Spe,10236840,uhlsport,1011260,Uhl_E_TWH,1011260,202207,2022-07-07,104090,400,schwarz,weiss,orange,schwarz/weiß/fluo orange,true,1011260-01
+uhlsport,10236842_1011261_001,uhlsport Supergrip+ HN Speed Contact TW,10236842,uhlsport,1011261,Uhl_E_TWH,1011232,202207,2022-07-07,104090,400,schwarz,weiss,orange,schwarz/weiß/fluo orange,true,1011261-01
+uhlsport,10236844_1011262_001,Uhlsport Absolutgrip Reflex Speed Conta,10236844,uhlsport,1011262,Uhl_E_TWH,1011262,222204,2022-07-07,104090,400,schwarz,,,schwarz/weiß/fluo orange,true,1011262-01
+uhlsport,10236846_1011263_001,Uhlsport Absolutgrip Finger Surround Sp,10236846,uhlsport,1011263,Uhl_E_TWH,1011263,202207,2022-07-07,104090,400,schwarz,weiss,orange,schwarz/weiß/fluo orange,true,1011263-01
+uhlsport,10236850_1011264_001,Uhlsport Absolutgrip HN Speed Contact T,10236850,uhlsport,1011264,Uhl_E_TWH,1011264,202207,2022-07-07,104090,400,schwarz,weiss,orange,schwarz/weiß/fluo orange,true,1011264-01
+uhlsport,10236855_1011265_001,Uhlsport Supersoft HN Speed Contact TW-,10236855,uhlsport,1011265,Uhl_E_TWH,1011265,202207,2022-07-07,104090,400,schwarz,weiss,orange,schwarz/weiß/fluo orange,true,1011265-01
+uhlsport,10236857_1011266_001,Uhlsport Supersoft Speed Contact TW-Han,10236857,uhlsport,1011266,Uhl_E_TWH,1011266,202207,2022-07-07,104090,400,schwarz,weiss,orange,schwarz/weiß/fluo orange,true,1011266-01
+uhlsport,10237215_1011268_001,Uhlsport Speed Contact Soft Pro TW-Hand,10237215,uhlsport,1011268,Uhl_E_TWH,1011268,,2025-08-04,104090,400,schwarz,weiss,orange,schwarz/weiß/fluo orange,true,1011268-01
+uhlsport,10237216_1011269_001,Uhlsport Speed Contact Starter Soft TW-,10237216,uhlsport,1011269,Uhl_E_TWH,1011269,202303,2023-03-21,104090,400,schwarz,weiss,orange,schwarz/weiß/fluo orange,true,1011269-01
+AB1,10237494_AB110_000,AB1 Uno 2.0 ICON Pro NC Limited Edition,10237494,AB1,AB110,AB1_E_TWH,AB110,222095,2022-08-18,104090,8298,schwarz,gruen,,jet black - neon green,true,AB110
+AB1,10237508_AB007_000,AB1 Undici 2.0 Flex TW-Handschuhe Weiss,10237508,AB1,AB007,AB1_E_TWH,AB007,222095,2022-08-18,104090,8298,weiss,schwarz,,pure white - black,true,AB007
+reusch,10237925_5270050_2199,Reusch Attrakt Duo Ortho-Tec Torwarthan,10237925,Reusch,5270050,Reu_E_TWH,5270050,202210,2022-08-11,104090,401,gelb,blau,blau,safe yellw/dep blu/dep bl,true,5270050-2199
+reusch,10237928_5270820_6006,Reusch Attrakt Grip Evolution Finger Su,10237928,Reusch,5270820,Reu_E_TWH,5270820,202208,2022-12-29,104090,401,grau,gelb,,vap gray/safy yell/deep,true,5270820-6006
+reusch,10237941_5272940_6006,Reusch Attrakt Fusion Finger Support Gu,10237941,Reusch,5272940,Reu_K_TWH,5272940,202208,2022-08-11,104090,401,grau,gelb,,vap gray/safy yell/deep,true,5272940-6006
+reusch,10237945_5260101_7781,Reusch Pure Contact Gold Torwarthandsch,10237945,Reusch,5260101,Reu_E_TWH,5260101,202208,2022-08-24,104090,401,schwarz,gruen,,black/green gecko,true,5260101-7781
+reusch,10237949_5260745_1101,Reusch Attrakt Freegel Infinity TW-Hand,10237949,Reusch,5260745,Reu_E_TWH,5260745,202208,2022-08-24,104090,401,weiss,schwarz,,white / black,true,5260745-1101
+reusch,10237950_5262234_2290,Reusch Attrakt Freegel Silver TW-Handsc,10237950,Reusch,5262234,Reu_K_TWH,5262234,202208,2022-08-24,104090,401,orange,blau,,shocking orange/blue,true,5262234-2290
+reusch,10239478_5260954_2001,Reusch Attrakt Freegel Gold X Alpha TW-,10239478,Reusch,5260954,Reu_E_TWH,5260954,202209,2022-09-01,104090,401,gelb,blau,weiss,safety yellow/deep blue/white,true,5260954-2001
+uhlsport,10239727_1011270_001,Uhlsport Aquagrip HN Torwarthandschuhe,10239727,uhlsport,1011270,Uhl_E_TWH,1011270,202210,2022-10-25,104090,400,blau,schwarz,,pacific blau/schwarz/fluo,true,1011270-01
+uhlsport,10239728_1011271_001,Uhlsport Aquasoft HN Torwarthandschuhe,10239728,uhlsport,1011271,Uhl_E_TWH,1011271,202210,2022-10-25,104090,400,blau,schwarz,,pacific blau/schwarz/fluo,true,1011271-01
+uhlsport,10239729_1011272_001,Uhlsport Aquasoft RC,10239729,uhlsport,1011272,Uhl_E_TWH,1011272,202210,2022-10-25,104090,400,blau,schwarz,,pacific blau/schwarz/fluo,true,1011272-01
+uhlsport,10239730_1011273_001,Uhlsport Super Resist+ HN Torwarthandsc,10239730,uhlsport,1011273,Uhl_E_TWH,1011273,202209,2022-10-31,104090,400,orange,weiss,schwarz,fluo orange/weiß/schwarz,true,1011273-01
+uhlsport,10239731_1011274_001,Uhlsport Soft Resist+ HN Flex Frame TW-,10239731,uhlsport,1011274,Uhl_E_TWH,1011274,202209,2022-10-31,104090,400,orange,weiss,schwarz,fluo orange/weiß/schwarz,true,1011274-01
+uhlsport,10239732_1011274_001,Uhlsport Soft Resist+ HN Flex Frame TW-,10239732,uhlsport,1011274,Uhl_E_TWH,1011274,202209,2022-10-31,104090,400,orange,weiss,schwarz,fluo orange/weiß/schwarz,true,1011274-01AA
+uhlsport,10239733_1011275_001,Uhlsport Soft Resist+ TW-Handschuhe Ora,10239733,uhlsport,1011275,Uhl_E_TWH,1011275,202209,2022-10-31,104090,400,orange,schwarz,weiss,fluo orange/weiß/schwarz,true,1011275-01
+uhlsport,10239734_1011277_001,Uhlsport Speed Contact Supergrip+ TW-Ha,10239734,uhlsport,1011277,Uhl_E_TWH,1011277,202211,2022-11-17,104090,400,blau,schwarz,,marine/schwarz/fluo blau,true,1011277-01
+uhlsport,10239735_1011278_001,Uhlsport Speed Contact Supergrip+ Refle,10239735,uhlsport,1011278,Uhl_E_TWH,1011278,202211,2022-11-17,104090,400,blau,schwarz,,marine/schwarz/fluo blau,true,1011278-01
+uhlsport,10239736_1011279_001,Uhlsport Speed Contact Supergrip+ Finge,10239736,uhlsport,1011279,Uhl_E_TWH,1011279,202211,2022-11-17,104090,400,blau,schwarz,,marine/schwarz/fluo blau,true,1011279-01
+uhlsport,10239737_1011280_001,Uhlsport Speed Contact Supergrip+ Finge,10239737,uhlsport,1011280,Uhl_E_TWH,1011280,202211,2022-11-17,104090,400,blau,schwarz,,marine/schwarz/fluo blau,true,1011280-01
+uhlsport,10239738_1011281_001,Uhlsport Speed Contact Absolutgrip HN T,10239738,uhlsport,1011281,Uhl_E_TWH,1011281,202211,2022-11-17,104090,400,blau,schwarz,,marine/schwarz/fluo blau,true,1011281-01
+uhlsport,10239739_1011282_001,Uhlsport Speed Contact Supersoft TW-Han,10239739,uhlsport,1011282,Uhl_E_TWH,1011282,202211,2022-11-17,104090,400,blau,schwarz,,marine/schwarz/fluo blau,true,1011282-01
+uhlsport,10239740_1011283_001,Uhlsport Speed Contact Soft Flex Frame,10239740,uhlsport,1011283,Uhl_E_TWH,1011283,202211,2022-11-17,104090,400,blau,schwarz,,marine/schwarz/fluo blau,true,1011283-01
+uhlsport,10239741_1011283_001,Uhlsport Speed Contact Soft Flex Frame,10239741,uhlsport,1011283,Uhl_E_TWH,1011283,202211,2022-11-17,104090,400,blau,schwarz,,marine/schwarz/fluo blau,true,1011283-01AA
+NIKE,10240054_DV2247_740,Nike Vapor Grip3 Alison Becker Torwarth,10240054,Nike,DV2247,Nike_E_TWH,DV2247,202211,2022-11-17,104090,409,gelb,schwarz,,dynamic yellow/black/black,true,DV2247-740
+NIKE,10240055_DV3094_810,Nike Vapor Grip3 Torwarthandschuhe Brau,10240055,Nike,DV3094,Nike_E_TWH,DV3094,202211,2022-12-09,104090,409,gold,schwarz,weiss,metallic copper/black/white,true,DV3094-810
+NIKE,10240056_DV3097_810,Nike Grip3 Torwarthandschuhe Generation,10240056,Nike,DV3097,Nike_E_TWH,DV3097,202211,2022-11-23,104090,409,gold,schwarz,weiss,metallic copper/black/white,true,DV3097-810
+NIKE,10240057_DV3108_524,Nike Phantom Elite Torwarthandschuhe Ge,10240057,Nike,DV3108,Nike_E_TWH,DV3108,202211,2022-12-09,104090,409,lila,schwarz,gold,dark raisin/black/metallic copper,true,DV3108-524
+NIKE,10240058_DV3111_560,Nike Mercurial Touch Elite Torwarthands,10240058,Nike,DV3111,Nike_E_TWH,DV3111,202212,2022-12-09,104090,409,lila,pink,weiss,cave purple/pink blast/white,true,DV3111-560
+uhlsport,10243296_1011285_001,Uhlsport Contact Aquagrip HN Torwarthan,10243296,uhlsport,1011285,Uhl_E_TWH,1011285,,2022-10-18,104090,400,blau,schwarz,,aqua blau/schwarz,true,1011285-01
+uhlsport,10243297_1011286_001,Uhlsport Contact Aquaflex HN Torwarthan,10243297,uhlsport,1011286,Uhl_E_TWH,1011286,,2022-10-18,104090,400,blau,schwarz,,aqua blau/schwarz,true,1011286-01
+uhlsport,10243350_1011189_001,Uhlsport Contact Supergrip+ Pure Flex T,10243350,uhlsport,1011189,Uhl_E_TWH,1011189,202211,2022-11-23,104090,400,blau,,,marine/cyan,true,1011189-01
+reusch,10244016_5372010_5556,Reusch Attrakt Solid Finger Support,10244016,Reusch,5372010,Reu_K_TWH,5372010,202304,2023-05-17,104090,401,gruen,orange,,desert green / shocking orange,true,5372010-5556
+adidas,10246692_HN3338_000,adidas Predator MTC Torwarthandschuhe W,10246692,adidas,HN3338,Adi_E_TWH,BZ410,202202,2023-02-14,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN3338
+adidas,10246693_HN3340_000,adidas Predator MTC FS Torwarthandschuh,10246693,adidas,HN3340,Adi_E_TWH,VZ638,202202,2023-02-14,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN3340
+adidas,10246694_HN3341_000,adidas Predator Pro Hybrid Torwarthands,10246694,adidas,HN3341,Adi_E_TWH,V6278,202302,2023-02-01,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN3341
+adidas,10246695_HN3342_000,adidas Predator COM Torwarthandschuhe O,10246695,adidas,HN3342,Adi_E_TWH,VU095,202302,2023-02-01,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN3342
+adidas,10246696_HN3343_000,adidas Predator Pro FS Torwarthandschuh,10246696,adidas,HN3343,Adi_E_TWH,TB336,202302,2023-02-01,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN3343
+adidas,10246697_HN3345_000,adidas Predator Pro Torwarthandschuhe O,10246697,adidas,HN3345,Adi_E_TWH,M3569,,2023-02-01,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN3345
+adidas,10246698_HN3346_000,adidas X Speedportal TRN Torwarthandsch,10246698,adidas,HN3346,Adi_E_TWH,SH388,202303,2023-03-24,104090,399,pink,weiss,schwarz,tmshpn/white/black,true,HN3346
+adidas,10246699_HN3347_000,adidas Predator Pro Torwarthandschuhe N,10246699,adidas,HN3347,Adi_E_TWH,M3569,202302,2023-02-01,104090,399,schwarz,,,black/black/black,true,HN3347
+adidas,10246700_HN5560_000,adidas Predator Pro FSP Torwarthandschu,10246700,adidas,HN5560,Adi_E_TWH,DVM98,202302,2023-02-16,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN5560
+adidas,10246701_HN5561_000,adidas Predator Pro Promo Hybrid Torwar,10246701,adidas,HN5561,Adi_E_TWH,SV373,202302,2023-02-01,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN5561
+adidas,10246703_HN5566_000,adidas X Speedprotal LGE Torwarthandsch,10246703,adidas,HN5566,Adi_E_TWH,WU335,202302,2023-02-01,104090,399,pink,weiss,schwarz,tmshpn/white/black,true,HN5566
+adidas,10246704_HN5567_000,adidas X Speedportal Pro Torwarthandsch,10246704,adidas,HN5567,Adi_E_TWH,L6531,202302,2023-02-06,104090,399,schwarz,,,black/black/black,true,HN5567
+adidas,10246705_HN5568_000,adidas X Speedportal TRN Torwarthandsch,10246705,adidas,HN5568,Adi_E_TWH,CZ240,202302,2023-04-13,104090,399,pink,weiss,schwarz,tmshpn/white/black,true,HN5568
+adidas,10246706_HN5569_000,adidas X Speedportal Pro Torwarthandsch,10246706,adidas,HN5569,Adi_E_TWH,L6531,202304,2023-03-14,104090,399,pink,grau,schwarz,tmshpn/zeromt/black,true,HN5569
+adidas,10246707_HN5570_000,adidas Predator Pro Promo Torwarthandsc,10246707,adidas,HN5570,Adi_E_TWH,QH504,202302,2023-02-01,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN5570
+adidas,10246709_HN5574_000,adidas X Speedprotal LGE Torwarthandsch,10246709,adidas,HN5574,Adi_E_TWH,WR737,202302,2023-02-01,104090,399,pink,grau,schwarz,tmshpn/zeromt/black,true,HN5574
+adidas,10246711_HN5576_000,adidas Predator TRN Torwarthandschuhe K,10246711,adidas,HN5576,Adi_E_TWH,P4464,202202,2023-02-14,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN5576
+adidas,10246712_HN5579_000,adidas Predator Pro Torwarthandschuhe K,10246712,adidas,HN5579,Adi_E_TWH,TK985,202302,2023-02-01,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN5579
+adidas,10246713_HN5580_000,adidas Predator MTC FS Torwarthandschuh,10246713,adidas,HN5580,Adi_E_TWH,WU348,202303,2023-03-21,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN5580
+adidas,10246714_HN5587_000,adidas Predator TRN Torwarthandschuhe S,10246714,adidas,HN5587,Adi_E_TWH,E0496,202202,2023-02-14,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN5587
+adidas,10246721_HN5608_000,adidas Tiro Club Torwarthandschuhe Kids,10246721,adidas,HN5608,Adi_E_TWH,Z7888,202301,2023-01-27,104090,399,schwarz,weiss,schwarz,black/white/black,true,HN5608
+adidas,10246723_HN5610_000,adidas Tiro Club Torwarthandschuhe Schw,10246723,adidas,HN5610,Adi_E_TWH,DVM89,202301,2023-01-27,104090,399,schwarz,weiss,schwarz,black/white/black,true,HN5610
+adidas,10246724_HN5611_000,adidas Tiro Pro Torwarthandschuhe Schwa,10246724,adidas,HN5611,Adi_E_TWH,TC733,202302,2023-02-27,104090,399,schwarz,weiss,gelb,black/white/ironmt,true,HN5611
+adidas,10246725_HN5612_000,adidas Tiro League Torwarthandschuhe Sc,10246725,adidas,HN5612,Adi_E_TWH,HM025,202301,2023-01-27,104090,399,schwarz,weiss,gelb,black/white/ironmt,true,HN5612
+adidas,10246738_HN7993_000,adidas Predator LGE Torwarthandschuhe W,10246738,adidas,HN7993,Adi_E_TWH,CB110,202301,2023-04-06,104090,399,schwarz,weiss,pink,black/white/tmshpn,true,HN7993
+adidas,10247540_HY4073_000,adidas Predator MTC FS Torwarthandschuh,10247540,adidas,HY4073,Adi_E_TWH,WU348,202302,2023-02-10,104090,399,schwarz,,,black/black/black,true,HY4073
+adidas,10247541_HY4074_000,adidas Predator COM Torwarthandschuhe S,10247541,adidas,HY4074,Adi_E_TWH,VU095,202303,2023-03-08,104090,399,schwarz,,,black/black/black,true,HY4074
+adidas,10247542_HY4075_000,adidas Predator TRN Torwarthandschuhe N,10247542,adidas,HY4075,Adi_E_TWH,E0496,202302,2023-05-02,104090,399,schwarz,,,black/black/black,true,HY4075
+adidas,10247543_HY4076_000,adidas Predator MTC FS Torwarthandschuh,10247543,adidas,HY4076,Adi_E_TWH,VZ638,202303,2023-03-09,104090,399,schwarz,,,black/black/black,true,HY4076
+adidas,10247544_HY4077_000,adidas Predator TRN Torwarthandschuhe K,10247544,adidas,HY4077,Adi_E_TWH,P4464,202302,2023-02-10,104090,399,schwarz,,,black/black/black,true,HY4077
+Puma,10248790_41813_005,PUMA ULTRA Ultimate 1 NC Torwarthandsch,10248790,PUMA,041813,Puma_E_TWH,041813,202304,2023-04-18,104090,681,orange,,,ultra orange-blue glimmer,true,041813-05
+Puma,10248791_41813_006,PUMA ULTRA Ultimate 1 NC Torwarthandsch,10248791,PUMA,041813,Puma_E_TWH,041813,202304,2023-04-06,104090,681,tuerkis,,,electric peppermint-fast yellow,true,041813-06
+Puma,10248792_41814_005,PUMA ULTRA Grip 2 RC Torwarthandschuhe,10248792,PUMA,041814,Puma_E_TWH,041814,202301,2023-01-27,104090,681,orange,,,ultra orange-blue glimmer,true,041814-05
+Puma,10248793_41814_006,PUMA ULTRA Grip 2 RC Torwarthandschuhe,10248793,PUMA,041814,Puma_E_TWH,041814,202304,2023-04-19,104090,681,tuerkis,,,electric peppermint-fast yellow,true,041814-06
+Puma,10248794_41815_005,PUMA ULTRA Grip 2 RC Torwarthandschuhe,10248794,PUMA,041815,Puma_E_TWH,041815,202301,2023-01-26,104090,681,orange,,,ultra orange-blue glimmer,true,041815-05
+Puma,10248795_41816_005,PUMA ULTRA Grip 3 RC Torwarthandschuhe,10248795,PUMA,041816,Puma_E_TWH,041816,202301,2023-02-16,104090,681,orange,,,ultra orange-blue glimmer,true,041816-05
+Puma,10248797_41817_006,PUMA ULTRA Grip 4 RC Torwarthandschuhe,10248797,PUMA,041817,Puma_E_TWH,041817,202304,2023-05-02,104090,681,tuerkis,,,electric peppermint-fast yellow,true,041817-06
+Puma,10248798_41819_005,PUMA ULTRA Protect 3 RC Torwarthandschu,10248798,PUMA,041819,Puma_E_TWH,41819,202301,2023-05-05,104090,681,orange,,,ultra orange-blue glimmer,true,041819-05
+Puma,10248799_41820_005,PUMA ULTRA Protect 3 RC Torwarthandschu,10248799,PUMA,041820,Puma_E_TWH,041820,202301,2023-04-18,104090,681,orange,,,ultra orange-blue glimmer,true,041820-05
+Puma,10248800_41827_005,PUMA ULTRA Grip 1 Hybrid Torwarthandsch,10248800,PUMA,041827,Puma_E_TWH,041827,202301,2023-03-01,104090,681,orange,,,ultra orange-blue glimmer,true,041827-05
+Puma,10248801_41827_006,PUMA ULTRA Grip 1 Hybrid Torwarthandsch,10248801,PUMA,041827,Puma_E_TWH,041827,202304,2023-05-05,104090,681,tuerkis,,,electric peppermint-fast yellow,true,041827-06
+Puma,10248802_41827_007,PUMA ULTRA Grip 1 Hybrid Torwarthandsch,10248802,PUMA,041827,Puma_E_TWH,041827,202301,2023-03-27,104090,681,schwarz,,,puma black-puma white,true,041827-07
+Puma,10248803_41841_001,PUMA FUTURE Ultimate NC Torwarthandschu,10248803,PUMA,041841,Puma_E_TWH,041841,202301,2023-01-25,104090,681,orange,,,ultra orange-blue glimmer,true,041841-01
+Puma,10248804_41841_002,PUMA FUTURE Ultimate NC Torwarthandschu,10248804,PUMA,041841,Puma_E_TWH,041841,202304,2023-04-06,104090,681,tuerkis,,,electric peppermint-fast yellow,true,041841-02
+Puma,10248805_41841_003,PUMA FUTURE Ultimate NC Torwarthandschu,10248805,PUMA,041841,Puma_E_TWH,041841,202301,2023-01-27,104090,681,schwarz,,,puma black-puma white,true,041841-03
+Puma,10248806_41842_001,PUMA FUTURE Pro Hybrid Torwarthandschuh,10248806,PUMA,041842,Puma_E_TWH,41842,202301,2023-03-27,104090,681,orange,,,ultra orange-blue glimmer,true,041842-01
+Puma,10248807_41843_001,PUMA FUTURE Pro SGC Torwarthandschuhe S,10248807,PUMA,041843,Puma_E_TWH,041843,202301,2023-03-06,104090,681,orange,,,Ultra Orange-Blue Glimmer,true,041843-01
+Puma,10248808_41844_001,PUMA FUTURE Match NC Torwarthandschuhe,10248808,PUMA,041844,Puma_E_TWH,041844,202301,2023-01-25,104090,681,orange,,,ultra orange-blue glimmer,true,041844-01
+Puma,10248809_41844_002,PUMA FUTURE Match NC Torwarthandschuhe,10248809,PUMA,041844,Puma_E_TWH,041844,202304,2023-05-02,104090,681,tuerkis,,,electric peppermint-fast yellow,true,041844-02
+Puma,10248810_41852_001,PUMA FUTURE Pro Hybrid Tricks Torwartha,10248810,PUMA,041852,Puma_E_TWH,041852,202304,2023-04-18,104090,681,gelb,,,fast yellow-ravish,true,041852-01
+uhlsport,10249553_1011284_001,Uhlsport Speed Contact Starter Soft  To,10249553,uhlsport,1011284,Uhl_E_TWH,1011284,222204,2025-08-04,104090,400,blau,schwarz,,marine/schwarz/fluo blau,true,1011284-01
+NIKE,10249563_FB2095_010,Nike Phantom Elite Promo Torwarthandsch,10249563,Nike,FB2095,Nike_E_TWH,FB2095,202301,2023-02-06,104090,409,schwarz,weiss,,black/white/hot punch,true,FB2095-010
+NIKE,10249593_FB2109_010,Nike Premier Torwarthandschuh Schwarz W,10249593,Nike,FB2109,Nike_E_TWH,FB2109,202303,2023-03-22,104090,409,schwarz,weiss,,black/white/hot punch,true,FB2109-010
+NIKE,10249778_FB2094_010,Nike VG3 Torwarthandschuh Schwarz Weiss,10249778,Nike,FB2094,Nike_E_TWH,FB2094,202303,2023-03-22,104090,409,schwarz,weiss,,black/white/hot punch,true,FB2094-010
+NIKE,10249816_DM4010_101,Nike VG3 RS Promo Torwarthandschuh Weis,10249816,Nike,DM4010,Nike_E_TWH,DM4010,202303,2023-03-22,104090,409,weiss,weiss,blau,white/white/baltic blue,true,DM4010-101
+reusch,10249980_5370950_3333,Reusch Attrakt Gold X Evolution Cut Fin,10249980,Reusch,5370950,Reu_E_TWH,5370950,202301,2023-04-18,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5370950-3333
+reusch,10249984_5370820_3333,Reusch Attrakt Grip Evolution Finger Su,10249984,Reusch,5370820,Reu_E_TWH,5370820,202301,2023-04-18,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5370820-3333
+reusch,10249987_5370995_3333,Reusch Attrakt Freegel Fusion Goaliator,10249987,Reusch,5370995,Reu_E_TWH,5370995,202301,2023-01-30,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5370995-3333
+reusch,10249989_5370985_3333,Reusch Attrakt Fusion Guardian Adaptive,10249989,Reusch,5370985,Reu_E_TWH,5370985,202301,2023-01-30,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5370985-3333
+reusch,10249991_5370964_3333,Reusch Attrakt Gold X Evolution Cut TW-,10249991,Reusch,5370964,Reu_E_TWH,5370964,202304,2023-02-02,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5370964-3333
+reusch,10249994_5370025_3333,Reusch Attrakt Duo 2023 TW-Handschuhe R,10249994,Reusch,5370025,Reu_E_TWH,5370025,202301,2023-01-30,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5370025-3333
+reusch,10250002_5370945_3333,Reusch Attrakt Gold X 2023 TW-Handschuh,10250002,Reusch,5370945,Reu_E_TWH,5370945,202301,2023-04-18,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5370945-3333
+adidas,10250180_HN3337_000,adidas Predator GL MTC FS  TW-Handschuh,10250180,adidas,HN3337,Adi_E_TWH,VZ638,202304,2023-04-25,104090,399,orange,schwarz,,sorang/black/black,true,HN3337
+adidas,10250181_HN3339_000,adidas Predator GL LGE Torwarthandschuh,10250181,adidas,HN3339,Adi_E_TWH,CB110,202304,2023-05-22,104090,399,orange,schwarz,,sorang/black/black,true,HN3339
+adidas,10250182_HN3344_000,adidas Predator Pro HYB TW-Handschuhe H,10250182,adidas,HN3344,Adi_E_TWH,V6278,202304,2023-04-18,104090,399,orange,schwarz,,sorang/black/black,true,HN3344
+adidas,10250183_HN3349_000,adidas Predator Pro Torwarthandschuhe H,10250183,adidas,HN3349,Adi_E_TWH,M3569,202304,2023-04-18,104090,399,orange,schwarz,,sorang/black/black,true,HN3349
+adidas,10250184_HN3350_000,adidas Predator Pro FSP TW-Handschuhe H,10250184,adidas,HN3350,Adi_E_TWH,DVM98,202304,2023-04-18,104090,399,orange,schwarz,,sorang/black/black,true,HN3350
+adidas,10250185_HN5571_000,adidas X Pro TW-Handschuhe Heatspawn Ge,10250185,adidas,HN5571,Adi_E_TWH,L6531,202304,2023-04-18,104090,399,gold,schwarz,orange,sogold/black/sorang,true,HN5571
+adidas,10250186_HN5572_000,adidas Predator Pro PC TW-Handschuhe He,10250186,adidas,HN5572,Adi_E_TWH,QH504,202304,2023-04-18,104090,399,orange,schwarz,,sorang/black/black,true,HN5572
+adidas,10250187_HN5577_000,adidas Predator GL MTC TW-Handschuhe He,10250187,adidas,HN5577,Adi_E_TWH,WU348,202304,2023-04-25,104090,399,orange,schwarz,,sorang/black/black,true,HN5577
+adidas,10250188_HN5578_000,adidas Predator GL TRN TW-Handschuhe He,10250188,adidas,HN5578,Adi_E_TWH,P4464,202304,2023-04-25,104090,399,orange,schwarz,,sorang/black/black,true,HN5578
+adidas,10250189_HN5585_000,adidas Predator GL TRN TW-Handschuhe He,10250189,adidas,HN5585,Adi_E_TWH,E0496,202304,2023-04-25,104090,399,orange,schwarz,,sorang/black/black,true,HN5585
+reusch,10251255_5370135_3333,Reusch Attrakt Freegel Gold Evolution C,10251255,Reusch,5370135,Reu_E_TWH,5370135,202301,2023-01-09,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5370135-3333
+reusch,10251268_5370235_3333,Reusch Attrakt Freegel Torwarthandschuh,10251268,Reusch,5370235,Reu_E_TWH,5370235,202301,2023-04-18,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5370235-3333
+adidas,10251696_IJ1870_000,adidas Predator Pro Torwarthandschuhe P,10251696,adidas,IJ1870,Adi_E_TWH,M3569,202302,2023-02-24,104090,399,weiss,,,white/white/white,true,IJ1870
+adidas,10251697_IJ2994_000,adidas Predator GL COM Torwarthandschuh,10251697,adidas,IJ2994,Adi_E_TWH,VU095,202302,2023-04-24,104090,399,weiss,,,white/greone/white,true,IJ2994
+reusch,10251745_5372230_3333,Reusch Attrakt Freegel Silver Finger Su,10251745,Reusch,5372230,Reu_K_TWH,5372230,202301,2023-04-18,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5372230-3333
+reusch,10251747_5372820_3333,Reusch Attrakt Grip Evolution Finger Su,10251747,Reusch,5372820,Reu_K_TWH,5372820,202301,2023-04-18,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5372820-3333
+reusch,10251748_5372955_3333,Reusch Attrakt Gold X Kids 2023 TW-Hand,10251748,Reusch,5372955,Reu_K_TWH,5372955,202301,2023-01-09,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5372955-3333
+reusch,10251771_5372235_3333,Reusch Attrakt Freegel Silver TW-Handsc,10251771,Reusch,5372235,Reu_K_TWH,5372235,202301,2023-04-18,104090,401,rot,blau,schwarz,bright red / future blue / black,true,
+reusch,10251772_5370745_7700,Reusch Attrakt Infinity Resistor Adapti,10251772,Reusch,5370745,Reu_E_TWH,5370745,202301,2023-01-27,104090,401,schwarz,,,black,true,5370745-7770
+reusch,10251773_5370735_7700,Reusch Attrakt Freegel Infinity 2023 TW,10251773,Reusch,5370735,Reu_E_TWH,5370735,202301,2023-04-18,104090,401,schwarz,,,black,true,5370735-7700
+reusch,10251774_5372720_7700,Reusch Attrakt Infinity Finger SupportS,10251774,Reusch,5372720,Reu_K_TWH,5372720,202301,2023-04-18,104090,401,schwarz,,,black,true,5372720-7700
+reusch,10251775_5372610_7700,Reusch Attrakt Resist Finger SupportF77,10251775,Reusch,5372610,Reu_K_TWH,5372610,202301,2023-04-18,104090,401,schwarz,,,black,true,5372610-7700
+reusch,10251776_5372725_7700,Reusch Attrakt Infinity TW-Handschuhe K,10251776,Reusch,5372725,Reu_K_TWH,5372725,202301,2023-01-30,104090,401,schwarz,,,black,true,5372725-7700
+reusch,10251777_5370900_5444,Reusch Pure Contact Fusion TW-Handschuh,10251777,Reusch,5370900,Reu_E_TWH,5370900,202302,2023-02-24,104090,401,gruen,orange,schwarz,shark green / shocking orange / black,true,5370900
+reusch,10251778_5370901_1089,Reusch Pure Contact Gold X TW-Handschuh,10251778,Reusch,5370901,Reu_E_TWH,5370901,202302,2023-02-24,104090,401,weiss,blau,,white / deep blue,true,5370901-1089
+reusch,10251779_5370700_7700,Reusch Pure Contact Infinity TW-Handsch,10251779,Reusch,5370700,Reu_E_TWH,5370700,202302,2023-02-24,104090,401,schwarz,,,black,true,5370700-7700
+reusch,10251780_5370100_5444,Reusch Pure Contact Gold TW-Handschuhe,10251780,Reusch,5370100,Reu_E_TWH,5370100,202302,2023-04-18,104090,401,gruen,orange,schwarz,shark green / shocking orange / black,true,5370100-5444
+reusch,10251785_5372900_5444,Reusch Pure Contact Fusion TW-Handschuh,10251785,Reusch,5372900,Reu_K_TWH,5372900,202302,2023-02-24,104090,401,gruen,orange,schwarz,shark green / shocking orange / black,true,5372900-5444
+reusch,10251786_5372200_1089,Reusch Pure Contact Silver TW-Handschuh,10251786,Reusch,5372200,Reu_K_TWH,5372200,202302,2023-02-24,104090,401,weiss,blau,,white / deep blue,true,5372200-1089
+reusch,10251787_5370459_4433,Reusch Attrakt Freegel Aqua Windproof F,10251787,Reusch,5370459,Reu_E_TWH,5370459,202303,2023-03-10,104090,401,blau,gold,blau,true blue / gold / aqua blue,true,5370459-4433
+reusch,10251789_5370400_4433,Reusch Pure Contact Aqua TW-Handschuhe,10251789,Reusch,5370400,Reu_E_TWH,5370400,202303,2023-03-10,104090,401,blau,gold,blau,true blue / gold / aqua blue,true,5370400-4433
+reusch,10251790_5370439_4433,Reusch Attrakt Aqua Blau TW-Handschuhe,10251790,Reusch,5370439,Reu_E_TWH,5370439,202303,2023-03-10,104090,401,blau,gold,blau,true blue / gold / aqua blue,true,5370439-4433
+reusch,10251791_5370975_1011,Reusch Attrakt Gold X Glueprint TW-Hand,10251791,Reusch,5370975,Reu_E_TWH,5370975,202304,2023-04-18,104090,401,weiss,gold,rot,white / gold / fiery red,true,5370975-1011
+reusch,10251792_5370075_1011,Reusch Contact Gold X Glueprint TW-Hand,10251792,Reusch,5370075,Reu_E_TWH,5370075,202304,2023-04-18,104090,401,weiss,gold,rot,white / gold / fiery red,true,5370075-1011
+reusch,10251793_5370904_7700,Reusch Legacy Arrow Gold X TW-Handschuh,10251793,Reusch,5370904,Reu_E_TWH,5370904,202304,2023-06-02,104090,401,schwarz,,,black,true,5370904-7700
+reusch,10251795_5370908_1100,Reusch Arrow Gold X TW-Handschuhe Weiss,10251795,Reusch,5370908,Reu_E_TWH,5370908,202304,2023-06-02,104090,401,weiss,,,white,true,5370908-1100
+reusch,10251796_5370956_5010,Reusch Venomous Gold X TW-Handschuhe Sc,10251796,Reusch,5370956,Reu_E_TWH,5370956,202304,2023-10-11,104090,401,schwarz,gruen,,black / venom green,true,5370956-5010
+reusch,10251797_5370204_1100,Reusch Legacy Arrow Silver TW-Handschuh,10251797,Reusch,5370204,Reu_E_TWH,5370204,222202,2023-06-09,104090,401,weiss,,,white,true,5370204-1100
+reusch,10251798_5370204_7700,Reusch Legacy Arrow Silver,10251798,Reusch,5370204,Reu_E_TWH,5370204,202304,2023-06-09,104090,401,schwarz,,,black,true,5370204-7700
+reusch,10251799_5370979_4024,Reusch Attrakt Fusion Strapless Adaptiv,10251799,Reusch,5370979,Reu_E_TWH,5370979,202305,2023-04-24,104090,401,blau,orange,schwarz,true blue / shocking orange / black,true,5370979-4024
+reusch,10251800_5370029_7783,Reusch Pure Contact Gold X Gore Tex Inf,10251800,Reusch,5370029,Reu_E_TWH,5370029,202304,2023-09-08,104090,401,schwarz,orange,,black / shocking orange,true,5370029-7783
+NIKE,10251918_CN5651_102,Nike Grip3 Torwarthandschuh Blast Weiss,10251918,Nike,CN5651,Nike_E_TWH,CN5651,202301,2023-03-09,104090,409,weiss,weiss,blau,white/white/baltic blue,true,CN5651-102
+NIKE,10252175_DC1981_101,Nike Mercurial Touch Torwarthandschuhe,10252175,Nike,DC1981,Nike_E_TWH,DC1981,202301,2023-03-15,104090,409,weiss,rot,rot,white/hot punch/hot punch,true,DC1981-101
+NIKE,10252458_CN5650_102,Nike Vapor Grip3 Torwarthandschuhe Blas,10252458,Nike,CN5650,Nike_E_TWH,CN5650,202301,2023-03-08,104090,409,weiss,weiss,blau,white/white/baltic blue,true,CN5650-102
+NIKE,10252470_DC1980_101,Nike Mercurial Touch Elite Torwarthands,10252470,Nike,DC1980,Nike_E_TWH,DC1980,202301,2023-01-24,104090,409,weiss,rot,rot,white/hot punch/hot punch,true,DC1980-101
+HO Soccer,10253097_HO052.0181_000,HO Soccer Konstriktor Pro NC TW-Handsch,10253097,HO Soccer,HO052.0181,HO_E_TWH,HO052.0181,202301,2023-02-01,104090,2865,weiss,gelb,,weiß gelb,true,HO052.0181
+HO Soccer,10253099_HO052.0184_000,HO Soccer First Evolution II ROLL/NC TW,10253099,HO Soccer,HO052.0184,HO_E_TWH,HO052.0184,202301,2023-02-06,104090,2865,schwarz,gelb,,schwarz gelb,true,HO052.0184
+HO Soccer,10253100_HO052.0185_000,HO Soccer First Evolution II NC TW-Hand,10253100,HO Soccer,HO052.0185,HO_E_TWH,HO052.0185,202301,2023-02-01,104090,2865,schwarz,orange,,schwarz orange,true,HO052.0185
+HO Soccer,10253101_HO052.0187_000,HO Soccer First Superlight NC TW-Handsc,10253101,HO Soccer,HO052.0187,HO_E_TWH,HO052.0187,202301,2023-02-01,104090,2865,weiss,rot,,weiß rot,true,HO052.0187
+HO Soccer,10253102_HO052.0189_000,HO Soccer One Roll/NC TW-Handschuhe Wei,10253102,HO Soccer,HO052.0189,HO_E_TWH,HO052.0189,202301,2023-02-01,104090,2865,weiss,orange,,weiß orange,true,HO052.0189
+HO Soccer,10253103_HO052.0192_000,HO Soccer Aerial NC Torwarthandschuhe S,10253103,HO Soccer,HO052.0192,HO_E_TWH,HO052.0192,202301,2023-02-01,104090,2865,schwarz,,,schwarz,true,HO052.0192
+HO Soccer,10253104_HO052.0194_000,HO Soccer Touch NC Torwarthandschuhe We,10253104,HO Soccer,HO052.0194,HO_E_TWH,HO052.0194,202301,2023-02-01,104090,2865,weiss,blau,,weiss blau,true,HO052.0194
+uhlsport,10254570_1011238_001,Uhlsport Retro Cerberus Absolutgrip TW-,10254570,uhlsport,1011238,Uhl_E_TWH,1011238,,2023-03-01,104090,400,weiss,schwarz,rot,weiß/schwarz/rot,true,1011238-01
+reusch,10255217_5370990_3333,Reusch Attrakt Freegel Fusion Ortho-Tec,10255217,Reusch,5370990,Reu_E_TWH,5370990,202304,2023-04-24,104090,401,rot,blau,,bright red / future blue / black,true,5370990-3333
+uhlsport,10255304_1011320_001,Uhlsport Classic Absolutgrip Tight HN T,10255304,uhlsport,1011320,Uhl_E_TWH,1011320,202303,2023-03-21,104090,400,weiss,blau,,weiß/marine,true,1011320-01
+uhlsport,10255307_1011321_001,Uhlsport Classic Absolutgrip Torwarthan,10255307,uhlsport,1011321,Uhl_E_TWH,1011321,202303,2023-03-21,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011321-01
+uhlsport,10255309_1011322_001,Uhlsport Classic Absolutgrip HN Pro Tor,10255309,uhlsport,1011322,Uhl_E_TWH,1011322,202303,2023-03-21,104090,400,gelb,blau,weiss,fluo gelb/marine/weiß,true,1011322-01
+uhlsport,10255312_1011323_001,Uhlsport Classic Soft HN Comp Torwartha,10255312,uhlsport,1011323,Uhl_E_TWH,1011323,202303,2023-03-21,104090,400,schwarz,blau,weiss,schwarz/cyan/weiß,true,1011323-01
+reusch,10256602_5360255_1089,Reusch Attrakt Torwarthandschuh Silver,10256602,Reusch,5360255,Reu_E_TWH,5360255,202303,2023-03-02,104090,401,weiss,blau,,white/blue,true,5360255-1089
+reusch,10256603_5360991_3335,Reusch Pure Contact TW-Handschuh Orange,10256603,Reusch,5360991,Reu_E_TWH,5360991,202303,2023-03-02,104090,401,orange,schwarz,,orange/black,true,5360991-3335
+NIKE,10256795_CN6724_701,Nike Phantom Elite Torwarthandschuhe Lu,10256795,Nike,CN6724,Nike_E_TWH,CN6724,202305,2023-05-02,104090,409,gelb,grau,,barely volt/gridiron/gridiron,true,CN6724-701
+NIKE,10256934_CN5651_015,Nike Grip3 Torwarthandschuhe Luminous G,10256934,Nike,CN5651,Nike_E_TWH,CN5651,202305,2023-05-02,104090,409,grau,gelb,weiss,gridiron/barely volt/white,true,CN5651-015
+NIKE,10257091_CN5650_015,Nike Vapor Grip3 Torwarthandschuhe Lumi,10257091,Nike,CN5650,Nike_E_TWH,CN5650,202305,2023-07-10,104090,409,grau,gelb,weiss,gridiron/barely volt/white,true,CN5650-015
+NIKE,10257518_DC1981_606,Nike Mercurial Touch Torwarthandschuhe,10257518,Nike,DC1981,Nike_E_TWH,DC1981,202305,2023-05-02,104090,409,pink,pink,weiss,pink spell/pink blast/white,true,DC1981-606
+NIKE,10257697_CN6758_701,Nike Phantom Shadow Torwarthandschuhe L,10257697,Nike,CN6758,Nike_E_TWH,CN6758,202305,2023-05-02,104090,409,gelb,grau,,barely volt/gridiron/gridiron,true,CN6758-701
+NIKE,10257719_DC1980_606,Nike Mercurial Touch Elite TW-Handschuh,10257719,Nike,DC1980,Nike_E_TWH,DC1980,202305,2023-05-02,104090,409,pink,pink,weiss,pink spell/pink blast/white,true,DC1980-606
+uhlsport,10258989_1011285_001,Uhlsport Speed Contact Black Supergrip+,10258989,uhlsport,1011285,Uhl_E_TWH,1011285,202303,2023-03-08,104090,400,schwarz,weiss,,schwarz/weiß,true,1011285-01AA
+uhlsport,10258990_1011286_001,Uhlsport Speed Contact Black Absolutgri,10258990,uhlsport,1011286,Uhl_E_TWH,1011286,202303,2023-03-08,104090,400,schwarz,weiss,,schwarz/weiß,true,1011286-01AA
+NIKE,10259304_FB3001_010,Nike Promo Vapor Grip3 RS Torwarthandsc,10259304,Nike,FB3001,Nike_E_TWH,FB3001,202310,2023-10-30,104090,409,schwarz,rot,blau,black/rush fuchsia/hyper turq/white,true,FB3001-010
+NIKE,10259307_FJ5567_010,Nike Promo Vapor Dynamic Fit Torwarthan,10259307,Nike,FJ5567,Nike_E_TWH,FJ5567,202310,2023-10-23,104090,409,schwarz,weiss,,black/black/white,true,FJ5567-010
+NIKE,10259309_FJ5568_010,Nike Promo VG3 Torwarthandschuhe Schwar,10259309,Nike,FJ5568,Nike_E_TWH,FJ5568,202310,2023-10-23,104090,409,schwarz,weiss,,black/black/white,true,FJ5568-010
+NIKE,10259310_FQ9007_010,Nike Promo VG3 RS Torwarthandschuhe Sch,10259310,Nike,FQ9007,Nike_E_TWH,FQ9007,202310,2023-10-30,104090,409,schwarz,weiss,,black/black/white,true,FQ9007-010
+Puma,10260996_041853_001,PUMA ULTRA Grip 1 Tricks Hybrid TW-Hand,10260996,PUMA,041853,Puma_E_TWH,041853,202304,2023-04-18,104090,681,pink,blau,,sunset pink-hero blue,true,041853-01
+Puma,10260997_041854_001,PUMA ULTRA Grip 1 BRILLIANCE Hybrid TW-,10260997,PUMA,041854,Puma_E_TWH,041854,202303,2023-03-24,104090,681,weiss,lila,,puma white-spring lavender,true,041854-01
+adidas,10261826_IA0840_000,adidas Predator Pro Torwarthandschuhe W,10261826,adidas,IA0840,Adi_E_TWH,SV373,202307,2023-07-11,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0840
+adidas,10261830_IA0844_000,adidas Predator Pro PC TW-Handschuhe Ma,10261830,adidas,IA0844,Adi_E_TWH,QH504,202310,2023-10-10,104090,399,blau,weiss,,broyal/bliblu/white,true,IA0844
+adidas,10261832_IA0846_000,adidas Predator Pro Torwarthandschuhe K,10261832,adidas,IA0846,Adi_E_TWH,TK985,202307,2023-07-11,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0846
+adidas,10261833_IA0847_000,adidas Predator Pro PC Torwarthandschuh,10261833,adidas,IA0847,Adi_E_TWH,QH504,202307,2023-07-11,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0847
+adidas,10261835_IA0853_000,adidas Predator Pro FS Torwarthandschuh,10261835,adidas,IA0853,Adi_E_TWH,TB336,202307,2023-07-11,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0853
+adidas,10261836_IA0856_000,adidas Predator Pro Hybrid Torwarthands,10261836,adidas,IA0856,Adi_E_TWH,V6278,202307,2023-07-11,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0856
+adidas,10261837_IA0857_000,adidas Predator Training TW-Handschuhe,10261837,adidas,IA0857,Adi_E_TWH,P4464,202310,2024-02-28,104090,399,weiss,,,noprin,true,IA0857
+adidas,10261838_IA0858_000,adidas Predator Pro Hybrid TW-Handschuh,10261838,adidas,IA0858,Adi_E_TWH,V6278,202310,2023-10-10,104090,399,blau,weiss,,broyal/bliblu/white,true,IA0858
+adidas,10261840_IA0860_000,adidas Predator Match FS TW-Handschuhe,10261840,adidas,IA0860,Adi_E_TWH,WU348,202310,2023-10-13,104090,399,blau,weiss,,broyal/bliblu/white,true,IA0860
+adidas,10261841_IA0861_000,adidas Predator Match FS Torwarthandsch,10261841,adidas,IA0861,Adi_E_TWH,WU348,202307,2023-07-11,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0861
+adidas,10261842_IA0862_000,adidas Predator Pro Torwarthandschuhe B,10261842,adidas,IA0862,Adi_E_TWH,M3569,202307,2023-07-11,104090,399,blau,gelb,weiss,broyal/luclem/white,true,IA0862
+adidas,10261843_IA0864_000,adidas Predator Pro TW-Handschuhe Marin,10261843,adidas,IA0864,Adi_E_TWH,M3569,202310,2023-10-10,104090,399,blau,weiss,,broyal/bliblu/white,true,IA0864
+adidas,10261844_IA0866_000,adidas Predator Pro FSP Torwarthandschu,10261844,adidas,IA0866,Adi_E_TWH,DVM98,202307,2023-07-11,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0866
+adidas,10261845_IA0867_000,adidas Predator Pro FSP TW-Handschuhe M,10261845,adidas,IA0867,Adi_E_TWH,DVM98,222211,2023-10-10,104090,399,blau,weiss,,broyal/bliblu/white,true,IA0867
+adidas,10261848_IA0875_000,adidas Predator Match Torwarthandschuhe,10261848,adidas,IA0875,Adi_E_TWH,BZ410,202307,2023-07-13,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0875
+adidas,10261849_IA0876_000,adidas Predator Training TW-Handschuhe,10261849,adidas,IA0876,Adi_E_TWH,E0496,202310,2023-09-20,104090,,blau,weiss,,broyal/bliblu/white,false,IA0876
+adidas,10261850_IA0877_000,adidas Predator Match FS Torwarthandsch,10261850,adidas,IA0877,Adi_E_TWH,VZ638,202307,2023-07-13,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0877
+adidas,10261851_IA0878_000,adidas Predator Match FS TW-Handschuhe,10261851,adidas,IA0878,Adi_E_TWH,VZ638,202310,2023-11-06,104090,399,blau,weiss,,broyal/bliblu/white,true,IA0878
+adidas,10261852_IA0879_000,adidas Predator League Torwarthandschuh,10261852,adidas,IA0879,Adi_E_TWH,CB110,202307,2023-07-11,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0879
+adidas,10261853_IA0880_000,adidas Predator League Torwarthandschuh,10261853,adidas,IA0880,Adi_E_TWH,CB110,202310,2023-10-10,104090,399,blau,blau,weiss,broyal/bliblu/white,true,IA0880
+adidas,10261854_IA0881_000,adidas Predator Competition Torwarthand,10261854,adidas,IA0881,Adi_E_TWH,VU095,202307,2023-07-31,104090,399,weiss,gelb,schwarz,white/luclem/black,true,IA0881
+adidas,10263653_IP9174_000,adidas Predator Pro Hybrid Nightstrike,10263653,adidas,IP9174,Adi_E_TWH,IP9174,202308,2023-08-03,104090,399,schwarz,,,schwarz,true,IP9174
+uhlsport,10264413_1011261_001,Uhlsport Speed Contact Supergrip+ HN Ea,10264413,uhlsport,1011261,Uhl_E_TWH,1011261,202304,2023-04-22,104090,400,gruen,blau,weiss,dark olive/marine/weiß,true,1011261-01AA
+uhlsport,10264414_1011262_001,uhlsport Torwarthandschuhe Grün F001,10264414,uhlsport,1011262,Uhl_E_TWH,1011262,202304,2023-04-22,104090,400,gruen,blau,weiss,dark olive/marine/weiß,true,1011262-01AA
+reusch,10264541_5370935_5556,Reusch Attrakt Freegel Gold X TW-Handsc,10264541,Reusch,5370935,Reu_E_TWH,5370935,202304,2023-04-24,104090,401,gruen,orange,,desert green / shocking orange,true,5370935-5556
+reusch,10264972_5372235_3333,Reusch Attrakt Freegel Silver TW-Handsc,10264972,Reusch,5372235,Reu_K_TWH,5372235,202301,2023-04-26,104090,401,rot,blau,schwarz,bright red / future blue / black,true,5372235-3333
+NIKE,10265009_DM4010_015,Nike VG3 RS Promo Torwarthandschuhe Lum,10265009,Nike,DM4010,Nike_E_TWH,DM4010,202304,2023-05-15,104090,409,grau,gruen,weiss,gridiron/barely volt/white,true,DM4010-015
+Puma,10265041_041841_04,PUMA FUTURE Ultimate NC TW-Handschuhe B,10265041,PUMA,041841,Puma_E_TWH,041841,202306,2023-06-29,104090,681,weiss,rot,,puma white-fire orchid,true,041841-04
+Puma,10265042_041841_05,PUMA FUTURE Ultimate NC TW-Handschuhe G,10265042,PUMA,041841,Puma_E_TWH,041841,202309,2024-05-17,104090,681,blau,gruen,,persian blue-pro green,true,041841-05
+Puma,10265043_041841_06,PUMA FUTURE Ultimate NC TW-Handschuhe E,10265043,PUMA,041841,Puma_E_TWH,041841,202307,2023-07-13,104090,681,schwarz,grau,,puma black-asphalt,true,041841-06
+Puma,10265044_041843_04,PUMA FUTURE Pro SGC Torwarthandschuhe W,10265044,PUMA,041843,Puma_E_TWH,041843,202307,2023-07-06,104090,681,weiss,,,puma white-fire orchid,true,041843-04
+Puma,10265045_041844_04,PUMA FUTURE Match NC TW-Handschuhe Brea,10265045,PUMA,041844,Puma_E_TWH,041844,202307,2023-07-06,104090,681,weiss,rot,,puma white-fire orchid,true,041844-04
+Puma,10265046_041844_05,PUMA FUTURE Match NC TW-Handschuhe Gear,10265046,PUMA,041844,Puma_E_TWH,041844,202309,2023-09-28,104090,681,blau,gruen,,persian blue-pro green,true,041844-05
+Puma,10265047_041858_01,PUMA ULTRA Ultimate Hybrid Torwarthands,10265047,PUMA,041858,Puma_E_TWH,041858,202306,2023-07-31,104090,681,weiss,blau,rot,puma white-ultra blue-fire orchid,true,041858-01
+Puma,10265048_041858_02,PUMA ULTRA Ultimate Hybrid Torwarthands,10265048,PUMA,041858,Puma_E_TWH,041858,202309,2023-09-28,104090,681,blau,weiss,,ultra blue-puma white,true,041858-02
+Puma,10265049_041858_03,PUMA ULTRA Ultimate Hybrid Torwarthands,10265049,PUMA,041858,Puma_E_TWH,041858,202307,2023-07-13,104090,681,schwarz,grau,,puma black-asphalt,true,041858-03
+Puma,10265050_041858_04,PUMA ULTRA Ultimate Hybrid TW-Handschuh,10265050,PUMA,041858,Puma_E_TWH,041858,202311,2023-11-16,104090,681,gelb,schwarz,,yellow blaze-puma black,true,041858-04
+Puma,10265051_041859_01,PUMA ULTRA Pro RC Torwarthandschuhe Bre,10265051,PUMA,041859,Puma_E_TWH,041859,202307,2023-08-03,104090,681,weiss,blau,rot,puma white-ultra blue-fire orchid,true,041859-01
+Puma,10265052_041859_02,PUMA ULTRA Pro RC Torwarthandschuhe Gea,10265052,PUMA,041859,Puma_E_TWH,041859,202309,2023-09-28,104090,681,blau,weiss,,ultra blue-puma white,true,041859-02
+Puma,10265058_041864_01,PUMA ULTRA Match Protect RC Torwarthand,10265058,PUMA,041864,Puma_E_TWH,041864,202307,2023-08-08,104090,681,weiss,blau,rot,puma white-ultra blue-fire orchid,true,041864-01
+Puma,10265059_041865_01,PUMA ULTRA Match Protect RC Torwarthand,10265059,PUMA,041865,Puma_E_TWH,041865,202307,2023-08-02,104090,681,weiss,blau,rot,puma white-ultra blue-fire orchid,true,041865-01
+Puma,10265060_041874_01,PUMA FUTURE Ultimate Energy TW-Handschu,10265060,PUMA,041874,Puma_E_TWH,041874,202308,2023-08-03,104090,681,blau,gelb,pink,ultra blue-yellow alert-luminous pink,true,041874-01
+Puma,10265061_041875_01,PUMA ULTRA Ultimate Energy Hybrid TW-Ha,10265061,PUMA,041875,Puma_E_TWH,041875,202308,2023-08-03,104090,681,blau,gelb,pink,ultra blue-yellow alert-luminous pink,true,041875-01
+Puma,10265062_041910_01,PUMA FUTURE Pro Hybrid TW-Handschuhe,10265062,PUMA,041910,Puma_E_TWH,041910,202308,2023-08-24,104090,681,lila,pink,,purple charcoal-ravish,true,041910-01
+Puma,10265063_041913_01,PUMA FUTURE NC TW-Handschuhe Goalkeeper,10265063,PUMA,041913,Puma_E_TWH,041913,202308,2023-08-24,104090,681,lila,pink,,purple charcoal-ravish,true,041913-01
+uhlsport,10266183_1011301_001,Uhlsport Powerline Supergrip+ TW-Handsc,10266183,uhlsport,1011301,Uhl_E_TWH,1011301,202306,2023-06-05,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011301-01
+uhlsport,10266184_1011302_001,Uhlsport Powerline Supergrip+ Reflex TW,10266184,uhlsport,1011302,Uhl_E_TWH,1011302,202306,2023-06-05,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011302-01
+uhlsport,10266188_1011303_001,Uhlsport Powerline Supergrip+ Finger Su,10266188,uhlsport,1011303,Uhl_E_TWH,1011303,202306,2023-06-05,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011303-01
+uhlsport,10266190_1011304_001,Uhlsport Powerline Supergrip+ HN TW-Han,10266190,uhlsport,1011304,Uhl_E_TWH,1011304,202306,2023-06-01,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011304-01
+uhlsport,10266192_1011305_001,Uhlsport Powerline Absolutgrip Reflex T,10266192,uhlsport,1011305,Uhl_E_TWH,1011305,202306,2023-06-02,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011305-01
+uhlsport,10266195_1011325_001,Uhlsport Powerline Supergrip+ Flex HN T,10266195,uhlsport,1011325,Uhl_E_TWH,1011325,202306,2023-06-02,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011325-01
+uhlsport,10266197_10112811000_001,Uhlsport Speed Contact Absolutgrip HN #,10266197,uhlsport,1011281,Uhl_E_TWH,10112811000,202306,2023-06-02,104090,400,weiss,,,weiß,true,1011281-01AA
+uhlsport,10266201_1011306_001,Uhlsport Powerline Absolutgrip Finger S,10266201,uhlsport,1011306,Uhl_E_TWH,1011306,202306,2023-06-02,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011306-01
+uhlsport,10266204_1011307_001,Uhlsport Powerline Absolutgrip HN TW-Ha,10266204,uhlsport,1011307,Uhl_E_TWH,1011307,202306,2023-06-02,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011307-01
+uhlsport,10266206_1011308_001,Uhlsport Powerline Supersoft HN TW-Hand,10266206,uhlsport,1011308,Uhl_E_TWH,1011308,202306,2023-06-05,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011308-01
+uhlsport,10266208_1011309_001,Uhlsport Powerline Supersoft TW-Handsch,10266208,uhlsport,1011309,Uhl_E_TWH,1011309,202306,2023-06-05,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011309-01
+uhlsport,10266210_1011310_001,Uhlsport Powerline Soft Flex Frame TW-H,10266210,uhlsport,1011310,Uhl_E_TWH,1011310,202306,2023-06-05,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011310-01
+uhlsport,10266211_1011311_001,Uhlsport Powerline Soft Pro TW-Handschu,10266211,uhlsport,1011311,Uhl_E_TWH,1011311,202306,2023-06-05,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011311-01
+uhlsport,10266212_1011316_001,Uhlsport Super Resist+ HN TW-Handschuhe,10266212,uhlsport,1011316,Uhl_E_TWH,1011316,202306,2023-06-27,104090,400,orange,schwarz,weiss,fluo orange/schwarz/weiß,true,1011316-01
+uhlsport,10266213_1011317_001,Uhlsport Soft Resist+ Flex Frame TW-Han,10266213,uhlsport,1011317,Uhl_E_TWH,1011317,202306,2023-06-27,104090,400,orange,schwarz,weiss,fluo orange/schwarz/weiß,true,1011317-01
+uhlsport,10266214_1011318_001,Uhlsport Soft Resist+ TW-Handschuhe Ora,10266214,uhlsport,1011318,Uhl_E_TWH,1011318,202306,2023-06-27,104090,400,orange,schwarz,weiss,fluo orange/schwarz/weiß,true,1011318-01
+reusch,10266601_5360200_1101,Reusch Pure Contact Silver TW-Handschuh,10266601,Reusch,5360200,Reu_E_TWH,5360200,202306,2023-07-03,104090,401,weiss,schwarz,,white / black,true,5360200-1101
+reusch,10266602_5360254_7701,Reusch Attrakt Infinity Alpha TW-Handsc,10266602,Reusch,5360254,Reu_E_TWH,5360254,202306,2023-07-03,104090,401,schwarz,weiss,,black / white,true,5360254-7701
+uhlsport,10267324_1011313_001,Uhlsport Aquagrip HN TW-Handschuhe Blau,10267324,uhlsport,1011313,Uhl_E_TWH,1011313,202309,2023-09-08,104090,400,blau,gruen,weiss,pacific blau/fluo grün/we,true,1011313-01
+uhlsport,10267325_1011314_001,Uhlsport Aquasoft HN,10267325,uhlsport,1011314,Uhl_E_TWH,1011314,202309,2023-09-08,104090,400,blau,gruen,weiss,pacific blau/fluo grün/we,true,1011314-01
+uhlsport,10267326_1011315_001,Uhlsport Aquasoft TW-Handschuhe Blau F0,10267326,uhlsport,1011315,Uhl_E_TWH,1011315,202309,2023-09-08,104090,400,blau,gruen,weiss,pacific blau/fluo grün/we,true,1011315-01
+NIKE,10268317_FB2092_010,Nike VG3 RS 22 Promo Towarthandschuhe 2,10268317,Nike,FB2092,Nike_E_TWH,FB2092,222212,2023-07-28,104090,409,schwarz,weiss,pink,black/white/hot punch,true,FB2092-010
+NIKE,10268320_FB2097_010,Nike Mercurial Tech Elite 22 PromoTorwa,10268320,Nike,FB2097,Nike_E_TWH,FB2097,222212,2023-07-28,104090,409,schwarz,weiss,pink,black/white/hot punch,true,FB2097-010
+NIKE,10268321_FB2105_010,Nike Promo 22 Gunn Cut Torwarthandschuh,10268321,Nike,FB2105,Nike_E_TWH,FB2105,202211,2023-07-26,104090,409,schwarz,weiss,pink,black/white/hot punch,true,FB2105-010
+NIKE,10268322_FQ0218_858,Nike Mercurial Touch Elite WC23 PromoTo,10268322,Nike,FQ0218,Nike_E_TWH,FQ0218,202309,2023-09-28,104090,409,orange,weiss,schwarz,atomic orange/white/black,true,FQ0218-858
+uhlsport,10268343_1011312_001,Uhlsport Powerline Starter Soft,10268343,uhlsport,1011312,Uhl_E_TWH,1011312,222204,2025-08-27,104090,400,schwarz,rot,weiss,schwarz/rot/weiß,true,1011312-01
+NIKE,10268765_CN6724_636,Nike Phantom Elite Torwarthandschuh Rea,10268765,Nike,CN6724,Nike_E_TWH,CN6724,202308,2023-08-14,104090,409,rot,schwarz,schwarz,bright crimson/black/black,true,CN6724-636
+NIKE,10268855_CN6758_636,Nike Phantom Shadow TW-Handschuhe Ready,10268855,Nike,CN6758,Nike_E_TWH,CN6758,202308,2023-06-21,104090,409,rot,schwarz,schwarz,bright crimson/black/black,true,CN6758-636
+NIKE,10268922_DC1980_102,Nike Mercurial Touch Elite Torwarthands,10268922,Nike,DC1980,Nike_E_TWH,DC1980,202308,2023-09-04,104090,409,weiss,schwarz,rot,white/black/bright crimson,true,DC1980-102
+NIKE,10269313_FJ5964_100,Nike Phantom Elite Torwarthandschuhe We,10269313,Nike,FJ5964,Nike_E_TWH,FJ5964,202307,2023-07-17,104090,409,weiss,orange,schwarz,white/atomic orange/black,true,FJ5964-100
+NIKE,10269391_CN5651_636,Nike Grip3 Torwarthandschuh Ready Rot S,10269391,Nike,CN5651,Nike_E_TWH,CN5651,202308,2023-08-03,104090,409,rot,schwarz,weiss,bright crimson/black/white,true,CN5651-636
+NIKE,10269484_DC1981_102,Nike Mercurial Touch TW-Handschuhe Read,10269484,Nike,DC1981,Nike_E_TWH,DC1981,202308,2023-08-03,104090,409,weiss,schwarz,rot,white/black/bright crimson,true,DC1981-102
+NIKE,10269494_CN5650_636,Nike Vapor Grip3 Torwarthandschuh Rot S,10269494,Nike,CN5650,Nike_E_TWH,CN5650,202308,2023-08-29,104090,409,rot,schwarz,weiss,bright crimson/black/white,true,CN5650-636
+NIKE,10269650_FJ5961_100,Nike Vapor Grip 3 Torwarthandschuhe Wei,10269650,Nike,FJ5961,Nike_E_TWH,FJ5961,202307,2023-07-19,104090,409,weiss,orange,schwarz,white/atomic orange/black,true,FJ5961-100
+HO Soccer,10271448_520254_000,HO Soccer First Superlight Negative Spe,10271448,HO Soccer,520254,HO_E_TWH,520254,202310,2023-10-13,104090,2865,orange,schwarz,,Orange Schwarz,true,520254
+HO Soccer,10271450_520255_000,HO Soccer First Superlight Negative Spe,10271450,HO Soccer,520255,HO_E_TWH,520255,202310,2023-10-13,104090,2865,gelb,schwarz,,Gelb Schwarz,true,520255
+HO Soccer,10271464_520260_000,HO Soccer Aerial Negative Galaxy Spark,10271464,HO Soccer,520260,HO_E_TWH,520260,202310,2023-10-13,104090,2865,weiss,gelb,,Weiss Gelb,true,520260
+HO Soccer,10271481_520262_000,HO Soccer Touch Negative Vision TW-Hand,10271481,HO Soccer,520262,HO_E_TWH,520262,202310,2023-10-13,104090,2865,schwarz,weiss,,Schwarz Weiss,true,520262
+HO Soccer,10271513_520252_000,HO Soccer First Evo II Torwarthandschuh,10271513,HO Soccer,520252,HO_E_TWH,520252,202310,2023-10-12,104090,2865,grau,,,grey,true,520252
+Elite Sport,10271632_EL4000000_000,Elite Sport Neo Revolution II TW-Handsc,10271632,Elite Sports,EL4000000,Elite_E_TW,EL4000000,202308,2023-10-04,104090,7345,weiss,,,white,true,EL4000000
+Elite Sport,10271635_EL4000060_000,Elite Sport Neo Revolution II TW-Handsc,10271635,Elite Sports,EL4000060,Elite_E_TW,EL4000180,202308,2023-10-04,104090,7345,schwarz,,,black,true,EL4000060
+Elite Sport,10271637_EL4000120_000,Elite Sport Neo Revolution II TW-Handsc,10271637,Elite Sports,EL4000120,Elite_E_TW,EL4000180,202308,2023-11-08,104090,7345,schwarz,blau,,black/aqua,true,EL4000120
+Elite Sport,10271638_EL4000180_000,Elite Sport Neo Revolution II TW-Handsc,10271638,Elite Sports,EL4000180,Elite_E_TW,EL4000180,202308,2023-10-04,104090,7345,schwarz,weiss,,BLACK/WHITE,true,EL4000180
+Elite Sport,10271639_EL4000240_000,Elite Sport Neo Revolution II TW-Handsc,10271639,Elite Sports,EL4000240,Elite_E_TW,EL4000180,202308,2023-10-04,104090,7345,blau,weiss,,blue/white,true,EL4000240
+Elite Sport,10271640_EL4000430_000,Elite Sport Neo Revolution II TW-Handsc,10271640,Elite Sports,EL4000430,Elite_E_TW,EL4000180,202308,2023-11-08,104090,7345,rot,weiss,,red/white,true,EL4000430
+Elite Sport,10271641_EL4000800_000,Elite Sport Supreme FN: Palm TW-Handsch,10271641,Elite Sports,EL4000800,Elite_E_TW,EL4000800,202308,2023-10-04,104090,7345,weiss,,,,true,EL4000800
+Elite Sport,10271643_EL4001070_000,Elite Sport Galaxy TW-Handschuhe Schwar,10271643,Elite Sports,EL4001070,Elite_E_TW,EL4001070,202308,2023-10-04,104090,7345,schwarz,weiss,,,true,EL4001070
+Elite Sport,10271645_EL4001130_000,Elite Sport Nova TW-Handschuhe Schwarz,10271645,Elite Sports,EL4001130,Elite_E_TW,EL4001130,202308,2023-11-09,104090,7345,schwarz,weiss,,,true,EL4001130
+Elite Sport,10271648_EL4001190_000,Elite Sport Nobre TW-Handschuhe Schwarz,10271648,Elite Sports,EL4001190,Elite_E_TW,EL4001190,202308,2023-10-04,104090,7345,schwarz,gold,,BLACK,true,EL4001190
+Elite Sport,10271650_EL4001250_000,Elite Sport Nobre TW-Handschuhe Weiss,10271650,Elite Sports,EL4001250,Elite_E_TW,EL4001190,202308,2023-10-04,104090,7345,weiss,,,white,true,EL4001250
+Elite Sport,10271652_EL4001500_000,Elite Sport Aztlan TW-Handschuhe Schwar,10271652,Elite Sports,EL4001500,Elite_E_TW,EL4001500,2023,2023-10-04,104090,7345,schwarz,gold,,,true,EL4001500
+Elite Sport,10271653_EL4001570_000,Elite Sport Squid TW-Handschuhe Weiss G,10271653,Elite Sports,EL4001570,Elite_E_TW,EL4001570,202308,2023-10-04,104090,7345,weiss,gruen,,,true,EL4001570
+uhlsport,10271814_1011304012023_001,uhlsport Powerline Horizon Supergrip+ H,10271814,uhlsport,1011304012023,Uhl_E_TWH,1011304012023,202308,2023-08-10,104090,400,weiss,blau,gelb,weiß/marine/fluo gelb,true,A101130401202
+uhlsport,10271815_10113070120230_001,uhlsport Powerline Horizon Absolutgrip+,10271815,uhlsport,1011307012023,Uhl_E_TWH,1011307012023,202308,2023-08-10,104090,400,weiss,blau,gelb,weiß/marine/fluo gelb,true,A101130701202
+uhlsport,10271834_1011304022023_001,uhlsport Pro Supergrip+ HN ltd. 75 Jahr,10271834,uhlsport,1011304022023,Uhl_E_TWH,1011304022023,202308,2023-07-27,104090,400,weiss,schwarz,,weiß/schwarz,true,A101130402202
+reusch,10271878_5360000_1089,Reusch Pure Contact Freegel Gold X TW-H,10271878,Reusch,5360000,Reu_E_TWH,5360000,202308,2023-08-21,104090,401,weiss,blau,gelb,white,true,5360000-1089
+reusch,10271879_5360001_1089,Reusch Pure Contact Freegel Duo TW-Hand,10271879,Reusch,5360001,Reu_E_TWH,5360001,202308,2023-08-21,104090,401,weiss,blau,gelb,white,true,5360001-1089
+reusch,10271880_5360002_1089,Reusch Pure Contact Silver TW-Handschuh,10271880,Reusch,5360002,Reu_E_TWH,5360002,202308,2023-08-21,104090,401,weiss,blau,gelb,white,true,5360002-1089
+Puma,10272312_041956_001,PUMA + KS ULTRA Pro IC TW-Handschuhe We,10272312,PUMA,041956,Puma_E_TWH,041956,202310,2023-10-23,104090,681,weiss,orange,,puma white-red orange,true,041956-01
+uhlsport,10272931_1011304012001_001,uhlsport Supergrip+ HN Maignan Official,10272931,uhlsport,1011304012001,Uhl_E_TWH,1011304012001,202309,2023-09-27,104090,400,weiss,rot,schwarz,weiß/rot/schwarz,true,A101130401200
+uhlsport,10272933_1011309012001_001,uhlsport Supersoft Maignan #344 TW-Hand,10272933,uhlsport,1011309012001,Uhl_E_TWH,1011309012001,202309,2023-09-27,104090,400,weiss,rot,schwarz,weiß/rot/schwarz,true,A101130901200
+Sells Goalkeeper,10273093_SGP202302_000,Sells Total Contact Aqua Pure TW-Handsc,10273093,Sells,SGP202302,Sell_E_TW,SGP202302,,2023-11-13,104090,1654,weiss,blau,,White/Aqua,false,SGP202302
+Sells Goalkeeper,10273094_SGP202303_000,Sells Wrap Aqua Pure TW-Handschuhe Weis,10273094,Sells,SGP202303,Sell_E_TW,SGP202303,,2023-11-10,104090,1654,weiss,blau,,White/Aqua,false,SGP202303
+Sells Goalkeeper,10273096_SGP202304_000,Sells F3 Aqua Pure TW-Handschuhe Weiss,10273096,Sells,SGP202304,Sell_E_TW,SGP202304,,2024-02-02,104090,1654,weiss,blau,,White/Aqua,false,SGP202304
+Sells Goalkeeper,10273099_SGP202306_000,Sells Profile Aqua Pure TW-Handschuhe W,10273099,Sells,SGP202306,Sell_E_TW,SGP202306,,2024-02-02,104090,1654,weiss,blau,,White/Aqua,false,SGP202306
+Sells Goalkeeper,10273102_SGP202308_000,Sells Claw Aqua Fit TW-Handschuhe Weiss,10273102,Sells,SGP202308,Sell_E_TW,SGP202308,,2024-02-02,104090,1654,weiss,blau,,White/Aqua,false,SGP202308
+Sells Goalkeeper,10273104_SGP202310_000,Sells Total Contact Aqua Prime TW-Hands,10273104,Sells,SGP202310,Sell_E_TW,SGP202310,,2024-02-02,104090,1654,weiss,blau,,White/Aqua,false,SGP202310
+Sells Goalkeeper,10273110_SGP202313_000,Sells Wrap Aqua Dusk TW-Handschuhe Schw,10273110,Sells,SGP202313,Sell_E_TW,SGP202313,202310,2023-10-09,104090,1654,schwarz,blau,,black/aqua,true,SGP202313
+NIKE,10274231_FB2999_010,Nike Vapor Grip3 Torwarthandschuhe Schw,10274231,Nike,FB2999,Nike_E_TWH,FB2999,,2024-07-25,104090,409,schwarz,gruen,weiss,black/hyper turq/rush fuchsia/white,true,FB2999-010
+NIKE,10274281_FB2998_010,Nike Grip3 Torwarthandschuhe Schwarz Gr,10274281,Nike,FB2998,Nike_E_TWH,FB2998,202310,2023-10-27,104090,409,schwarz,gruen,weiss,black/hyper turq/rush fuchsia/white,true,FB2998-010
+NIKE,10274288_FD5766_010,Nike Vapor Grip3 Dynamic Fit TW-Handsch,10274288,Nike,FD5766,Nike_E_TWH,FD5766,202310,2023-10-24,104090,409,schwarz,pink,gruen,black/fuchsia dream/hyper turq,true,FD5766-010
+reusch,10274878_5470956_7730,Reusch Venomous Gold X TW-Handschuhe Sc,10274878,Reusch,5470956,Reu_E_TWH,5470956,222202,2024-11-12,104090,401,schwarz,rot,,black / fiery red,true,5470956-7730
+reusch,10274881_5370904_1100,Reusch Legacy Arrow Gold X TW-Handschuh,10274881,Reusch,5370904,Reu_E_TWH,5370904,222202,2024-02-02,104090,401,weiss,,,white,true,5370904-1100
+uhlsport,10274883_1013013_001,uhlsport Powerline Elite Supergrip+ HN,10274883,uhlsport,1013013,Uhl_E_TWH,1013013,202306,2023-10-18,104090,400,schwarz,gold,weiss,schwarz/gold/weiß,true,1013013-01
+uhlsport,10274884_1013014_001,uhlsport Powerline Flex Cut HN Torwarth,10274884,uhlsport,1013014,Uhl_E_TWH,1013014,202310,2023-10-20,104090,400,schwarz,,,black,true,1013014-01
+reusch,10274885_5470905_1055,Reusch Legacy Pro Am Gold X TW-Handschu,10274885,Reusch,5470905,Reu_E_TWH,5470905,222202,2024-02-02,104090,401,weiss,lila,,white / purple,true,5470905-1055
+reusch,10274886_5470205_1055,Reusch Legacy Pro Am Silver TW-Handschu,10274886,Reusch,5470205,Reu_E_TWH,5470205,222202,2024-02-02,104090,401,weiss,lila,,white / purple,true,5470205-1055
+reusch,10274892_5470925_7784,Reusch Attrakt Gold X Airvent TW-Handsc,10274892,Reusch,5470925,Reu_E_TWH,5470925,222202,2024-07-25,104090,401,schwarz,orange,schwarz,black / shocking orange / black,true,5470925-7784
+reusch,10274926_5470755_7784,Reusch Attrakt Infinity Airvent TW-Hand,10274926,Reusch,5470755,Reu_E_TWH,5470755,222202,2024-07-25,104090,401,schwarz,orange,schwarz,black / shocking orange / black,true,5470755-7784
+reusch,10274929_5470015_1100,Reusch Attrakt Freegel Fusion Shine Bri,10274929,Reusch,5470015,Reu_E_TWH,5470015,202405,2024-05-14,104090,401,weiss,,,white,true,5470015-1100
+reusch,10274932_5470065_1101,Reusch Attrakt Freegel Gold X Evolution,10274932,Reusch,5470065,Reu_E_TWH,5470065,202405,2024-05-14,104090,401,weiss,schwarz,,white / black,true,5470065-1101
+reusch,10274935_5470036_1100,Reusch Attrakt Freegel Gold X Shine Bri,10274935,Reusch,5470036,Reu_E_TWH,5470036,202405,2024-05-14,104090,401,weiss,,,white,true,5470036-1100
+reusch,10274938_5470000_1100,Reusch Attrakt Freegel Gold Shine Brigh,10274938,Reusch,5470000,Reu_E_TWH,5470000,202405,2024-05-14,104090,401,weiss,,,white,true,5470000-1100
+reusch,10274940_5470035_1101,Reusch Attrakt Freegel Silver Shine Bri,10274940,Reusch,5470035,Reu_E_TWH,5470035,202405,2024-05-14,104090,401,weiss,schwarz,,white / black,true,5470035-1101
+reusch,10274942_5470026_1101,Reusch Attrakt Infinity NC Shine Bright,10274942,Reusch,5470026,Reu_E_TWH,5470026,202405,2024-05-14,104090,401,weiss,schwarz,,white / black,true,5470026-1101
+reusch,10274944_5470555_7737,Reusch Attrakt Re:Grip TW-Handschuhe Sc,10274944,Reusch,5470555,Reu_E_TWH,5470555,222202,2024-04-05,104090,401,schwarz,blau,,black / electric blue,true,5470555-7737
+reusch,10274945_5470979_7052,Reusch Attrakt Fusion TW-Handschuhe Str,10274945,Reusch,5470979,Reu_E_TWH,5470979,222202,2024-03-15,104090,401,schwarz,gelb,schwarz,black / safety yellow / black,true,5470979-7052
+reusch,10274946_5470455_7410,Reusch Attrakt Evolution TW-Handschuhe,10274946,Reusch,5470455,Reu_E_TWH,5470455,222202,2024-02-09,104090,401,schwarz,gruen,blau,black / fluo lime / aqua blue,true,5470455-7410
+reusch,10274948_5470439_7410,Reusch Attrakt TW-Handschuhe Aqua 2024,10274948,Reusch,5470439,Reu_E_TWH,5470439,222202,2024-02-09,104090,401,schwarz,gruen,blau,black / fluo lime / aqua blue,true,5470439-7410
+reusch,10274949_5470900_4848,Reusch Pure Contact Fusion TW-Handschuh,10274949,Reusch,5470900,Reu_E_TWH,5470900,222202,2024-01-19,104090,401,blau,orange,schwarz,premium blue / electric orange / black,true,5470900-4848
+reusch,10274951_5470915_1131,Reusch Pure Contact Gold X GluePrint St,10274951,Reusch,5470915,Reu_E_TWH,5470915,222202,2024-01-19,104090,401,weiss,gold,schwarz,white / gold / black,true,5470915-1131
+reusch,10274955_5470700_7706,Reusch Pure Contact Infinity TW-Handsch,10274955,Reusch,5470700,Reu_E_TWH,5470700,222202,2024-01-19,104090,401,schwarz,gold,schwarz,black / gold / black,true,5470700-7706
+reusch,10274961_5470100_4848,Reusch Pure Contact Gold TW-Handschuhe,10274961,Reusch,5470100,Reu_E_TWH,5470100,222202,2024-01-19,104090,401,blau,orange,schwarz,premium blue / electric orange / black,true,5470100-4848
+reusch,10274965_5470200_4848,Reusch Pure Contact Silver TW-Handschuh,10274965,Reusch,5470200,Reu_E_TWH,5470200,222202,2024-01-19,104090,401,blau,orange,schwarz,premium blue / electric orange / black,true,5470200-4848
+reusch,10274966_5472100_4848,Reusch Pure Contact Gold TW-Handschuhe,10274966,Reusch,5472100,Reu_K_TWH,5472100,222202,2024-01-19,104090,401,blau,orange,schwarz,premium blue / electric orange / black,true,5472100-4848
+reusch,10274967_5472200_4848,Reusch Pure Contact Silver TW-Handschuh,10274967,Reusch,5472200,Reu_K_TWH,5472200,222202,2024-01-19,104090,401,blau,orange,schwarz,premium blue / electric orange / black,true,5472200-4848
+reusch,10274968_5470995_4411,Reusch Attrakt Freegel Fusion Goaliator,10274968,Reusch,5470995,Reu_E_TWH,5470995,202312,2023-12-06,104090,401,blau,gold,schwarz,premium blue / gold / black,true,5470995-4411
+reusch,10274969_5470985_2211,Reusch Attrakt Fusion Guardian TW-Hands,10274969,Reusch,5470985,Reu_E_TWH,5470985,202312,2023-12-06,104090,401,orange,blau,schwarz,hyper orange / electric blue / black,true,5470985-2211
+reusch,10274970_5470055_4411,Reusch Attrakt Duo Evolution TW-Handsch,10274970,Reusch,5470055,Reu_E_TWH,5470055,202312,2023-12-06,104090,401,blau,gold,schwarz,premium blue / gold / black,true,5470055-4411
+reusch,10274971_5470975_2211,Reusch Attrakt Gold X Evolution GluePri,10274971,Reusch,5470975,Reu_E_TWH,5470975,202312,2023-12-06,104090,401,orange,blau,schwarz,hyper orange / electric blue / black,true,5470975-2211
+reusch,10274972_5470964_4411,Reusch Attrakt Gold X Evolution TW-Hand,10274972,Reusch,5470964,Reu_E_TWH,5470964,202312,2023-12-06,104090,401,blau,gold,schwarz,premium blue / gold / black,true,5470964-4411
+reusch,10274973_5470935_2210,Reusch Attrakt Gold X Freegel TW-Handsc,10274973,Reusch,5470935,Reu_E_TWH,5470935,202312,2023-12-06,104090,401,orange,blau,,hyper orange / electric blue,true,5470935-2210
+reusch,10274974_5470745_7700,Reusch Attrakt Infinity Resistor TW-Han,10274974,Reusch,5470745,Reu_E_TWH,5470745,202312,2023-12-06,104090,401,schwarz,,,black,true,5470745-7700
+reusch,10274975_5470025_2211,Reusch Attrakt Duo TW-Handschuhe Orange,10274975,Reusch,5470025,Reu_E_TWH,5470025,202312,2023-12-06,104090,401,orange,blau,schwarz,hyper orange / electric blue / black,true,5470025-2211
+reusch,10274976_5470974_4410,Reusch Attrakt Gold X GluePrint TW-Hand,10274976,Reusch,5470974,Reu_E_TWH,5470974,202312,2023-12-06,104090,401,blau,gold,,premium blue / gold,true,5470974-4410
+reusch,10274977_5470039_4410,Reusch Attrakt SpeedBump TW-Handschuhe,10274977,Reusch,5470039,Reu_E_TWH,5470039,202312,2023-12-06,104090,401,blau,gold,,premium blue / gold,true,5470039-4410
+reusch,10274978_5470945_4411,Reusch Attrakt Gold X TW-Handschuhe Bla,10274978,Reusch,5470945,Reu_E_TWH,5470945,202312,2024-02-06,104090,401,blau,gold,schwarz,premium blue / gold / black,true,5470945-4411
+reusch,10274980_5470735_7700,Reusch Attrakt Freegel Infinity TW-Hand,10274980,Reusch,5470735,Reu_E_TWH,5470735,202312,2023-12-05,104090,401,schwarz,,,black,true,5470735-7700
+reusch,10274981_5470235_4411,Reusch Attrakt Freegel Silver TW-Handsc,10274981,Reusch,5470235,Reu_E_TWH,5470235,202312,2023-12-05,104090,401,blau,gold,schwarz,premium blue / gold / black,true,5470235-4411
+reusch,10274982_5470235_2210,Reusch Attrakt Freegel Silver TW-Handsc,10274982,Reusch,5470235,Reu_E_TWH,5470235,202312,2023-12-05,104090,401,orange,blau,,hyper orange / electric blue,true,5470235-2210
+reusch,10274985_5470725_7700,Reusch Attrakt Infinity NC TW-Handschuh,10274985,Reusch,5470725,Reu_E_TWH,5470725,202312,2023-12-05,104090,401,schwarz,,,black,true,5470725-7700
+reusch,10274986_5472955_4411,Reusch Attrakt Gold X TW-Handschuhe Kid,10274986,Reusch,5472955,Reu_K_TWH,5472955,202312,2024-01-11,104090,401,blau,gold,schwarz,premium blue / gold / black,true,5472955-4411
+reusch,10274987_5472235_4411,Reusch Attrakt Freegel Silver TW-Handsc,10274987,Reusch,5472235,Reu_K_TWH,5472235,202312,2023-12-05,104090,401,blau,gold,schwarz,premium blue / gold / black,true,5472235-4411
+reusch,10274989_5472725_2211,Reusch Torwarthandschuhe Kids Orange,10274989,Reusch,5472725,Reu_K_TWH,5472725,222202,2024-01-11,104090,401,orange,blau,schwarz,hyper orange / electric blue / black,true,5472725-2211
+reusch,10274996_5472715_7700,Reusch Attrakt Infinity TW-Handschuhe S,10274996,Reusch,5472715,Reu_K_TWH,5472715,202312,2023-12-05,104090,401,schwarz,,,black,true,5472715-7700
+reusch,10274997_5470990_7707,Reusch Attrakt Freegel Fusion Ortho-Tec,10274997,Reusch,5470990,Reu_E_TWH,5470990,222202,2023-12-06,104090,401,schwarz,gold,,black / gold,true,5470990-7707
+reusch,10274998_5470950_7740,Reusch Attrakt Gold X Evolution Cut Fin,10274998,Reusch,5470950,Reu_E_TWH,5470950,222202,2023-12-06,104090,401,schwarz,gold,weiss,black / gold / white / black,true,5470950-7740
+reusch,10275008_5470710_7739,Reusch Attrakt Infinity Finger Support,10275008,Reusch,5470710,Reu_E_TWH,5470710,202312,2023-12-05,104090,401,schwarz,gold,gelb,black / gold / yellow / black,true,5470710-7739
+reusch,10275011_5472130_7752,Reusch Attrakt Freegel Gold Finger Supp,10275011,Reusch,5472130,Reu_K_TWH,5472130,222202,2024-01-11,104090,401,schwarz,gelb,,black / safety yellow,true,5472130-7752
+reusch,10275013_5472710_7739,Reusch Torwarthandschuhe Kids Schwarz,10275013,Reusch,5472710,Reu_K_TWH,5472710,222202,2023-12-05,104090,401,schwarz,gold,gelb,black / gold / yellow / black,true,5472710-7739
+reusch,10275027_5470255_2211,Reusch Attrakt Silver NC TW-Handschuhe,10275027,Reusch,5470255,Reu_E_TWH,5470255,202312,2023-12-05,104090,401,orange,blau,schwarz,hyper orange / electric blue / black,true,5470255-2211
+reusch,10275046_5460939_1049,Reusch Attrakt Gold X TW-Handschuhe Wei,10275046,Reusch,5460939,Reu_E_TWH,5460939,222202,2023-11-16,104090,401,weiss,silber,rot,wht/silver/fiery red,true,5460939-1049
+reusch,10275057_5460911_4947,Reusch Pure Contact Gold X TW-Handschuh,10275057,Reusch,5460911,Reu_E_TWH,5460911,222202,2023-11-16,104090,401,blau,gelb,schwarz,"deep blu/safety yell/blck
+deep blu/safety yell/blck",true,5460911-4947
+reusch,10275058_5460000_1100,Reusch Pure Contact SpeedBump TW-Handsc,10275058,Reusch,5460000,Reu_E_TWH,5460000,222202,2024-07-22,104090,401,weiss,,,"white
+deep blu/safety yell/blck",true,5460000-1100
+reusch,10275059_5460734_7700,Reusch Attrakt Freegel Infinity NC TW-H,10275059,Reusch,5460734,Reu_E_TWH,5460734,222202,2024-07-22,104090,401,schwarz,,,"black
+deep blu/safety yell/blck",true,5460734-7700
+reusch,10275060_5460256_7730,Reusch Venomous Silver NC TW-Handschuhe,10275060,Reusch,5460256,Reu_E_TWH,5460256,222202,2024-11-12,104090,401,schwarz,rot,,"black/fiery red
+deep blu/safety yell/blck",true,5460256-7730
+adidas,10276107_IN1600_000,adidas Predator League TW-Handschuhe So,10276107,adidas,IN1600,Adi_E_TWH,KMR50,222211,2024-03-15,104090,399,schwarz,rot,gelb,black/solred/syello,true,IN1600
+adidas,10276108_IN1601_000,adidas Predator League TW-Handschuhe En,10276108,adidas,IN1601,Adi_E_TWH,KMR50,222211,2024-06-04,104090,399,gelb,schwarz,rot,syello/black/solred,true,IN1601
+adidas,10276109_IN1602_000,adidas Predator Competition TW-Handschu,10276109,adidas,IN1602,Adi_E_TWH,KMR51,222211,2024-02-28,104090,399,schwarz,rot,gelb,black/solred/syello,true,IN1602
+adidas,10276749_IQ4008_000,adidas COPA Pro Promo Torwarthandschuhe,10276749,adidas,IQ4008,Adi_E_TWH,KMR31,222211,2024-01-16,104090,399,beige,rot,schwarz,ivory/solred/black,true,IQ4008
+adidas,10276750_IQ4010_000,adidas COPA Pro Torwarthandschuhe Solar,10276750,adidas,IQ4010,Adi_E_TWH,KMR32,222211,2024-01-16,104090,399,beige,rot,schwarz,ivory/solred/black,true,IQ4010
+adidas,10276751_IQ4011_000,adidas COPA League Torwarthandschuhe So,10276751,adidas,IQ4011,Adi_E_TWH,KMR33,222211,2024-01-23,104090,399,beige,rot,schwarz,ivory/solred/black,true,IQ4011
+adidas,10276752_IQ4012_000,adidas COPA League TW-Handschuhe Energy,10276752,adidas,IQ4012,Adi_E_TWH,KMR33,222211,2024-05-16,104090,399,rot,weiss,gelb,shared/white/syello,true,IQ4012
+adidas,10276753_IQ4013_000,adidas COPA Pro TW-Handschuhe Solar Ene,10276753,adidas,IQ4013,Adi_E_TWH,KMR34,222211,2024-02-14,104090,399,beige,rot,schwarz,ivory/solred/black,true,IQ4013
+adidas,10276754_IQ4014_000,adidas COPA Pro TW-Handschuhe Energy Ci,10276754,adidas,IQ4014,Adi_E_TWH,KMR34,222211,2024-04-08,104090,399,rot,weiss,gelb,shared/white/syello,true,IQ4014
+adidas,10276758_IQ4018_000,adidas Predator Pro FSP TW-Handschuhe S,10276758,adidas,IQ4018,Adi_E_TWH,KMR37,222211,2024-02-26,104090,399,schwarz,rot,gelb,black/solred/syello,true,IQ4018
+adidas,10276759_IQ4019_000,adidas Predator Pro FSP TW-Handschuhe E,10276759,adidas,IQ4019,Adi_E_TWH,KMR37,222211,2024-03-28,104090,399,gelb,schwarz,rot,syello/black/solred,true,IQ4019
+adidas,10276760_IQ4020_000,adidas Predator Pro Hybrid TW-Handschuh,10276760,adidas,IQ4020,Adi_E_TWH,KMR38,222211,2024-01-16,104090,399,schwarz,rot,gelb,black/solred/syello,true,IQ4020
+adidas,10276761_IQ4021_000,adidas Predator Pro Hybrid TW-Handschuh,10276761,adidas,IQ4021,Adi_E_TWH,KMR38,222211,2024-03-28,104090,399,gelb,schwarz,rot,syello/black/solred,true,IQ4021
+adidas,10276762_IQ4022_000,adidas Predator Pro Torwarthandschuhe S,10276762,adidas,IQ4022,Adi_E_TWH,KMR39,222211,2024-01-16,104090,399,schwarz,rot,gelb,black/solred/syello,true,IQ4022
+adidas,10276763_IQ4023_000,adidas Predator Pro Promo TW-Handschuhe,10276763,adidas,IQ4023,Adi_E_TWH,KMR40,222211,2024-02-13,104090,399,schwarz,rot,gelb,black/solred/syello,true,IQ4023
+adidas,10276764_IQ4024_000,adidas Predator Pro Promo TW-Handschuhe,10276764,adidas,IQ4024,Adi_E_TWH,KMR40,222211,2024-03-28,104090,399,gelb,schwarz,rot,syello/black/solred,true,IQ4024
+adidas,10276765_IQ4025_000,adidas Predator Pro Hyb Promo TW-Handsc,10276765,adidas,IQ4025,Adi_E_TWH,KMR41,222211,2024-02-13,104090,399,schwarz,rot,gelb,black/solred/syello,true,IQ4025
+adidas,10276770_IQ4030_000,adidas COPA League TW-Handschuhe Solar,10276770,adidas,IQ4030,Adi_E_TWH,KMR44,222211,2024-03-14,104090,399,beige,rot,schwarz,ivory/solred/black,true,IQ4030
+adidas,10276771_IQ4031_000,adidas Predator Pro FS TW-Handschuhe So,10276771,adidas,IQ4031,Adi_E_TWH,KMR45,222211,2024-02-23,104090,399,schwarz,rot,gelb,black/solred/syello,true,IQ4031
+adidas,10276772_IQ4032_000,adidas Predator Pro TW-Handschuhe Energ,10276772,adidas,IQ4032,Adi_E_TWH,KMR46,222211,2024-03-28,104090,399,gelb,schwarz,rot,syello/black/solred,true,IQ4032
+adidas,10276773_IQ4033_000,adidas Predator Pro TW-Handschuhe Night,10276773,adidas,IQ4033,Adi_E_TWH,KMR46,222211,2024-02-13,104090,399,schwarz,schwarz,schwarz,black/black/black,true,IQ4033
+adidas,10276774_IQ4034_000,adidas Predator Pro TW-Handschuhe Solar,10276774,adidas,IQ4034,Adi_E_TWH,KMR46,202401,2024-01-16,104090,399,schwarz,rot,gelb,black/solred/syello,true,IQ4034
+adidas,10276775_IQ4035_000,adidas Predator Match FS TW-Handschuhe,10276775,adidas,IQ4035,Adi_E_TWH,KMR47,222211,2024-04-08,104090,399,gelb,schwarz,rot,syello/black/solred,true,IQ4035
+adidas,10276776_IQ4036_000,adidas Predator Match FS TW-Handschuhe,10276776,adidas,IQ4036,Adi_E_TWH,KMR47,222211,2024-01-16,104090,399,schwarz,rot,gelb,black/solred/syello,true,IQ4036
+adidas,10276777_IQ4037_000,adidas Predator Match FS TW-Handschuhe,10276777,adidas,IQ4037,Adi_E_TWH,KMR48,222211,2024-02-06,104090,399,schwarz,rot,gelb,black/solred/syello,true,IQ4037
+adidas,10276778_IQ4038_000,adidas Predator Match FS TW-Handschuhe,10276778,adidas,IQ4038,Adi_E_TWH,KMR48,222211,2024-04-05,104090,399,gelb,schwarz,rot,syello/black/solred,true,IQ4038
+adidas,10277802_IT7408_000,adidas COPA Pro TW-Handschuhe Marinerus,10277802,adidas,IT7408,Adi_E_TWH,KMR34,202311,2023-10-24,104090,399,blau,weiss,rot,lucblu/white/solred,false,IT7408
+adidas,10277803_IT7409_000,adidas COPA Pro Promo TW-Handschuhe Mar,10277803,adidas,IT7409,Adi_E_TWH,KMR31,202311,2024-01-10,104090,399,blau,weiss,rot,lucblu/white/solred,true,IT7409
+adidas,10278101_IW4845_000,adidas Predator Pro Torwarthandschuhe P,10278101,adidas,IW4845,Adi_E_TWH,KMR46,222211,2024-01-05,104090,399,orange,gelb,schwarz,solred/syello/black,true,IW4845
+adidas,10278102_IW4847_000,adidas Predator Pro TW-Handschuhe Gener,10278102,adidas,IW4847,Adi_E_TWH,KMR46,222211,2024-03-25,104090,399,gruen,pink,gelb,tmsogr/tmshpn/luclem,true,IW4847
+adidas,10278105_IW6279_000,adidas Predator Match FS Torwarthandsch,10278105,adidas,IW6279,Adi_E_TWH,KMR47,222211,2024-01-30,104090,399,schwarz,schwarz,schwarz,black/black/black,true,IW6279
+adidas,10278112_IW7434_000,adidas Predator Pro Y-3 TW-Handschuhe W,10278112,adidas,IW7434,Adi_E_TWH,JSK46,222211,2024-04-02,104090,399,weiss,weiss,schwarz,owhite/white/cblack,true,IW7434
+reusch,10286680_5360065_7707,Reusch Attrakt Duo Evolution Cut Torwar,10286680,Reusch,5360065,Reu_E_TWH,5360065,202311,2023-11-03,104090,401,schwarz,gold,,black/gold,true,5360065-7707
+reusch,10286681_5362065_7707,Reusch Attrakt Duo Torwarthandschuh Kid,10286681,Reusch,5362065,Reu_K_TWH,5362065,202311,2023-11-03,104090,401,schwarz,gold,,black/gold,true,5362065-7707
+Puma,10287224_041858_08,PUMA ULTRA Ultimate Hybrid TW-Handschuh,10287224,PUMA,041858,Puma_E_TWH,041858,222210,2024-02-20,104090,681,pink,weiss,schwarz,poison pink-puma white-puma black,true,041858-08
+Puma,10287225_041858_09,PUMA ULTRA Ultimate Hybrid Forever Fast,10287225,PUMA,041858,Puma_E_TWH,041858,222210,2024-04-11,104090,681,rosa,gelb,schwarz,sunset glow-sun stream-puma black,true,041858-09
+Puma,10287226_041858_10,PUMA ULTRA Ultimate Hybrid TW-Handschuh,10287226,PUMA,041858,Puma_E_TWH,041858,222210,2024-02-01,104090,681,schwarz,grau,rosa,puma black-shadow gray-copper rose,true,041858-10
+Puma,10287227_041859_08,PUMA ULTRA Pro RC TW-Handschuhe Phenome,10287227,PUMA,041859,Puma_E_TWH,041859,222210,2024-01-24,104090,681,pink,weiss,schwarz,poison pink-puma white-puma black,true,041859-08
+Puma,10287228_041859_09,PUMA ULTRA Pro RC Forever Faster TW-Han,10287228,PUMA,041859,Puma_E_TWH,041859,222210,2024-04-11,104090,681,rosa,gelb,schwarz,sunset glow-sun stream-puma black,true,041859-09
+Puma,10287229_041860_08,PUMA ULTRA Pro RC TW-Handschuhe Phenome,10287229,PUMA,041860,Puma_E_TWH,041860,222210,2024-01-30,104090,681,pink,weiss,schwarz,poison pink-puma white-puma black,true,041860-08
+Puma,10287235_041923_01,PUMA FUTURE Ultimate NC TW-Handschuhe P,10287235,PUMA,041923,Puma_E_TWH,041923,222210,2024-01-18,104090,681,weiss,pink,schwarz,puma white-poison pink-puma black,true,041923-01
+Puma,10287236_041923_02,PUMA FUTURE Ultimate NC Forever Faster,10287236,PUMA,041923,Puma_E_TWH,041923,222210,2024-04-18,104090,681,rosa,gelb,schwarz,sunset glow-sun stream-puma black,true,041923-02
+Puma,10287237_041923_03,PUMA FUTURE Ultimate NC TW-Handschuhe E,10287237,PUMA,041923,Puma_E_TWH,041923,202402,2024-02-01,104090,681,schwarz,grau,rosa,puma black-shadow gray-copper rose,true,041923-03
+Puma,10287238_041924_01,PUMA FUTURE Pro Hybrid TW-Handschuhe Ph,10287238,PUMA,041924,Puma_E_TWH,041924,222210,2024-01-18,104090,681,weiss,pink,schwarz,puma white-poison pink-puma black,true,041924-01
+Puma,10287239_041924_02,PUMA FUTURE Pro Hybrid Forever Faster T,10287239,PUMA,041924,Puma_E_TWH,041924,222210,2024-04-11,104090,681,rosa,gelb,schwarz,sunset glow-sun stream-puma black,true,041924-02
+Puma,10287240_041925_01,PUMA FUTURE Pro SGC TW-Handschuhe Pheno,10287240,PUMA,041925,Puma_E_TWH,041925,222210,2024-01-24,104090,681,weiss,pink,schwarz,puma white-poison pink-puma black,true,041925-01
+Puma,10287241_041926_01,PUMA FUTURE Match NC TW-Handschuhe Phen,10287241,PUMA,041926,Puma_E_TWH,041926,222210,2024-01-18,104090,681,weiss,pink,schwarz,puma white-poison pink-puma black,true,041926-01
+Puma,10287242_041926_02,PUMA FUTURE Match NC Forever Faster TW-,10287242,PUMA,041926,Puma_E_TWH,041926,222210,2024-04-11,104090,681,rosa,gelb,schwarz,sunset glow-sun stream-puma black,true,041926-02
+Puma,10287243_041929_01,Puma FUTURE Ultimate RUSH NC TW-Handsch,10287243,PUMA,041929,Puma_E_TWH,041929,222210,2024-03-12,104090,681,grau,gruen,schwarz,cool dark gray-electric lime-puma black,true,041929-_01
+Puma,10287244_041930_01,Puma ULTRA Ultimate RUSH Hybrid TW-Hand,10287244,PUMA,041930,Puma_E_TWH,041930,222210,2024-02-28,104090,681,grau,blau,schwarz,cool dark gray-elektro aqua-puma black,true,041930-_01
+reusch,10288757_5472035_1101,Reusch Attrakt Freegel Silver TW-Handsc,10288757,Reusch,5472035,Reu_K_TWH,5472035,202312,2026-01-21,104090,401,weiss,schwarz,,white / black,true,5472035-1101
+NIKE,10289824_FB2998_011,Nike Grip3 Torwarthandschuhe Schwarz We,10289824,Nike,FB2998,Nike_E_TWH,FB2998,202403,2024-02-02,104090,409,schwarz,weiss,gold,black/white/mtlc gold coin,true,FB2998-011
+NIKE,10290259_FB2999_011,Nike Vapor Grip3 Torwarthandschuhe Schw,10290259,Nike,FB2999,Nike_E_TWH,FB2999,202403,2024-02-02,104090,409,schwarz,weiss,gold,black/white/mtlc gold coin,true,FB2999-011
+NIKE,10290274_FD5766_011,Nike Vapor Grip3 Dynamic Fit TW-Handsch,10290274,Nike,FD5766,Nike_E_TWH,FD5766,202402,2024-02-20,104090,409,schwarz,weiss,gold,black/white/mtlc gold coin,true,FD5766-011
+NIKE,10290541_FB3001_011,Nike Vapor Grip3 RS Promo TW-Handschuhe,10290541,Nike,FB3001,Nike_E_TWH,FB3001,202401,2024-01-24,104090,409,schwarz,weiss,gold,black/white/mtlc gold coin,true,FB3001-011
+NIKE,10290714_FJ5566_011,Nike Vapor Dynamic Fit Promo TW-Handsch,10290714,Nike,FJ5566,Nike_E_TWH,FJ5566,202401,2024-01-24,104090,409,schwarz,weiss,gold,black/white/mtlc gold coin,true,FJ5566-011
+uhlsport,10291907_1011325012024_001,uhlsport Powerline Flex HN TW-Handschuh,10291907,uhlsport,1011325012024,Uhl_E_TWH,1011325012024,202403,2024-03-07,104090,400,weiss,schwarz,,white/black,true,A101132501202
+uhlsport,10291908_1011307012024_001,uhlsport Powerline AG Flex HN TW-Handsc,10291908,uhlsport,1011307012024,Uhl_E_TWH,1011307012024,202403,2024-03-07,104090,400,weiss,schwarz,,white/black,true,A10113070120A
+uhlsport,10291909_1011304012024_001,uhlsport Powerline Supergrip+ HN Earth,10291909,uhlsport,1011304012024,Uhl_E_TWH,1011304012024,202404,2024-04-30,104090,400,blau,gruen,weiss,marine/grün/weiß,true,A10113040120A
+uhlsport,10291910_1011307022024_002,uhlsport Powerline Absolutgrip HN Pro E,10291910,uhlsport,1011307022024,Uhl_E_TWH,1011307022024,202404,2024-04-30,104090,400,blau,gruen,weiss,blue,true,A101130702202
+uhlsport,10291911_1011328012024_001,uhlsport Fire Edition Ultragrip HN #364,10291911,uhlsport,1011328012024,Uhl_E_TWH,1011328012024,,2024-10-07,104090,400,rot,schwarz,,nodata,true,A101132801202
+uhlsport,10291912_1011356012024_001,uhlsport Fire Edition Absolutgrip HN Fi,10291912,uhlsport,1011356012024,Uhl_E_TWH,1011356012024,,2024-10-04,104090,400,rot,schwarz,,nodata,true,A101135601202
+uhlsport,10291913_1011334012024_001,Uhlsport Fire Edition Supersoft HN #364,10291913,uhlsport,1011334012024,Uhl_E_TWH,1011334012024,,2024-10-04,104090,400,rot,schwarz,,nodata,true,A101133401202
+uhlsport,10291914_1011328022024_002,uhlsport Nite Edition Ultragrip HN #365,10291914,uhlsport,1011328022024,Uhl_E_TWH,1011328022024,202410,2024-10-15,104090,400,schwarz,weiss,,nodata,true,A101132802202
+uhlsport,10291915_1011356022024_002,uhlsport Nite Edition Absolutgrip SC #3,10291915,uhlsport,1011356022024,Uhl_E_TWH,1011356022024,202410,2024-10-15,104090,400,schwarz,weiss,,nodata,true,A101135602202
+uhlsport,10291931_1011304022001_002,uhlsport Supergrip+ HN Maignan #353 TW-,10291931,uhlsport,1011304022001,Uhl_E_TWH,1011304022001,202403,2024-03-15,104090,400,orange,schwarz,,orange,true,A101130402200
+uhlsport,10291932_1011309022001_002,uhlsport Absolutgrip HN #353 Maignan Sc,10291932,uhlsport,1011309022001,Uhl_E_TWH,1011309022001,202403,2024-03-14,104090,400,orange,schwarz,,orange,true,A101130902200
+uhlsport,10291940_1011361012024_001,uhlsport Fangmaschine Pro HN #350_1 TW-,10291940,uhlsport,1011361012024,Uhl_E_TWH,1011361012024,202403,2024-03-22,104090,400,weiss,schwarz,,white,true,A101136101202
+uhlsport,10291944_1011362012024_001,uhlsport Retro Pro HN #350_2 TW-Handsch,10291944,uhlsport,1011362012024,Uhl_E_TWH,1011362012024,,2024-07-17,104090,400,schwarz,rot,,black,true,A101136201202
+uhlsport,10291946_1011346_001,uhlsport Supergrip+ Flex Frame Carbon T,10291946,uhlsport,1011346,Uhl_E_TWH,1011346,202404,2024-04-03,104090,400,schwarz,gelb,,black,true,1011346-01
+uhlsport,10291950_1011347_001,uhlsport Absolutgrip Flex Frame Carbon,10291950,uhlsport,1011347,Uhl_E_TWH,1011347,202403,2024-02-02,104090,400,schwarz,gelb,,black,true,1011347-01
+uhlsport,10291954_1011357_001,uhlsport Supergrip+ HN Classic TW-Hands,10291954,uhlsport,1011357,Uhl_E_TWH,1011232,202402,2024-02-26,104090,400,weiss,blau,,white,true,1011357-01
+uhlsport,10291957_1011348_001,uhlsport Absolutgrip Tight HN TW-Handsc,10291957,uhlsport,1011348,Uhl_E_TWH,1011348,202402,2024-03-06,104090,400,blau,blau,weiss,marine/fluo blau/weiß,true,1011348-01
+uhlsport,10291958_1011349_001,uhlsport Comfort Absolutgrip HN TW-Hand,10291958,uhlsport,1011349,Uhl_E_TWH,1011349,202402,2024-02-28,104090,400,schwarz,,,schwarz,true,1011349-01
+uhlsport,10291960_1011350_001,uhlsport Comfort Absolutgrip TW-Handsch,10291960,uhlsport,1011350,Uhl_E_TWH,1011350,202403,2024-02-02,104090,400,schwarz,weiss,,black,true,1011350-01
+uhlsport,10291961_1011351_001,uhlsport Absolutgrip TW-Handschuhe F01,10291961,uhlsport,1011351,Uhl_E_TWH,1011351,202403,2024-02-02,104090,400,weiss,rot,,white,true,1011351-01
+uhlsport,10291962_1011352_001,uhlsport Supersoft HN Flex Frame TW-Han,10291962,uhlsport,1011352,Uhl_E_TWH,1011352,202404,2024-04-03,104090,400,schwarz,weiss,,black,true,1011352-01
+uhlsport,10291964_1011353_001,uhlsport Absolutgrip HN Pro TW-Handschu,10291964,uhlsport,1011353,Uhl_E_TWH,1011353,202403,2024-02-02,104090,400,blau,gelb,,blau,true,1011353-01
+uhlsport,10291985_1011354_001,uhlsport Soft HN Comp TW-Handschuhe Sch,10291985,uhlsport,1011354,Uhl_E_TWH,1011354,202402,2024-02-28,104090,400,schwarz,blau,weiss,schwarz/fluo blau/weiß,true,1011354-01
+uhlsport,10292786_1011327_001,uhlsport Prediction Ultragrip SC TW-Han,10292786,uhlsport,1011327,Uhl_E_TWH,1011327,202406,2024-06-25,104090,400,blau,gelb,blau,blau,true,1011327-01
+uhlsport,10292787_1011326_001,uhlsport Prediction Ultragrip TW-Handsc,10292787,uhlsport,1011326,Uhl_E_TWH,1011327,202406,2024-06-24,104090,400,blau,gelb,grau,blau,true,1011326-01
+uhlsport,10292788_1011328_001,uhlsport Prediction Ultragrip HN TW-Han,10292788,uhlsport,1011328,Uhl_E_TWH,1011327,202406,2024-06-24,104090,400,blau,gelb,,blau,true,1011328-01
+uhlsport,10292789_1011329_001,uhlsport Prediction Supergrip+ Finger S,10292789,uhlsport,1011329,Uhl_E_TWH,1011331,202406,2024-06-25,104090,400,blau,gelb,weiss,blue,true,1011329-01
+uhlsport,10292791_1011330_001,uhlsport Prediction Supergrip+ HN TW-Ha,10292791,uhlsport,1011330,Uhl_E_TWH,1011331,202406,2024-06-24,104090,400,schwarz,gelb,weiss,blue,true,1011330-01
+uhlsport,10292792_1011331_001,uhlsport Prediction Flex HN TW-Handschu,10292792,uhlsport,1011331,Uhl_E_TWH,1011331,202406,2024-06-24,104090,400,blau,gelb,weiss,blue,true,1011331-01
+uhlsport,10292796_1011332_001,uhlsport Prediction Absolutgrip SC TW-H,10292796,uhlsport,1011332,Uhl_E_TWH,1011332,202406,2024-06-13,104090,400,schwarz,gelb,weiss,black,true,1011332-01
+uhlsport,10292799_1011356_001,uhlsport Prediction Absolutgrip HN Fit,10292799,uhlsport,1011356,Uhl_E_TWH,1011356,202406,2024-06-25,104090,400,blau,gelb,weiss,blue,true,1011356-01
+uhlsport,10292802_1011333_001,uhlsport Prediction Absolutgrip HN TW-H,10292802,uhlsport,1011333,Uhl_E_TWH,1011333,202406,2024-06-13,104090,400,blau,gelb,,blue,true,1011333-01
+uhlsport,10292803_1011334_001,uhlsport Prediction Supersoft HN TW-Han,10292803,uhlsport,1011334,Uhl_E_TWH,1011334,202406,2024-06-13,104090,400,blau,weiss,gelb,marine/weiß/fluo gelb,true,1011334-01
+uhlsport,10292805_1011335_001,uhlsport Prediction Supersoft TW-Handsc,10292805,uhlsport,1011335,Uhl_E_TWH,1011335,202406,2024-06-13,104090,400,blau,gelb,weiss,blue,true,1011335-01
+uhlsport,10292810_1011339_001,uhlsport Aquagrip HN TW-Handschuhe F01,10292810,uhlsport,1011339,Uhl_E_TWH,1011339,222204,2024-10-30,104090,400,blau,gruen,,nodata,true,1011339-01
+uhlsport,10292811_1011340_001,uhlsport Aquasoft HN TW-Handschuhe F01,10292811,uhlsport,1011340,Uhl_E_TWH,1011340,222204,2025-03-28,104090,400,mehrfarbig,,,nodata,true,1011340-01
+uhlsport,10292812_1011341_001,uhlsport Aquasoft TW-Handschuhe F01,10292812,uhlsport,1011341,Uhl_E_TWH,1011341,222204,2024-10-31,104090,400,blau,gruen,,nodata,true,1011341-01
+uhlsport,10292813_1011342_001,uhlsport Super Resist+ HN TW-Handschuhe,10292813,uhlsport,1011342,Uhl_E_TWH,1011342,222204,2024-06-13,104090,400,orange,schwarz,,orange,true,1011342-01
+NIKE,10295383_FB2998_013,Nike Grip 3 TW-Handschuhe Schwarz F013,10295383,Nike,FB2998,Nike_E_TWH,FB2998,,2024-03-11,104090,409,schwarz,,,black/sunset pulse/black,true,FB2998-013
+NIKE,10295384_FB2999_013,Nike Vapor Grip 3 TW-Handschuhe Schwarz,10295384,Nike,FB2999,Nike_E_TWH,FB2999,,2024-03-11,104090,409,schwarz,pink,schwarz,black/sunset pulse/black,true,FB2999-013
+NIKE,10295386_FD5766_628,Nike Vapor Grip 3 Dynamic Fit TW-Handsc,10295386,Nike,FD5766,Nike_E_TWH,FD5766,,2024-03-11,104090,409,rot,pink,schwarz,sunset pulse/pink foam /black,true,FD5766-628
+NIKE,10295703_FZ4558_628,Nike Dynamic Fit TW-Handschuhe Rot F628,10295703,Nike,FZ4558,Nike_E_TWH,FZ4558,,2024-03-11,104090,409,rot,,,sunset pulse/pink foam /black,false,FZ4558-628
+adidas,10299351_IS7586_000,adidas Predator Pro Vivid Horizon Torwa,10299351,adidas,IS7586,Adi_E_TWH,JSX57,,2024-10-04,104090,399,orange,schwarz,,turbo/aurbla/turbo,true,IS7586
+adidas,10299352_IS7587_000,adidas Predator Pro Torwarthandschuhe A,10299352,adidas,IS7587,Adi_E_TWH,JSX57,202406,2024-06-13,104090,399,blau,rot,,lucblu/solarred/white,true,IS7587
+adidas,10299495_IS7584_000,adidas COPA Pro Vivid Horizon Torwartha,10299495,adidas,IS7584,Adi_E_TWH,JSX56,202410,2024-10-15,104090,399,schwarz,grau,,aurbla/platinmet/turb,true,IS7584
+adidas,10299496_IS7585_000,adidas COPA Pro Torwarthandschuhe Advan,10299496,adidas,IS7585,Adi_E_TWH,JSX56,202406,2024-06-13,104090,399,weiss,blau,,white/lucblu/solarred,true,IS7585
+adidas,10300373_IX3867_000,adidas Predator Pro Torwarthandschuhe A,10300373,adidas,IX3867,Adi_E_TWH,JTJ62,222211,2024-06-24,104090,399,blau,rot,,lucblu/solarred/white,true,IX3867
+adidas,10300386_IX3875_000,adidas Predator MTC FS TW-Handschuhe Ad,10300386,adidas,IX3875,Adi_E_TWH,JTJ67,222211,2024-06-13,104090,399,blau,rot,,lucblu/solarred/white,true,IX3875
+adidas,10300390_IX3859_000,adidas Predator League Vivid Horizon To,10300390,adidas,IX3859,Adi_E_TWH,JTJ57,222211,2024-10-15,104090,399,schwarz,,,turbo/aurbla/turbo,true,IX3859
+adidas,10300391_IX3860_000,adidas Predator League TW-Handschuhe Ad,10300391,adidas,IX3860,Adi_E_TWH,JTJ57,222211,2024-07-08,104090,399,blau,rot,,lucblu/solarred/white,true,IX3860
+adidas,10300396_IX3874_000,adidas Predator Pro FS TW-Handschuhe Ad,10300396,adidas,IX3874,Adi_E_TWH,JTJ66,222211,2024-07-22,104090,399,blau,rot,,lucblu/solarred/white,true,IX3874
+adidas,10300427_IX3829_000,adidas Copa League Torwarthandschuhe Ad,10300427,adidas,IX3829,Adi_E_TWH,JTJ47,222211,2024-06-13,104090,399,weiss,blau,,white/lucblu/solarred,true,IX3829
+adidas,10300443_IX3828_000,adidas Copa Pro Torwarthandschuhe Darks,10300443,adidas,IX3828,Adi_E_TWH,JSX56,222211,2024-07-11,104090,399,schwarz,gold,,black/black/goldmet,true,IX3828
+adidas,10300444_JD9098_000,adidas Copa Pro Reemergence Torwarthand,10300444,adidas,JD9098,Adi_E_TWH,JSX56,222211,2024-08-07,104090,399,blau,blau,,legink/solblu/sopink,true,JD9098
+adidas,10300454_IX3868_000,adidas Predator Pro PC Vivid Horizon To,10300454,adidas,IX3868,Adi_E_TWH,JTJ63,222211,2024-10-04,104090,399,schwarz,,,turbo/aurbla/turbo,true,IX3868
+adidas,10300455_IX3869_000,adidas Predator Pro PC TW-Handschuhe Ad,10300455,adidas,IX3869,Adi_E_TWH,JTJ63,222211,2024-06-03,104090,399,blau,rot,,lucblu/solarred/white,true,IX3869
+adidas,10300462_JD9086_000,adidas Copa Pro Reemergence Torwarthand,10300462,adidas,JD9086,Adi_E_TWH,JSX57,222211,2024-08-07,104090,399,weiss,blau,,white/solblu/sopink,true,JD9086
+adidas,10300465_IX3837_000,adidas Copa Pro Torwarthandschuhe Advan,10300465,adidas,IX3837,Adi_E_TWH,JTJ52,222211,2025-01-02,104090,399,weiss,blau,,white/lucblu/solarred,true,IX3837
+adidas,10300466_IX3842_000,adidas COPA Pro Vivid Horizon,10300466,adidas,IX3842,Adi_E_TWH,JTJ52,222211,2024-10-07,104090,399,schwarz,,,aurbla/plamet/turbo,true,IX3842
+adidas,10300471_IX3862_000,adidas Predator Pro Hype Torwarthandsch,10300471,adidas,IX3862,Adi_E_TWH,JTJ59,222211,2024-06-28,104090,399,blau,rot,,lucblu/solarred/white,true,IX3862
+adidas,10300472_IX3831_000,adidas COPA League Vivid Horizon,10300472,adidas,IX3831,Adi_E_TWH,JTJ49,222211,2024-10-01,104090,399,schwarz,,,aurbla/plamet/turbo,true,IX3831
+adidas,10300473_IX3832_000,adidas Copa League Torwarthandschuhe Ad,10300473,adidas,IX3832,Adi_E_TWH,JTJ49,222211,2024-08-07,104090,399,weiss,blau,,white/lucblu/solarred,true,IX3832
+adidas,10300481_IX3830_000,adidas Copa Pro Torwarthandschuhe Advan,10300481,adidas,IX3830,Adi_E_TWH,JTJ48,222211,2024-06-13,104090,399,weiss,blau,,white/lucblu/solarred,true,IX3830
+adidas,10300485_IX3861_000,adidas Predator COM Torwarthandschuhe A,10300485,adidas,IX3861,Adi_E_TWH,JTJ58,222211,2024-07-16,104090,399,blau,rot,,lucblu/solarred/white,true,IX3861
+adidas,10300488_IX3865_000,adidas Predator Pro Hype Vivid Horizon,10300488,adidas,IX3865,Adi_E_TWH,JTJ61,222211,2024-10-04,104090,399,schwarz,,,turbo/aurbla/turbo,true,IX3865
+adidas,10300489_IX3866_000,adidas Predator Pro Hype TW-Handschuhe,10300489,adidas,IX3866,Adi_E_TWH,JTJ61,222211,2024-06-13,104090,399,blau,rot,,lucblu/solarred/white,true,IX3866
+Puma,10300750_041949_01,PUMA ULTRA Pro NC Torwarthandschuhe For,10300750,PUMA,041949,Puma_E_TWH,041949,222210,2024-08-09,104090,681,blau,orange,,blau,true,041949-01
+Puma,10300764_041923_04,PUMA FUTURE Ultimate NC Torwarthandschu,10300764,PUMA,041923,Puma_E_TWH,041923,222210,2024-08-01,104090,681,blau,orange,,blau,true,041923-04
+Puma,10300769_041948_02,PUMA Torwarthandschuhe Gelb F02,10300769,PUMA,041948,Puma_E_TWH,041948,222210,2024-10-10,104090,681,gelb,blau,,gelb,true,041948-02
+Puma,10301213_041924_04,PUMA FUTURE Pro Hybrid Torwarthandschuh,10301213,PUMA,041924,Puma_E_TWH,041924,,2024-07-22,104090,681,blau,orange,,bluemazing-sunset glow-electric peppermint,true,041924-04
+Puma,10301246_041926_04,PUMA FUTURE Match NC Torwarthandschuhe,10301246,PUMA,041926,Puma_E_TWH,041926,,2024-08-01,104090,681,blau,orange,,bluemazing-sunset glow-electric peppermint,true,041926-04
+Puma,10301247_041926_05,PUMA FUTURE Match NC Torwarthandschuhe,10301247,PUMA,041926,Puma_E_TWH,041926,222210,2024-11-12,104090,681,grau,gruen,,gray skies-fizzy apple,true,041926-05
+Puma,10301251_042056_01,PUMA FUTURE Pro Vol. Up Hybrid Torwarth,10301251,PUMA,042056,Puma_E_TWH,042056,,2024-09-13,104090,681,weiss,rosa,,puma white-poison pink-luminous blue,true,042056-01
+Puma,10301276_041950_01,PUMA ULTRA Pro NC Torwarthandschuhe Pin,10301276,PUMA,041950,Puma_E_TWH,041950,202407,2024-08-09,104090,681,rosa,orange,,lapis lazuli-sunset glow,true,041950-01
+Puma,10301291_042054_01,PUMA PUMA ULTRA Ultimate Tricks Hybrid,10301291,PUMA,042054,Puma_E_TWH,042054,,2024-08-01,104090,681,orange,orange,,sunset glow-sun stream,true,042054-01
+Puma,10301303_041923_06,PUMA FUTURE Ultimate NC Torwarthandschu,10301303,PUMA,041923,Puma_E_TWH,041923,,2024-09-23,104090,681,schwarz,silber,,puma black-puma silver,true,041923-06
+Puma,10301304_041923_07,PUMA FUTURE Ultimate NC Torwarthandschu,10301304,PUMA,041923,Puma_E_TWH,041923,,2024-08-01,104090,681,weiss,silber,,puma white-puma silver,true,041923-07
+Puma,10301309_042055_01,PUMA FUTURE Ultimate Tricks NC Torwarth,10301309,PUMA,042055,Puma_E_TWH,042055,,2024-08-09,104090,681,orange,orange,,sunset glow-sun stream,true,042055-01
+Puma,10301311_041948_01,PUMA Torwarthandschuhe Rosa F01,10301311,PUMA,041948,Puma_E_TWH,041948,202407,2024-09-11,104090,681,rosa,orange,,lapis lazuli-sunset glow,true,041948-01
+Puma,10301312_041948_03,PUMA Torwarthandschuhe Schwarz F03,10301312,PUMA,041948,Puma_E_TWH,041948,202407,2024-07-08,104090,681,schwarz,silber,,puma black-puma silver,true,041948-03
+Puma,10301407_042002_38,PUMA FUTURE Pro Hybrid GKC Torwarthands,10301407,PUMA,042002,Puma_E_TWH,042002,,2024-08-15,104090,681,weiss,orange,,alpine snow-fall foliage,true,042002-38
+Puma,10309533_041925_04,PUMA FUTURE Pro SGC Torwarthandschuhe B,10309533,PUMA,041925,Puma_E_TWH,041925,222210,2024-09-26,104090,681,blau,rosa,,bluemazing-sunset glow-electric peppermint,true,041925-04AA
+NIKE,10313192_HQ0255_702,Nike Torwarthandschuhe Grün F702,10313192,Nike,HQ0255,Nike_E_TWH,HQ0255,222212,2024-10-30,104090,409,gruen,,,volt/barely volt/black,true,HQ0255-702
+NIKE,10313194_HQ0256_702,Nike Torwarthandschuhe Grün F702,10313194,Nike,HQ0256,Nike_E_TWH,HQ0256,222212,2024-10-30,104090,409,gruen,,,volt/black/metallic silver,true,HQ0256-702
+NIKE,10313204_HQ0259_702,Nike Torwarthandschuhe Grün F702,10313204,Nike,HQ0259,Nike_E_TWH,HQ0259,222212,2024-12-11,104090,409,gruen,,,volt/barely volt/black,true,HQ0259-702
+NIKE,10313529_HQ0304_702,Nike Torwarthandschuhe Grün F702,10313529,Nike,HQ0304,Nike_E_TWH,HQ0304,222212,2024-11-05,104090,409,gruen,,,volt/black/metallic silver,true,HQ0304-702
+NIKE,10317254_HQ0316_702,Nike GK Vapor Grip 3 Promo TW-Handschuh,10317254,Nike,HQ0316,Nike_E_TWH,HQ0316,201711,2024-10-31,104090,409,gelb,schwarz,,volt/barely volt/black,true,HQ0316-702
+NIKE,10317255_HQ3868_702,Nike GK Vapor Grip 3 Promo TW-Handschuh,10317255,Nike,HQ3868,Nike_E_TWH,HQ3868,201711,2024-10-31,104090,409,gelb,schwarz,,volt/black/metallic silver,true,HQ3868-702
+reusch,10322184_5572200_7707,Reusch Fastgrip Silver 2025 TW-Handschu,10322184,Reusch,5572200,Reu_K_TWH,5572200,222202,2025-01-17,104090,401,schwarz,gold,,black/gold,true,5572200-7707
+reusch,10322189_5570039_1125,Reusch Attrakt SpeedBump TW-Handschuhe,10322189,Reusch,5570039,Reu_E_TWH,5570039,222202,2025-01-21,104090,401,weiss,silber,,white/silver/black,true,5570039-1125
+reusch,10322192_5570000_7700,Reusch Fastgrip Duo TW-Handschuhe Schwa,10322192,Reusch,5570000,Reu_E_TWH,5570000,222202,2025-06-12,104090,401,schwarz,,,black,true,5570000-7700
+reusch,10322193_5570001_1100,Reusch Torwarthandschuhe Weiß,10322193,Reusch,5570001,Reu_E_TWH,5570001,222202,2025-06-12,104090,401,weiss,,,white,true,5570001-1100
+reusch,10322194_5570235_2025,Reusch Attrakt Freegel Silver TW-Handsc,10322194,Reusch,5570235,Reu_E_TWH,5570235,222202,2025-01-21,104090,401,gelb,silber,,safety yellow/silver/black,true,5570235-2025
+reusch,10322195_5570235_7075,Reusch Attrakt Freegel Silver 2025 TW-H,10322195,Reusch,5570235,Reu_E_TWH,5570235,222202,2025-08-05,104090,401,schwarz,gold,,black/gold/fiery red,true,5570235-7075
+reusch,10322198_5570545_4310,Reusch Attrakt Grip TW-Handschuhe Blau,10322198,Reusch,5570545,Reu_E_TWH,5570545,222202,2025-02-17,104090,401,blau,rosa,,blue/pink/white,true,5570545-4310
+reusch,10322199_5570055_2025,Reusch Attrakt Duo Evolution TW-Handsch,10322199,Reusch,5570055,Reu_E_TWH,5570055,222202,2025-01-21,104090,401,gelb,silber,,safety yellow/silver/black,true,5570055-2025
+reusch,10322200_5570700_7700,Reusch Fastgrip Infinity 2025 TW-Handsc,10322200,Reusch,5570700,Reu_E_TWH,5570700,222202,2025-01-17,104090,401,schwarz,,,black,true,5570700-7700
+reusch,10322201_5570555_4310,Reusch Attrakt Grip Evolution TW-Handsc,10322201,Reusch,5570555,Reu_E_TWH,5570555,222202,2025-02-17,104090,401,blau,rosa,,blue/pink/white,true,5570555-4310
+reusch,10322202_5570135_2500,Reusch Torwarthandschuhe Orange,10322202,Reusch,5570135,Reu_E_TWH,5570135,222202,2025-08-05,104090,401,orange,blau,,shocking orange/energize blue,true,5570135-2500
+reusch,10322203_5570200_7707,Reusch Fastgrip Silver TW-Handschuhe 20,10322203,Reusch,5570200,Reu_E_TWH,5570200,222202,2025-01-17,104090,401,schwarz,gold,,black/gold,true,5570200-7707
+reusch,10322205_5570745_7700,Reusch Attrakt Infinity TW-Handschuhe 2,10322205,Reusch,5570745,Reu_E_TWH,5570745,222202,2025-01-21,104090,401,schwarz,,,black,true,5570745-7700
+reusch,10322206_5570756_7777,Reusch Venomous Infinity Torwarthandsch,10322206,Reusch,5570756,Reu_E_TWH,5570756,222202,2025-12-19,104090,401,gruen,,,cosmic immersion,true,5570756-7777
+reusch,10322209_5570900_7707,Reusch Fastgrip Fusion Torwarthandschuh,10322209,Reusch,5570900,Reu_E_TWH,5570900,222202,2025-01-17,104090,401,schwarz,gold,,black/gold,true,5570900-7707
+reusch,10322211_5570901_1100,Reusch Fastgrip Gold X TW-Handschuhe 20,10322211,Reusch,5570901,Reu_E_TWH,5570901,222202,2025-01-17,104090,401,weiss,,,white,true,5570901-1100
+reusch,10322214_5570955_2025,Reusch Attrakt Gold X NC TW-Handschuhe,10322214,Reusch,5570955,Reu_E_TWH,5570955,222202,2025-01-21,104090,401,gelb,silber,,safety yellow/silver/black,true,5570955-2025
+reusch,10322215_5570455_1126,Reusch Attrakt Aqua Evolution TW-Handsc,10322215,Reusch,5570455,Reu_E_TWH,5570455,222202,2025-01-21,104090,401,weiss,schwarz,,white/black/aqua blue,true,5570455-1126
+reusch,10322216_5570535_4310,Reusch Attrakt Grip NC TW-Handschuhe Bl,10322216,Reusch,5570535,Reu_E_TWH,5570535,222202,2025-02-17,104090,401,blau,rosa,,blue/pink/white,true,5570535-4310
+reusch,10322218_5570983_2500,Reusch Attrakt Fusion TW-Handschuhe F25,10322218,Reusch,5570983,Reu_E_TWH,5570983,222202,2025-08-05,104090,401,orange,blau,,shocking orange/energize blue,true,5570983-2500
+reusch,10322219_5570735_7700,Reusch Attrakt Infinity TW-Handschuhe 2,10322219,Reusch,5570735,Reu_E_TWH,5570735,222202,2025-01-21,104090,401,schwarz,,,black,true,5570735-7700
+reusch,10322221_5570984_2500,Reusch Torwarthandschuhe Orange,10322221,Reusch,5570984,Reu_E_TWH,5570984,222202,2025-08-05,104090,401,orange,blau,,shocking orange/energize blue,true,5570984-2500
+reusch,10322222_5570725_1125,Reusch Attrakt Infinity NC TW-Handschuh,10322222,Reusch,5570725,Reu_E_TWH,5570725,222202,2025-01-21,104090,401,weiss,silber,,white/silver/black,true,5570725-1125
+reusch,10322223_5570725_7700,Reusch Attrakt Infinity NC TW-Handschuh,10322223,Reusch,5570725,Reu_E_TWH,5570725,222202,2025-01-21,104090,401,schwarz,,,black,true,5570725-7700
+reusch,10322224_5570985_2025,Reusch Attrakt Fusion Guardian TW-Hands,10322224,Reusch,5570985,Reu_E_TWH,5570985,222202,2025-01-21,104090,401,gelb,silber,,safety yellow/silver/black,true,5570985-2025
+reusch,10322225_5570995_1125,Reusch Attrakt Freegel Fusion TW-Handsc,10322225,Reusch,5570995,Reu_E_TWH,5570995,222202,2025-01-21,104090,401,weiss,silber,,white/silver/black,true,5570995-1125
+reusch,10322226_5570956_7777,Reusch Venomous Gold X TW-Handschuhe F7,10322226,Reusch,5570956,Reu_E_TWH,5570956,222202,2025-12-19,104090,401,gruen,,,cosmic immersion,true,5570956-7777
+reusch,10322227_5570935_1125,Reusch Attrakt Freegel Gold X TW-Handsc,10322227,Reusch,5570935,Reu_E_TWH,5570935,222202,2025-01-21,104090,401,weiss,silber,,white/silver/black,true,5570935-1125
+reusch,10322228_5570998_7784,Reusch Attrakt Fusion Carbon TW-Handsch,10322228,Reusch,5570998,Reu_E_TWH,5570998,222202,2025-05-06,104090,401,schwarz,orange,,black/shocking orange/black,true,5570998-7784
+reusch,10322229_5570964_2025,Reusch Attrakt Gold Evolution TW-Handsc,10322229,Reusch,5570964,Reu_E_TWH,5570964,222202,2025-01-21,104090,401,gelb,silber,,safety yellow/silver/black,true,5570964-2025
+reusch,10322231_5570974_7075,Reusch Attrakt Gold Glue Print TW-Hands,10322231,Reusch,5570974,Reu_E_TWH,5570974,222202,2025-03-07,104090,401,schwarz,gold,,black/gold/fiery red,true,5570974-7075
+reusch,10322233_5570975_2025,Reusch Attrakt Gold NC Gravity TW-Hands,10322233,Reusch,5570975,Reu_E_TWH,5570975,222202,2025-01-21,104090,401,gelb,silber,,safety yellow/silver/black,true,5570975-2025
+reusch,10322236_5570979_7782,Reusch Attrakt Freegel Fusion TW-Handsc,10322236,Reusch,5570979,Reu_E_TWH,5570979,222202,2025-04-09,104090,401,schwarz,,,black/bachelor button,true,5570979-7782
+reusch,10322238_5572100_7707,Reusch Fastgrip Gold TW-Handschuhe 2025,10322238,Reusch,5572100,Reu_K_TWH,5572100,222202,2025-01-17,104090,401,schwarz,gold,,black/gold,true,5572100-7707
+reusch,10322242_5572725_4468,Reusch Attrakt Infinity TW-Handschuhe 2,10322242,Reusch,5572725,Reu_K_TWH,5572725,222202,2025-01-21,104090,401,blau,orange,,electric blue/shocking orange/black,true,5572725-4468
+reusch,10322244_5572235_2025,Reusch Attrakt Freegel TW-Handschuhe Ki,10322244,Reusch,5572235,Reu_K_TWH,5572235,222202,2025-01-21,104090,401,gelb,silber,,safety yellow/silver/black,true,5572235-2025
+reusch,10322245_5572235_7075,Reusch Attrakt Freegel TW-Handschuhe Ki,10322245,Reusch,5572235,Reu_K_TWH,5572235,222202,2024-12-16,104090,401,schwarz,gold,,black/gold/fiery red,false,5572235-7075
+reusch,10322251_5572900_7707,Reusch Fastgrip Fusion TW-Handschuhe Ki,10322251,Reusch,5572900,Reu_K_TWH,5572900,222202,2025-01-17,104090,401,schwarz,gold,,black/gold,true,5572900-7707
+reusch,10322252_5572955_2025,Reusch Attrakt Gold TW-Handschuhe Kids,10322252,Reusch,5572955,Reu_K_TWH,5572955,222202,2025-01-21,104090,401,gelb,silber,,safety yellow/silver/black,true,5572955-2025
+reusch,10322253_5572945_2025,Reusch Attrakt Fusion TW-Handschuhe Kid,10322253,Reusch,5572945,Reu_K_TWH,5572945,222202,2025-01-22,104090,401,gelb,silber,,safety yellow/silver/black,true,5572945-2025
+NIKE,10322891_HQ0255_850,Nike Torwarthandschuhe Orange F850,10322891,Nike,HQ0255,Nike_E_TWH,HQ0255,222212,2025-01-23,104090,409,orange,gruen,,ember glow/aurora green/aurora green,true,HQ0255-850
+NIKE,10322892_HQ0256_850,Nike Torwarthandschuhe Orange F850,10322892,Nike,HQ0256,Nike_E_TWH,HQ0256,222212,2025-01-29,104090,409,orange,gruen,,ember glow/aurora green/aurora green,true,HQ0256-850
+NIKE,10322986_HQ0304_850,Nike Torwarthandschuhe Orange F850,10322986,Nike,HQ0304,Nike_E_TWH,HQ0304,202504,2025-04-24,104090,409,orange,gruen,,ember glow/aurora green/aurora green,true,HQ0304-850
+reusch,10323217_5460934_6027,Reusch Attrakt Freegel X Torwarthandsch,10323217,Reusch,5460934,Reu_E_TWH,5460934,222202,2025-01-10,104090,401,gold,,,gold,true,5460934-6027
+reusch,10323236_5560735_7784,Reusch Attrakt Freegel TW-Handschuhe F7,10323236,Reusch,5560735,Reu_E_TWH,5560735,222202,2025-07-23,104090,401,schwarz,orange,,black/shocking orange,true,5560735-7784
+reusch,10323237_5560764_7052,Reusch Torwarthandschuhe Schwarz,10323237,Reusch,5560764,Reu_E_TWH,5560764,222202,2025-12-19,104090,401,schwarz,gelb,,black/safety yellow/blck,true,5560764-7052
+reusch,10323238_5560901_7750,Reusch Fastgrip Gold TW-Handschuhe Schw,10323238,Reusch,5560901,Reu_E_TWH,5560901,222202,2025-06-13,104090,401,schwarz,rot,,black/bright red,true,5560901-7750
+reusch,10323240_5560908_7435,Reusch Torwarthandschuhe Schwarz,10323240,Reusch,5560908,Reu_E_TWH,5560908,222202,2025-07-23,104090,401,schwarz,blau,,black/deep blue,true,5560908-7435
+reusch,10323241_5560964_7052,Reusch Attrakt AB1 Duo TW-Handschuhe F7,10323241,Reusch,5560964,Reu_E_TWH,5560964,222202,2025-09-17,104090,401,schwarz,gelb,,black/safety yellow/blck,true,5560964-7052
+Puma,10325073_42073_01,PUMA FUTURE Ultimate NC Torwarthandschu,10325073,PUMA,042073,Puma_E_TWH,42073,222210,2024-12-06,104090,681,weiss,gruen,,puma white-fluo green-fluo yellow,true,42073-01
+adidas,10327791_IW6276_IW6276,adidas Predator Pro Torwarthandschuhe R,10327791,adidas,IW6276,Adi_E_TWH,JNW37,222211,2025-01-09,104090,399,rot,schwarz,,lucred/black/purrub,true,IW6276-IW6276
+adidas,10327792_JF8899_JF8899,adidas Predator Pro Celestial Victory T,10327792,adidas,JF8899,Adi_E_TWH,JNW37,202503,2025-04-07,104090,399,weiss,gruen,,white/luclem/lucpnk,true,JF8899-JF8899
+adidas,10327793_JF8900_JF8900,adidas Predator Pro Torwarthandschuhe S,10327793,adidas,JF8900,Adi_E_TWH,JNW37,222211,2025-01-23,104090,399,schwarz,schwarz,,black/black/lucred,true,JF8900-JF8900
+adidas,10327794_JM8335_JM8335,adidas Predator Pro Torwarthandschuhe W,10327794,adidas,JM8335,Adi_E_TWH,JNW37,202412,2024-12-09,104090,399,weiss,lila,,white/purrub/black,true,JM8335-JM8335
+adidas,10327795_JN0242_JN0242,adidas Predator Pro Torwarthandschuhe M,10327795,adidas,JN0242,Adi_E_TWH,JNW37,222211,2025-03-11,104090,399,gruen,rosa,,luclem/lucpnk,true,JN0242-JN0242
+adidas,10327903_JH3787_JH3787,adidas COPA Pro PC Celestial Victory To,10327903,adidas,JH3787,Adi_E_TWH,KWA36,202503,2025-04-30,104090,399,blau,blau,,blufus/halblu/luclem,true,JH3787-JH3787
+adidas,10327904_JH3788_JH3788,adidas COPA Pro PC Pure Vicotry Torwart,10327904,adidas,JH3788,Adi_E_TWH,KWA36,222211,2025-01-09,104090,399,weiss,rot,,white/lucred/black,true,JH3788-JH3788
+adidas,10327924_JH3793_JH3793,adidas COPA League Celestial Victory To,10327924,adidas,JH3793,Adi_E_TWH,KWA39,222211,2025-01-09,104090,399,weiss,rot,,white/lucred/black,true,JH3793-JH3793
+adidas,10327925_JH3794_JH3794,adidas COPA League Celestial Victory To,10327925,adidas,JH3794,Adi_E_TWH,KWA39,202503,2025-03-27,104090,399,blau,blau,,blufus/halblu/luclem,true,JH3794-JH3794
+adidas,10328146_IW6378_IW6378,adidas COPA Pro Pure Vicotry Torwarthan,10328146,adidas,IW6378,Adi_E_TWH,JNW70,222211,2025-01-09,104090,399,weiss,rot,,white/lucred/black,true,IW6378-IW6378
+adidas,10328147_JF8897_JF8897,adidas COPA Pro Celestial Victory Torwa,10328147,adidas,JF8897,Adi_E_TWH,JNW70,202503,2026-01-23,104090,399,blau,blau,,blufus/halblu/luclem,true,JF8897-JF8897
+adidas,10328148_JJ2204_JJ2204,adidas COPA Pro Torwarthandschuhe Steal,10328148,adidas,JJ2204,Adi_E_TWH,JNW70,222211,2025-01-23,104090,399,schwarz,schwarz,,black/black/lucred,true,JJ2204-JJ2204
+adidas,10328176_JH3813_JH3813,adidas Predator Pro Pure Victory Torwar,10328176,adidas,JH3813,Adi_E_TWH,KWA50,222211,2025-01-16,104090,399,rot,schwarz,,lucred/black/white,true,JH3813-JH3813
+adidas,10328193_JH3814_JH3814,adidas Predator Pro Hybrid Pure Vicotry,10328193,adidas,JH3814,Adi_E_TWH,KWA51,222211,2025-01-09,104090,399,rot,lila,,lucred/purrub/black,true,JH3814-JH3814
+adidas,10328194_JH3815_JH3815,adidas Predator Pro Hybrid Celestial Vi,10328194,adidas,JH3815,Adi_E_TWH,KWA51,202503,2025-04-17,104090,399,weiss,gruen,,white/luclem/lucpnk,true,JH3815-JH3815
+adidas,10328196_JM8344_JM8344,adidas Predator Pro Hybrid Champagne To,10328196,adidas,JM8344,Adi_E_TWH,KWA51,202412,2024-12-09,104090,399,weiss,lila,,owhite/purrub/black,true,JM8344-JM8344
+adidas,10328197_JH3795_JH3795,adidas COPA Pro Pure Victory Torwarthan,10328197,adidas,JH3795,Adi_E_TWH,KWA40,222211,2025-02-04,104090,399,weiss,rot,,white/lucred/black,true,JH3795-JH3795
+adidas,10328198_JH3816_JH3816,adidas Predator Pro FSP Pure Vicotry To,10328198,adidas,JH3816,Adi_E_TWH,KWA52,222211,2025-01-22,104090,399,rot,lila,,lucred/black/purrub,true,JH3816-JH3816
+adidas,10328199_JH3817_JH3817,adidas Predator Pro FSP Celestial Victo,10328199,adidas,JH3817,Adi_E_TWH,KWA52,202503,2025-04-17,104090,399,weiss,gruen,,white/luclem/lucpnk,true,JH3817-JH3817
+adidas,10328201_JH3819_JH3819,adidas Predator League Pure Vicotry Tor,10328201,adidas,JH3819,Adi_E_TWH,KWA54,222211,2025-01-24,104090,399,rot,schwarz,,lucred/black/white,true,JH3819-JH3819
+adidas,10328202_JH3820_JH3820,adidas Predator League Celestial Victor,10328202,adidas,JH3820,Adi_E_TWH,KWA54,202503,2025-03-28,104090,399,weiss,gruen,,white/luclem/lucpnk,true,JH3820-JH3820
+adidas,10328219_JH3821_JH3821,adidas Predator Competition Pure Victor,10328219,adidas,JH3821,Adi_E_TWH,KWA55,222211,2025-01-24,104090,399,rot,schwarz,,lucred/black/white,true,JH3821-JH3821
+adidas,10328255_JH3796_JH3796,adidas COPA League Pure Victory Torwart,10328255,adidas,JH3796,Adi_E_TWH,KWA41,222211,2025-03-11,104090,399,weiss,rot,,white/lucred/black,true,JH3796-JH3796
+adidas,10328263_JH3804_JH3804,adidas Predator Pro FS Pure Victory Tor,10328263,adidas,JH3804,Adi_E_TWH,KWA45,222211,2025-01-09,104090,399,rot,schwarz,,lucred/black/purrub,true,JH3804-JH3804
+adidas,10328598_JH3809_JH3809,adidas Torwarthandschuhe Kids Lila,10328598,adidas,JH3809,Adi_E_TWH,KWA48,222211,2025-01-16,104090,399,lila,rot,schwarz,purrub/lucred/black,true,JH3809-JH3809
+adidas,10328599_JH3810_JH3810,adidas Torwarthandschuhe Kids Grün,10328599,adidas,JH3810,Adi_E_TWH,KWA48,202503,2025-04-07,104090,399,gruen,weiss,rosa,luclem/white/lucpnk,true,JH3810-JH3810
+Puma,10329815_041950_06,PUMA ULTRA Pro Jr NC Torwarthandschuhe,10329815,PUMA,041950,Puma_E_TWH,041950,222210,2025-01-07,104090,681,weiss,,,pumawhiteglowingredpumablack,false,P041950-06
+Puma,10329957_041949_06,PUMA ULTRA Pro NC Torwarthandschuhe Unl,10329957,PUMA,041949,Puma_E_TWH,041949,222210,2025-01-16,104090,681,weiss,,,pumawhiteglowingredpumablack,true,P041949-06
+Puma,10329968_041948_06,PUMA Torwarthandschuhe Weiß F06,10329968,PUMA,041948,Puma_E_TWH,041948,222210,2025-01-16,104090,681,weiss,,,pumawhiteglowingredpumablack,true,P041948-06
+Puma,10329969_041948_07,PUMA Torwarthandschuhe Audacity Blau F0,10329969,PUMA,041948,Puma_E_TWH,041948,222210,2025-04-09,104090,681,blau,,,matteagedsilveryellowalert,true,P041948-07
+Puma,10329970_041948_08,PUMA Torwarthandschuhe Schwarz F08,10329970,PUMA,041948,Puma_E_TWH,041948,222210,2025-01-23,104090,681,schwarz,,,pumablackbrightaqua,true,P041948-08
+Puma,10330005_042066_01,PUMA FUTURE Pro SGC Torwarthandschuhe U,10330005,PUMA,042066,Puma_E_TWH,042066,222210,2025-01-29,104090,681,schwarz,,,pumablackglowingredpurpleglimmer,true,P042066-01
+Puma,10330007_042067_01,PUMA Torwarthandschuhe Schwarz F01,10330007,PUMA,042067,Puma_E_TWH,042067,222210,2025-01-16,104090,681,schwarz,,,pumablackglowingredpurpleglimmer,true,P042067-01
+Puma,10330008_042067_02,PUMA Torwarthandschuhe Audacity Gelb F0,10330008,PUMA,042067,Puma_E_TWH,042067,222210,2025-04-10,104090,681,gelb,,,yellowalertsunstruck,true,P042067-02
+Puma,10330014_042065_01,PUMA Torwarthandschuhe Schwarz F01,10330014,PUMA,042065,Puma_E_TWH,042065,222210,2025-01-16,104090,681,schwarz,,,pumablackglowingredpurpleglimmer,true,P042065-01
+Puma,10330029_042064_01,PUMA Torwarthandschuhe Mehrfarbig F01,10330029,PUMA,042064,Puma_E_TWH,042064,222210,2025-01-16,104090,681,mehrfarbig,,,pumablackglowingredpurpleglimmer,true,P042064-01
+Puma,10330030_042064_02,PUMA Torwarthandschuhe Audacity Gelb F0,10330030,PUMA,042064,Puma_E_TWH,042064,222210,2025-04-11,104090,681,gelb,,,yellowalertsunstruck,true,P042064-02
+Puma,10330031_042064_03,PUMA Torwarthandschuhe Schwarz F03,10330031,PUMA,042064,Puma_E_TWH,042064,222210,2025-01-23,104090,681,schwarz,,,pumablackcoollightgrayflurogreenpes,true,P042064-03
+Puma,10330032_042064_04,PUMA Torwarthandschuhe Weiß F04,10330032,PUMA,042064,Puma_E_TWH,042064,222210,2025-01-23,104090,681,weiss,,,pumawhitepumasilver,true,P042064-04
+uhlsport,10333266_1011363_001,uhlsport Supergrip+ HN Torwarthandschuh,10333266,uhlsport,1011363,Uhl_E_TWH,1011363,222204,2025-02-27,104090,400,mehrfarbig,,,multicolor,true,1011363-001
+uhlsport,10333267_1011364_001,uhlsport Absolutgrip Tight HN Torwartha,10333267,uhlsport,1011364,Uhl_E_TWH,1011364,222204,2025-03-07,104090,400,mehrfarbig,,,multicolor,true,1011364-001
+uhlsport,10333268_1011366_001,uhlsport Absolutgrip HN Pro Torwarthand,10333268,uhlsport,1011366,Uhl_E_TWH,1011366,222204,2025-02-27,104090,400,mehrfarbig,,,multicolor,true,1011366-001
+uhlsport,10333269_1011367_001,uhlsport Supersoft HN Torwarthandschuhe,10333269,uhlsport,1011367,Uhl_E_TWH,1011367,222204,2025-03-07,104090,400,mehrfarbig,,,multicolor,true,1011367-001
+uhlsport,10343159_1011373021113_000,uhlsport FM Premium Edition Ultragrip H,10343159,uhlsport,1011373021113,Uhl_E_TWH,1011373021113,202510,2025-10-15,104090,400,weiss,blau,,weiß/marine/gold,true,1011373021113
+uhlsport,10343160_1011380021113_000,uhlsport FM Premium Edition Supersoft H,10343160,uhlsport,1011380021113,Uhl_E_TWH,1011380021113,202510,2025-10-15,104090,400,weiss,blau,,weiß/marine/gold,true,1011380021113
+uhlsport,10343163_1011373011113_000,uhlsport FM Power Edition Ultragrip HN,10343163,uhlsport,1011373011113,Uhl_E_TWH,1011373011113,202510,2025-10-15,104090,400,rot,schwarz,,fluo rot/schwarz,true,1011373011113
+uhlsport,10343164_1011375021113_000,uhlsport FM Premium Edition Absolutgrip,10343164,uhlsport,1011375021113,Uhl_E_TWH,1011375021113,202510,2025-10-15,104090,400,weiss,blau,,weiß/marine/gold,true,1011375021113
+uhlsport,10343165_1011378011113_000,uhlsport FM Power Edition Absolutgrip H,10343165,uhlsport,1011378011113,Uhl_E_TWH,1011378011113,202510,2025-09-17,104090,400,rot,schwarz,,fluo rot/schwarz,true,1011378011113
+uhlsport,10343166_1011379011113_000,uhlsport FM Power Edition Absolutgrip C,10343166,uhlsport,1011379011113,Uhl_E_TWH,1011379011113,202510,2025-10-15,104090,400,rot,schwarz,,fluo rot/schwarz,true,1011379011113
+adidas,10347678_JZ5793_JZ5793,adidas Copa GL Pro Torwarthandschuhe Ro,10347678,adidas,JZ5793,Adi_E_TWH,KSZ19,52025,2025-06-13,104090,399,weiss,,,zeromt/black/goldmt,true,JZ5793
+adidas,10347686_JZ5795_JZ5795,adidas Copa GL Pro Promo Torwarthandsch,10347686,adidas,JZ5795,Adi_E_TWH,KSZ20,52025,2025-06-02,104090,399,weiss,,,zeromt/black/goldmt,true,JZ5795
+adidas,10347759_JZ5787_JZ5787,adidas Predator GL Pro Torwarthandschuh,10347759,adidas,JZ5787,Adi_E_TWH,KRS25,52025,2025-06-02,104090,399,weiss,,,white/black/aurplu,true,JZ5787
+adidas,10347761_JZ5791_JZ5791,adidas Predator GL Pro Promo Torwarthan,10347761,adidas,JZ5791,Adi_E_TWH,KSZ32,52025,2025-06-02,104090,399,weiss,,,white/black/aurplu,true,JZ5791
+adidas,10347764_JZ5789_JZ5789,adidas Predator GL Pro Hybrid Torwartha,10347764,adidas,JZ5789,Adi_E_TWH,KSZ36,52025,2025-06-02,104090,399,weiss,,,white/black/aurplu,true,JZ5789
+adidas,10347766_JZ5790_JZ5790,adidas Predator GL Pro Hybrid Promo Tor,10347766,adidas,JZ5790,Adi_E_TWH,KSZ38,52025,2025-06-02,104090,399,weiss,,,white/black/aurplu,true,JZ5790
+adidas,10348240_JZ3200_JZ3200,adidas Predator Hybrid Torwarthandschuh,10348240,adidas,JZ3200,Adi_E_TWH,CT101,222211,2025-11-11,104090,399,weiss,blau,,white/broyal/silvmt,true,JZ3200
+HO Soccer,10349519_0520475_000,HO Soccer Guerrero Pro Justice NG Torwa,10349519,HO Soccer,0520475,HO_E_TWH,0520475,,2025-12-19,104090,2865,weiss,,,white,true,H0520475
+HO Soccer,10349520_0520479_000,HO Soccer SSG Kontrol Knit Tech II Torw,10349520,HO Soccer,0520479,HO_E_TWH,0520479,,2025-12-23,104090,2865,weiss,rot,,white-red,true,H0520479
+HO Soccer,10349521_0520481_000,HO Soccer SSG Legend III NG Torwarthand,10349521,HO Soccer,0520481,HO_E_TWH,0520481,,2025-12-22,104090,2865,blau,,,ocean blue,true,H0520481
+HO Soccer,10349522_0520483_000,HO Soccer First Evolution IV Torwarthan,10349522,HO Soccer,0520483,HO_E_TWH,0520483,,2025-12-23,104090,2865,orange,,,orange,true,H0520483
+HO Soccer,10349523_0520487_000,HO Soccer Krotalus II NG Torwarthandsch,10349523,HO Soccer,0520487,HO_E_TWH,0520487,,2026-01-09,104090,2865,gruen,schwarz,,lime black,true,H0520487
+adidas,10349530_JN5343_JN5343,adidas Copa League Torwarthandschuhe We,10349530,adidas,JN5343,Adi_E_TWH,JN5343,,2025-12-19,104090,399,weiss,blau,,off white/lucid blue/signal coral,true,JN5343
+adidas,10349534_JJ3533_JJ3533,adidas Predator Pro Torwarthandschuhe O,10349534,adidas,JJ3533,Adi_E_TWH,JJ3533,202511,2025-10-15,104090,399,orange,weiss,,signal coral/white/lucid blue,true,JJ3533
+adidas,10349537_JN5357_JN5357,adidas Predator Pro Promo Torwarthandsc,10349537,adidas,JN5357,Adi_E_TWH,JN5357,,2025-10-15,104090,399,orange,weiss,,signal coral/white/lucid blue,true,JN5357
+adidas,10349538_JN5336_JN5336,adidas Copa Pro Torwarthandschuhe Weiß,10349538,adidas,JN5336,Adi_E_TWH,JN5336,,2025-11-11,104090,399,weiss,blau,,off white/lucid blue/signal coral,true,JN5336
+adidas,10349539_JN5359_JN5359,adidas Predator Pro Match Torwarthandsc,10349539,adidas,JN5359,Adi_E_TWH,JN5359,202511,2025-10-15,104090,399,orange,weiss,,signal coral/white/lucid blue,true,JN5359
+adidas,10349540_JN5369_JN5369,adidas Predator League Torwarthandschuh,10349540,adidas,JN5369,Adi_E_TWH,JN5369,202511,2025-10-15,104090,399,orange,weiss,,signal coral/white/lucid blue,true,JN5369
+adidas,10349543_JN6043_JN6043,adidas Predator Pro Hybrid Torwarthands,10349543,adidas,JN6043,Adi_E_TWH,JN6043,202511,2025-10-15,104090,399,orange,weiss,,signal coral/white/lucid blue,true,JN6043
+adidas,10349545_JN5364_JN5364,adidas Predator Pro Hybrid Torwarthands,10349545,adidas,JN5364,Adi_E_TWH,JN5364,202511,2025-11-21,104090,399,orange,weiss,,signal coral/white/lucid blue,true,JN5364
+adidas,10349570_JN5366_JN5366,adidas Predator Pro Promo Torwarthandsc,10349570,adidas,JN5366,Adi_E_TWH,JN5366,202511,2025-10-15,104090,399,orange,weiss,,signal coral/white/lucid blue,true,JN5366
+adidas,10349968_JJ3532_000,adidas Predator Pro Torwarthandschuhe R,10349968,adidas,JJ3532,Adi_E_TWH,KRS25,202507,2025-07-21,104090,399,gruen,weiss,,luclem/white/black,true,JJ3532
+adidas,10349968_JJ3532_JJ3532,adidas Predator Pro Torwarthandschuhe R,10349968,adidas,JJ3532,Adi_E_TWH,KRS25,202507,2025-07-21,104090,399,gruen,weiss,,luclem/white/black,true,JJ3532
+adidas,10349970_JN5334_000,adidas Copa Pro Torwarthandschuhe Radia,10349970,adidas,JN5334,Adi_E_TWH,KSZ19,202507,2025-07-22,104090,399,schwarz,schwarz,,black/black/luclem,true,JN5334
+adidas,10349971_JN5346_000,adidas Copa Pro Kids Radiant Blaze,10349971,adidas,JN5346,Adi_E_TWH,KSZ25,202507,2025-07-22,104090,399,schwarz,schwarz,,black/black/luclem,true,JN5346
+adidas,10349972_JN5363_000,adidas Predator Pro Kids Radiant Blaze,10349972,adidas,JN5363,Adi_E_TWH,KSZ35,202507,2025-07-22,104090,399,gruen,weiss,,luclem/white/black,true,JN5363
+Puma,10350018_042065_11,PUMA Future Pro Hybrid Torwarthandschuh,10350018,PUMA,042065,Puma_E_TWH,042065,222210,2025-07-23,104090,,weiss,,,puma white-glowing red-ultra blue,true,P042065-11
+Puma,10350019_042064_11,PUMA Future Ultimate Nc Torwarthandschu,10350019,PUMA,042064,Puma_E_TWH,042064,222210,2025-07-23,104090,,weiss,,,puma white-glowing red-ultra blue,true,P042064-11
+Puma,10350041_042081_01,PUMA Ultra Ultimate Hybrid Torwarthands,10350041,PUMA,042081,Puma_E_TWH,042081,222210,2025-07-23,104090,,blau,,,ultra blue-glowing red,true,P042081-01
+Puma,10350042_042081_03,PUMA Ultra Ultimate Hybrid Torwarthands,10350042,PUMA,042081,Puma_E_TWH,042081,222210,2025-07-23,104090,,schwarz,,,puma black-green terrain-fizzy light,true,P042081-03
+Puma,10350043_042082_01,PUMA Ultra Pro Nc Torwarthandschuhe Bla,10350043,PUMA,042082,Puma_E_TWH,042082,222210,2025-07-23,104090,,blau,,,ultra blue-glowing red,true,P042082-01
+Puma,10350045_042088_01,PUMA Ultra Pro Nc Torwarthandschuhe Kid,10350045,PUMA,042088,Puma_E_TWH,042088,222210,2025-07-23,104090,,blau,,,ultra blue-glowing red,true,P042088-01
+Puma,10351382_042082_11,PUMA ULTRA Pro NC Torwarthandschuhe Gel,10351382,PUMA,042082,Puma_E_TWH,042082,222210,2025-11-11,104090,681,gelb,,,yellow alert-puma black,true,P042082-11
+Puma,10351384_042081_11,PUMA ULTRA Ultimate Hybrid Torwarthands,10351384,PUMA,042081,Puma_E_TWH,042081,222210,2025-11-25,104090,681,gelb,,,yellow alert-puma black,true,P042081-11
+Puma,10351393_042123_01,PUMA FUTURE Pro SGC Torwarthandschuhe O,10351393,PUMA,042123,Puma_E_TWH,042123,222210,2025-12-23,104090,681,orange,,,glowing red-puma red-puma black,true,P042123-01
+adidas,10351458_JN5345_JN5345,adidas Copa GL League Torwarthandschuhe,10351458,adidas,JN5345,Adi_E_TWH,KSZ24,202507,2025-07-22,104090,399,schwarz,schwarz,,black/black/luclem,true,JN5345
+adidas,10351476_JJ3531_JJ3531,adidas Predator Pro Torwarthandschuhe S,10351476,adidas,JJ3531,Adi_E_TWH,KRS25,,2025-07-28,104090,399,schwarz,grau,,black/carbon/luclem,true,JJ3531
+adidas,10351477_JN5335_JN5335,adidas Copa Pro Torwarthandschuhe Schwa,10351477,adidas,JN5335,Adi_E_TWH,KSZ19,202509,2025-08-18,104090,399,schwarz,grau,,black/carbon/luclem,true,JN5335
+adidas,10351496_JN5358_JN5358,adidas Predator Pro PC Torwarthandschuh,10351496,adidas,JN5358,Adi_E_TWH,KSZ32,202507,2025-07-21,104090,399,gruen,weiss,,luclem/white/black,true,JN5358
+adidas,10351497_JN5368_JN5368,adidas Predator Pro Hybrid PC Torwartha,10351497,adidas,JN5368,Adi_E_TWH,KSZ38,202507,2025-08-13,104090,399,gruen,weiss,,luclem/white/black,true,JN5368
+adidas,10351498_JN5365_JN5365,adidas Predator Pro Hybrid Torwarthands,10351498,adidas,JN5365,Adi_E_TWH,KSZ36,202507,2025-08-05,104090,399,gruen,weiss,,luclem/white/black,true,JN5365
+adidas,10351500_JN5371_JN5371,adidas Predator Competition Torwarthand,10351500,adidas,JN5371,Adi_E_TWH,KSZ40,202507,2025-08-13,104090,399,gruen,weiss,,luclem/white/black,true,JN5371
+Puma,10351565_042122_01,PUMA FUTURE Pro Hybrid Torwarthandschuh,10351565,PUMA,042122,Puma_E_TWH,042122,222210,2026-04-13,104090,681,rot,,,glowing red-puma red-puma black,true,P042122-01
+adidas,10351666_JN5344_JN5344,adidas Copa League Torwarthandschuhe Ra,10351666,adidas,JN5344,Adi_E_TWH,KSZ23,202507,2025-08-05,104090,399,schwarz,schwarz,,black/black/luclem,true,JN5344
+adidas,10351669_JN5347_JN5347,adidas Copa Match Fingersave Torwarthan,10351669,adidas,JN5347,Adi_E_TWH,KSZ26,202507,2025-08-05,104090,399,schwarz,schwarz,,black/black/luclem,true,JN5347
+adidas,10351714_JN5360_JN5360,adidas Predator Match Fingersave Torwar,10351714,adidas,JN5360,Adi_E_TWH,KSZ33,202507,2025-07-21,104090,399,gruen,weiss,,luclem/white/black,true,JN5360
+adidas,10351718_JN5354_JN5354,adidas Predator Pro Fingersave Torwarth,10351718,adidas,JN5354,Adi_E_TWH,KSZ30,202507,2025-07-22,104090,399,gruen,weiss,,luclem/white/black,true,JN5354
+adidas,10351723_JN5367_JN5367,adidas Predator Pro Fingersave PC Torwa,10351723,adidas,JN5367,Adi_E_TWH,KSZ37,202507,2025-07-22,104090,399,gruen,weiss,,luclem/white/black,true,JN5367
+adidas,10351726_JN5370_JN5370,adidas Predator League Torwarthandschuh,10351726,adidas,JN5370,Adi_E_TWH,KSZ39,202507,2025-08-13,104090,399,gruen,weiss,,luclem/white/black,true,JN5370
+adidas,10352646_JX1624_000,adidas Copa Pro Injection Torwarthandsc,10352646,adidas,JX1624,Adi_E_TWH,TY646,222211,2025-08-18,104090,399,orange,,,sorang/eneink/black,true,JX1624
+NIKE,10361431_HQ0304_830,Nike VG3 Torwarthandschuhe Orange F830,10361431,Nike,HQ0304,Nike_E_TWH,HQ0304,,2025-09-29,104090,409,orange,schwarz,,hyper crimson/black/(volt),false,HQ0304-830
+NIKE,10361849_HQ0256_830,Nike Grip3 Torwarthandschuhe Orange F83,10361849,Nike,HQ0256,Nike_E_TWH,HQ0256,,2025-09-29,104090,409,orange,schwarz,,hyper crimson/black/(volt),false,HQ0256-830
+adidas,10363374_KC6351_KC6351,adidas Predator GL Pro Torwarthandschuh,10363374,adidas,KC6351,Adi_E_TWH,L5793,222211,2025-12-10,104090,399,grau,schwarz,,ironmt/black/lucred,true,KC6351
+adidas,10369615_KA7799_KA7799,adidas Predator Competition Torwarthand,10369615,adidas,KA7799,Adi_E_TWH,BT866,222211,2026-01-21,104090,399,weiss,rot,,white/lucred/black,true,KA7799
+adidas,10369616_KF9621_KF9621,adidas Predator Competition Torwarthand,10369616,adidas,KF9621,Adi_E_TWH,BT866,222211,2026-02-18,104090,399,schwarz,rot,,black/lucred/white,true,KF9621
+adidas,10369629_KA7796_KA7796,adidas Predator Pro Hybrid,10369629,adidas,KA7796,Adi_E_TWH,TT232,222211,2026-01-21,104090,399,schwarz,rot,,black/lucred/white,true,KA7796
+adidas,10369676_KA7797_KA7797,adidas Predator Pro Hybrid Promo Torwar,10369676,adidas,KA7797,Adi_E_TWH,UV887,222211,2026-02-25,104090,399,weiss,rot,,white/lucred/black,true,KA7797
+adidas,10369682_KA7810_KA7810,adidas Copa Club League Torwarthandschu,10369682,adidas,KA7810,Adi_E_TWH,ZK550,222211,2026-01-23,104090,399,weiss,rot,,white/lucred/black,true,KA7810
+adidas,10369695_KA7790_KA7790,adidas Predator Match Torwarthandschuhe,10369695,adidas,KA7790,Adi_E_TWH,MLU66,222211,2026-01-21,104090,399,weiss,rot,,white/lucred/black,true,KA7790
+adidas,10369757_KA7801_KA7801,adidas Copa Pro Torwarthandschuhe Weiß,10369757,adidas,KA7801,Adi_E_TWH,RU098,222211,2026-01-23,104090,399,weiss,rot,,white/lucred/black,true,KA7801
+adidas,10369758_KA7802_KA7802,adidas Copa Pro Torwarthandschuhe Schwa,10369758,adidas,KA7802,Adi_E_TWH,RU098,222211,2026-01-23,104090,399,schwarz,rot,,black/lucred/white,true,KA7802
+adidas,10369808_JY6298_JY6298,adidas Predator Pro Promo Torwarthandsc,10369808,adidas,JY6298,Adi_E_TWH,IR915,222211,2026-03-09,104090,399,schwarz,schwarz,,black/black/lucred,true,JY6298
+adidas,10369809_KA7788_KA7788,adidas Predator Pro Promo Torwarthandsc,10369809,adidas,KA7788,Adi_E_TWH,IR915,222211,2026-01-21,104090,399,weiss,rot,,white/lucred/black,true,KA7788
+adidas,10369817_KA7812_KA7812,Adidas Copa League Junior Born for Goals,10369817,adidas,KA7812,Adi_E_TWH,RG714,222211,2026-01-23,104090,399,weiss,rot,,white/lucred/black,true,KA7812
+adidas,10369819_JY6295_JY6295,adidas Predator Pro Torwarthandschuhe W,10369819,adidas,JY6295,Adi_E_TWH,K7899,222211,2026-02-27,104090,399,weiss,rot,,white/lucred/black,true,JY6295
+adidas,10369820_KA7780_KA7780,adidas Predator Pro Torwarthandschuhe S,10369820,adidas,KA7780,Adi_E_TWH,K7899,222211,2026-02-27,104090,399,schwarz,schwarz,,black/black/crsk,true,KA7780
+adidas,10369824_KA7794_KA7794,adidas Predator Pro Torwarthandschuhe K,10369824,adidas,KA7794,Adi_E_TWH,HG244,222211,2026-01-21,104090,399,weiss,rot,,white/lucred/black,true,KA7794
+adidas,10369890_KA7818_KA7818,adidas Copa Pro Torwarthandschuhe Weiß,10369890,adidas,KA7818,Adi_E_TWH,CI205,222211,2026-02-27,104090,399,weiss,rot,,white/lucred/black,true,KA7818
+adidas,10369923_JY6307_JY6307,adidas Predator Pro Hybrid Strap Torwar,10369923,adidas,JY6307,Adi_E_TWH,L5793,222211,2026-01-21,104090,399,weiss,rot,,white/lucred/black,true,JY6307
+adidas,10369969_JY6304_JY6304,adidas Predator Pro Strap Torwarthandsc,10369969,adidas,JY6304,Adi_E_TWH,F5783,222211,2026-02-25,104090,399,weiss,rot,,white/lucred/black,true,JY6304
+NIKE,10370018_IF8190_458,Nike Phantom Dynamic Torwarthandschuhe,10370018,Nike,IF8190,Nike_E_TWH,IF8190,222212,2025-12-10,104090,409,blau,schwarz,,racer blue/black/pink blast,true,IF8190-458
+NIKE,10370026_IF8194_458,Nike Dynamic Torwarthandschuhe Blau F45,10370026,Nike,IF8194,Nike_E_TWH,IF8194,222212,2025-12-10,104090,409,blau,schwarz,,racer blue/black/pink blast,true,IF8194-458
+NIKE,10370068_HQ0304_458,Nike Vapor Grip3 Torwarthandschuhe Blau,10370068,Nike,HQ0304,Nike_E_TWH,HQ0304,222212,2025-12-10,104090,409,blau,schwarz,,racer blue/black/pink blast,true,HQ0304-458
+NIKE,10370070_HQ0256_458,Nike Grip3 Torwarthandschuhe Blau F458,10370070,Nike,HQ0256,Nike_E_TWH,HQ0256,222212,2025-12-10,104090,409,blau,schwarz,,racer blue/black/pink blast,true,HQ0256-458
+adidas,10371616_KA7791_KA7791,adidas Predator Match Fingersave Torwar,10371616,adidas,KA7791,Adi_E_TWH,MLU66,,2026-03-30,104090,399,blau,blau,,crsk/rayblu/syello,true,KA7791
+adidas,10371812_KA7798_KA7798,adidas Predator Pro Hybrid Cut Torwarth,10371812,adidas,KA7798,Adi_E_TWH,UV887,,2026-03-30,104090,399,blau,blau,,crsk/rayblu/syello,true,KA7798
+reusch,10372198_5660735_7752,Reusch Attrakt Freegel Infinity Torwart,10372198,Reusch,5660735,Reu_E_TWH,5660735,222202,2026-03-04,104090,401,schwarz,gelb,,7752 black/safety yellow,true,5660735-7752
+reusch,10372216_5670200_4994,Reusch Fastgrip Advance Torwarthandschu,10372216,Reusch,5670200,Reu_E_TWH,5670200,222202,2026-03-04,104090,401,blau,weiss,,4994 sharp blue/white,true,5670200-4994
+reusch,10372220_5670535_7272,Reusch Attrakt RE:GRIP NC Torwarthandsc,10372220,Reusch,5670535,Reu_E_TWH,5670535,222202,2026-03-04,104090,401,schwarz,blau,,7272 black/ocean light,true,5670535-7272
+reusch,10372223_5670555_7272,Reusch Attrakt RE:GRIP Evolution Torwar,10372223,Reusch,5670555,Reu_E_TWH,5670555,222202,2026-03-04,104090,401,schwarz,blau,,7272 black/ocean light,true,5670555-7272
+reusch,10372224_5670700_7700,Reusch Fastgrip Infinity Torwarthandsch,10372224,Reusch,5670700,Reu_E_TWH,5670700,222202,2026-03-04,104090,401,schwarz,,,7700 black,true,5670700-7700
+reusch,10372234_5670900_4994,Reusch Fastgrip Fusion Torwarthandschuh,10372234,Reusch,5670900,Reu_E_TWH,5670900,222202,2026-03-04,104090,401,blau,weiss,,4994 sharp blue/white,true,5670900-4994
+reusch,10372235_5670901_1100,Reusch Fastgrip Gold X Torwarthandschuh,10372235,Reusch,5670901,Reu_E_TWH,5670901,222202,2026-03-04,104090,401,weiss,,,1100 white,true,5670901-1100
+reusch,10372244_5672200_4994,Reusch Fastgrip Advance Torwarthandschu,10372244,Reusch,5672200,Reu_K_TWH,5672200,222202,2026-03-04,104090,401,blau,weiss,,4994 sharp blue/white,true,5672200-4994
+reusch,10372245_5672700_7700,Reusch Fastgrip Infinity Torwarthandsch,10372245,Reusch,5672700,Reu_K_TWH,5672700,222202,2026-03-04,104090,401,schwarz,,,7700 black,true,5672700-7700
+Puma,10373762_042122_02,PUMA Future Pro Hybrid Torwarthandschuh,10373762,PUMA,042122,Puma_E_TWH,042122,202603,2026-03-04,104090,681,blau,blau,,icy blue-blue jewel,true,P042122-02
+Puma,10373763_042121_02,PUMA Future Ultimate NC Torwarthandschu,10373763,PUMA,042121,Puma_E_TWH,042121,,2026-03-30,104090,681,blau,blau,,icy blue-blue jewel,true,P042121-02
+Puma,10373765_042121_04,PUMA Future Ultimate NC Torwarthandschu,10373765,PUMA,042121,Puma_E_TWH,042121,202603,2026-03-04,104090,681,weiss,gold,,puma white-puma gold,true,P042121-04
+Puma,10373767_042081_12,PUMA Ultra Ultimate Hybrid Torwarthands,10373767,PUMA,042081,Puma_E_TWH,042081,,2026-04-07,104090,681,blau,blau,,icy blue-blue jewel,true,P042081-12
+Puma,10373769_042081_14,PUMA Ultra Ultimate Hybrid Torwarthands,10373769,PUMA,042081,Puma_E_TWH,042081,,2026-03-03,104090,681,weiss,gold,,puma white-puma gold,true,P042081-14
+adidas,10384322_KE6170_KE6170,adidas COPA GL PRO FSP Torwarthandschuh,10384322,adidas,KE6170,Adi_E_TWH,WH987,,2026-04-13,104090,399,grau,weiss,,glogry/luaq/white,true,KE6170
